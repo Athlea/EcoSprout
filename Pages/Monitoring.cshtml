@@ -1,0 +1,110 @@
+@page "/monitoring"
+@model EcoSprout.Pages.MonitoringModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Monitoring - EcoSprout</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/landing.css" asp-append-version="true" />
+    <link rel="stylesheet" href="/css/home.css" asp-append-version="true" />
+    <link rel="stylesheet" href="/css/monitoring.css" asp-append-version="true" />
+    <script src="/js/site.js" defer></script>
+    <script src="/js/login.js" defer></script>
+</head>
+<body>
+    <nav class="landing-nav">
+        <div class="nav-container">
+            <div class="logo">
+                <a href="/">EcoSprout</a>
+            </div>
+            <div class="nav-links">
+                <a href="/home" class="nav-item">Dashboard</a>
+                <a href="/monitoring" class="nav-item active">Monitoring</a>
+                <a href="/reports" class="nav-item">Reports</a>
+                <a href="#" class="nav-button">Log Out</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="monitoring-main">
+        <div class="page-header">
+            <h1>Keep an eye on your plants</h1>
+            <p>Monitor real-time temperature and soil moisture levels for all your plants</p>
+        </div>
+        
+        <div class="plant-cards">
+            <div class="plant-card" onclick="window.location.href='/monitoring/baby-carrots'">
+                <div class="plant-image">
+                    <img src="/images/carrot-sow-and-grow.jpg" alt="Baby Carrots">
+                </div>
+                <div class="plant-info">
+                    <h2>Baby Carrots</h2>
+                    <div class="plant-stats">
+                        <div class="stat">
+                            <span class="stat-label">Temperature:</span>
+                            <span class="stat-value">24°C</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-label">Soil Moisture:</span>
+                            <span class="stat-value">65%</span>
+                        </div>
+                    </div>
+                    <p class="last-updated">Last Updated: 12/30/23, 6:59am</p>
+                </div>
+            </div>
+            
+            <div class="plant-card" onclick="window.location.href='/monitoring/radish'">
+                <div class="plant-image">
+                    <img src="/images/radishblog-lead_d3082c7e-3f90-46a1-aa4b-543f1472e867.jpg" alt="Radish">
+                </div>
+                <div class="plant-info">
+                    <h2>Radish</h2>
+                    <div class="plant-stats">
+                        <div class="stat">
+                            <span class="stat-label">Temperature:</span>
+                            <span class="stat-value">23°C</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-label">Soil Moisture:</span>
+                            <span class="stat-value">70%</span>
+                        </div>
+                    </div>
+                    <p class="last-updated">Last Updated: 12/30/23, 6:59am</p>
+                </div>
+            </div>
+            
+            <div class="plant-card" onclick="window.location.href='/monitoring/lettuce'">
+                <div class="plant-image">
+                    <img src="/images/How-to-Grow-Lettuce-1-600x600.png" alt="Lettuce">
+                </div>
+                <div class="plant-info">
+                    <h2>Lettuce</h2>
+                    <div class="plant-stats">
+                        <div class="stat">
+                            <span class="stat-label">Temperature:</span>
+                            <span class="stat-value">22°C</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-label">Soil Moisture:</span>
+                            <span class="stat-value">75%</span>
+                        </div>
+                    </div>
+                    <p class="last-updated">Last Updated: 12/30/23, 6:59am</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 EcoSprout - Smart Irrigation System</p>
+    </footer>
+</body>
+</html> 

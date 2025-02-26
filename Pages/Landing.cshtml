@@ -1,0 +1,132 @@
+@page "/"
+@model EcoSprout.Pages.LandingModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EcoSprout - Smart Irrigation System</title>
+    <!-- Add Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/landing.css" asp-append-version="true" />
+    <script src="/js/site.js" defer></script>
+    <script src="/js/login.js" defer></script>
+</head>
+<body>
+    <nav class="landing-nav">
+        <div class="nav-container">
+            <div class="logo">
+                <a href="/">EcoSprout</a>
+            </div>
+            <div class="nav-links">
+                <a href="/" class="nav-item">Home</a>
+                <a href="/about-us" class="nav-item">About Us</a>
+                <a href="/offers" class="nav-item">Our Offers</a>
+                <a href="#" class="nav-button">Log In</a>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <!-- First Section: Our Offers -->
+        <section class="section offers-section" id="offers">
+            <div class="hero-content">
+                <h1>Our Offers</h1>
+                <p>
+                    EcoSprout is a smart automatic irrigation system designed to optimize water 
+                    use by monitoring soil moisture and watering only when necessary. It helps 
+                    reduce water waste and lower costs while ensuring plants receive the right 
+                    amount of hydration.
+                </p>
+                <button class="learn-more" onclick="window.location.href='/offers'">Learn more</button>
+            </div>
+            <div class="hero-image"></div>
+        </section>
+
+        <!-- Second Section: Our Mission -->
+        <section class="section mission-section">
+            <div class="mission-content">
+                <h2>OUR MISSION</h2>
+                <p>
+                    At EcoSprout, our mission is to promote efficient and sustainable 
+                    irrigation solutions that conserve water, reduce costs, and support 
+                    healthier plant growth. By combining smart technology with ease of use, 
+                    we aim to make water management simple, intuitive, and more sustainable for everyone.
+                </p>
+                <button class="learn-more">Learn more</button>
+            </div>
+        </section>
+
+        <!-- Third Section: About Us -->
+        <section class="section about-section" id="about">
+            <div class="about-content">
+                <h2>About us</h2>
+                <p>
+                    We are a group of fourth-year Computer Engineering students at Cebu Institute of Technology - University, dedicated to developing an innovative solution to address water scarcity and promote food security by encouraging people to grow their own produce.
+                </p>
+                <p>
+                    Inspired by the increasing need for sustainable farming, we are creating a smart irrigation system that automates plant watering, reducing effort for gardeners and consumers while optimizing water usage. By combining hardware and software, our goal is to make urban and home gardening more accessible, efficient, and eco-friendly, empowering individuals to cultivate their own food with ease.
+                </p>
+                <button class="learn-more" onclick="window.location.href='/about-us'">Know the team</button>
+            </div>
+        </section>
+
+        <!-- Fourth Section: Registration -->
+        <section class="section register-section" id="register">
+            <div class="register-content">
+                <h2>Join EcoSprout</h2>
+                <form class="register-form">
+                    <div class="form-row">
+                        <div class="form-group">
+                            <input type="text" placeholder="First Name" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" placeholder="Last Name" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <input type="email" placeholder="Email" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="password" placeholder="Set Password" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="password" placeholder="Confirm Password" required>
+                    </div>
+                    <button type="submit" class="register-button">Register Now</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 EcoSprout - Smart Irrigation System</p>
+    </footer>
+
+    <!-- Login Popup -->
+    <div id="loginPopup" class="popup">
+        <div class="popup-content">
+            <span class="close-popup">&times;</span>
+            <h2>Log In</h2>
+            <form class="login-form" id="loginForm">
+                <div class="form-group">
+                    <input type="email" id="loginEmail" placeholder="Email" required>
+                </div>
+                <div class="form-group">
+                    <input type="password" id="loginPassword" placeholder="Password" required>
+                </div>
+                <button type="submit" class="login-button">Log In</button>
+                <div class="forgot-password">
+                    <a href="#">Forgot Password?</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html> 

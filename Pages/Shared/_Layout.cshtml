@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - EcoSprout</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <a href="~/">EcoSprout</a>
+            </div>
+            <div class="nav-links">
+                <a href="~/" class="nav-item">Home</a>
+                <a href="~/Monitoring" class="nav-item">Monitoring</a>
+                <a href="~/Report" class="nav-item">Report</a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="main-content">
+        @RenderBody()
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2024 - EcoSprout</p>
+        </div>
+    </footer>
+
+    <script src="~/js/site.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html> 

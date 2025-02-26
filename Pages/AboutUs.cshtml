@@ -1,0 +1,100 @@
+@page "/about-us"
+@model EcoSprout.Pages.AboutUsModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About Us - EcoSprout</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/landing.css" asp-append-version="true" />
+    <link rel="stylesheet" href="/css/about.css" asp-append-version="true" />
+    <script src="/js/site.js" defer></script>
+</head>
+<body>
+    <nav class="landing-nav">
+        <div class="nav-container">
+            <div class="logo">
+                <a href="/">EcoSprout</a>
+            </div>
+            <div class="nav-links">
+                <a href="/" class="nav-item">Home</a>
+                <a href="/about-us" class="nav-item active">About Us</a>
+                <a href="/offers" class="nav-item">Our Offers</a>
+                <a href="#" class="nav-button">Log In</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="about-main">
+        <section class="team-section">
+            <h1>Meet the Team</h1>
+            <div class="team-cards">
+                <div class="team-card">
+                    <div class="team-image">
+                        <img src="/images/ven.jpg" alt="Team Member">
+                    </div>
+                    <h3>Venice Brooke</h3>
+                    <p>Passionate about sustainable technology, I'm dedicated to creating solutions that help people grow their own food while conserving precious water resources.</p>
+                </div>
+                
+                <div class="team-card">
+                    <div class="team-image">
+                        <img src="/images/aud.jpg" alt="Team Member">
+                    </div>
+                    <h3>Audrei Danielle</h3>
+                    <p>With a focus on user-friendly design, I strive to make technology accessible to everyone, enabling sustainable practices through intuitive systems.</p>
+                </div>
+                
+                <div class="team-card">
+                    <div class="team-image">
+                        <img src="/images/ath.jpg" alt="Team Member">
+                    </div>
+                    <h3>Athlea</h3>
+                    <p>Combining my love for engineering and environmental conservation, I'm committed to developing smart solutions that make a positive impact on our planet.</p>
+                </div>
+            </div>
+            
+            <div class="about-content">
+                <h2>Our Story</h2>
+                <p>
+                    We are a group of fourth-year Computer Engineering students at Cebu Institute of Technology - University, dedicated to developing an innovative solution to address water scarcity and promote food security by encouraging people to grow their own produce.
+                </p>
+                <p>
+                    Inspired by the increasing need for sustainable farming, we are creating a smart irrigation system that automates plant watering, reducing effort for gardeners and consumers while optimizing water usage. By combining hardware and software, our goal is to make urban and home gardening more accessible, efficient, and eco-friendly, empowering individuals to cultivate their own food with ease.
+                </p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 EcoSprout - Smart Irrigation System</p>
+    </footer>
+    
+    <!-- Login Popup -->
+    <div id="loginPopup" class="popup">
+        <div class="popup-content">
+            <span class="close-popup">&times;</span>
+            <h2>Log In</h2>
+            <form class="login-form">
+                <div class="form-group">
+                    <input type="email" placeholder="Email" required>
+                </div>
+                <div class="form-group">
+                    <input type="password" placeholder="Password" required>
+                </div>
+                <button type="submit" class="login-button">Log In</button>
+                <div class="forgot-password">
+                    <a href="#">Forgot Password?</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html> 

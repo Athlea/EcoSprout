@@ -1,0 +1,108 @@
+@page "/offers"
+@model OffersModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Our Offers - EcoSprout</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/landing.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/offers.css" asp-append-version="true" />
+    <script src="~/js/site.js" defer></script>
+</head>
+<body>
+    <nav class="landing-nav">
+        <div class="nav-container">
+            <div class="logo">
+                <a href="~/">EcoSprout</a>
+            </div>
+            <div class="nav-links">
+                <a href="~/" class="nav-item">Home</a>
+                <a href="~/about-us" class="nav-item">About Us</a>
+                <a href="~/offers" class="nav-item active">Our Offers</a>
+                <a href="#" class="nav-button">Log In</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="offers-main">
+        <section class="offers-section-page">
+            <h1>Our Offers</h1>
+            <p class="offers-intro">
+                EcoSprout provides smart irrigation solutions designed to optimize water usage and promote sustainable gardening. 
+                Explore our range of products and services below.
+            </p>
+            
+            <div class="offers-cards">
+                <div class="offer-card">
+                    <div class="offer-icon">
+                        <img src="~/images/smart-system.png" alt="Smart System">
+                    </div>
+                    <h3>Smart Irrigation System</h3>
+                    <p>
+                        Our system monitors soil moisture and automatically waters your plants only when necessary, 
+                        reducing water waste while ensuring optimal plant health.
+                    </p>
+                </div>
+                
+                <div class="offer-card">
+                    <div class="offer-icon">
+                        <img src="~/images/mobile-app.png" alt="Mobile App">
+                    </div>
+                    <h3>Website App Control</h3>
+                    <p>
+                        Control your irrigation system from anywhere with our website application. 
+                        Monitor moisture levels, set watering schedules, and receive notifications.
+                    </p>
+                </div>
+                
+                <div class="offer-card">
+                    <div class="offer-icon">
+                        <img src="~/images/installation.png" alt="Installation">
+                    </div>
+                    <h3>Automatic Setting</h3>
+                    <p>
+                        The EcoSprout system connects easily to your garden. When the auto switch is on, it waters your plants automatically, making garden care simple and convenient.
+                    </p>
+                </div>
+            </div>
+            
+            <div class="cta-section">
+                <h2>Ready to optimize your garden?</h2>
+                <button class="learn-more" onclick="window.location.href='~/#register'">Get Started</button>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 EcoSprout - Smart Irrigation System</p>
+    </footer>
+    
+    <!-- Login Popup -->
+    <div id="loginPopup" class="popup">
+        <div class="popup-content">
+            <span class="close-popup">&times;</span>
+            <h2>Log In</h2>
+            <form class="login-form">
+                <div class="form-group">
+                    <input type="email" placeholder="Email" required>
+                </div>
+                <div class="form-group">
+                    <input type="password" placeholder="Password" required>
+                </div>
+                <button type="submit" class="login-button">Log In</button>
+                <div class="forgot-password">
+                    <a href="#">Forgot Password?</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html> 

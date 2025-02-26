@@ -1,0 +1,155 @@
+@page "/monitoring/baby-carrots"
+@model EcoSprout.Pages.BabyCarrotsMonitoringModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Baby Carrots Monitoring - EcoSprout</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/landing.css" asp-append-version="true" />
+    <link rel="stylesheet" href="/css/home.css" asp-append-version="true" />
+    <link rel="stylesheet" href="/css/monitoring.css" asp-append-version="true" />
+    <script src="/js/monitoring.js" defer></script>
+    <script src="/js/login.js" defer></script>
+</head>
+<body>
+    <nav class="landing-nav">
+        <div class="nav-container">
+            <div class="logo">
+                <a href="/">EcoSprout</a>
+            </div>
+            <div class="nav-links">
+                <a href="/home" class="nav-item">Dashboard</a>
+                <a href="/monitoring" class="nav-item active">Monitoring</a>
+                <a href="/reports" class="nav-item">Reports</a>
+                <a href="#" class="nav-button">Log Out</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="plant-monitoring-main">
+        <div class="back-link">
+            <a href="/monitoring">← Back to All Plants</a>
+        </div>
+        
+        <div class="plant-header">
+            <div class="plant-image-large">
+                <img src="/images/carrot-sow-and-grow.jpg" alt="Baby Carrots">
+            </div>
+            <div class="plant-title">
+                <h1>Baby Carrots</h1>
+                <p class="plant-description">
+                    Baby carrots are sweet, crunchy root vegetables that are perfect for small gardens.
+                    They require consistent moisture and moderate temperatures for optimal growth.
+                </p>
+            </div>
+        </div>
+        
+        <div class="monitoring-container">
+            <div class="monitoring-data">
+                <div class="data-card">
+                    <h3>Temperature</h3>
+                    <div class="data-value">24°C</div>
+                    <div class="data-status optimal">Optimal</div>
+                </div>
+                
+                <div class="data-card">
+                    <h3>Soil Moisture</h3>
+                    <div class="data-value">65%</div>
+                    <div class="data-status optimal">Optimal</div>
+                </div>
+            </div>
+            
+            <div class="watering-controls">
+                <h2>Watering Controls</h2>
+                
+                <div class="auto-control">
+                    <label class="switch-label">Auto Water Control</label>
+                    <label class="switch">
+                        <input type="checkbox" id="autoWaterToggle" checked>
+                        <span class="slider round"></span>
+                    </label>
+                </div>
+                
+                <div class="manual-controls" id="manualControls">
+                    <div class="control-group">
+                        <label for="waterDate">Set Date:</label>
+                        <select id="waterDate" disabled>
+                            <option value="today">Today</option>
+                            <option value="tomorrow">Tomorrow</option>
+                            <option value="custom">Custom Date</option>
+                        </select>
+                    </div>
+                    
+                    <div class="control-group">
+                        <label for="waterTime">Set Time:</label>
+                        <select id="waterTime" disabled>
+                            <option value="6am">6:00 AM</option>
+                            <option value="12pm">12:00 PM</option>
+                            <option value="6pm">6:00 PM</option>
+                            <option value="custom">Custom Time</option>
+                        </select>
+                    </div>
+                    
+                    <div class="control-group">
+                        <label for="waterDuration">Set Duration:</label>
+                        <select id="waterDuration" disabled>
+                            <option value="5min">5 minutes</option>
+                            <option value="10min">10 minutes</option>
+                            <option value="15min">15 minutes</option>
+                            <option value="custom">Custom Duration</option>
+                        </select>
+                    </div>
+                    
+                    <button class="water-now-button" disabled>Water Now</button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="history-section">
+            <h2>Watering History</h2>
+            <table class="history-table">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Time</th>
+                        <th>Duration</th>
+                        <th>Mode</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>12/30/23</td>
+                        <td>4:59 AM</td>
+                        <td>10 minutes</td>
+                        <td>Automatic</td>
+                    </tr>
+                    <tr>
+                        <td>12/29/23</td>
+                        <td>5:30 PM</td>
+                        <td>8 minutes</td>
+                        <td>Automatic</td>
+                    </tr>
+                    <tr>
+                        <td>12/29/23</td>
+                        <td>6:15 AM</td>
+                        <td>10 minutes</td>
+                        <td>Automatic</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 EcoSprout - Smart Irrigation System</p>
+    </footer>
+</body>
+</html> 

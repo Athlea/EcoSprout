@@ -1,0 +1,133 @@
+/* Offers Page Styles */
+.offers-main {
+    width: 100%;
+    min-height: 100vh;
+    padding-top: 6rem;
+    padding-bottom: 3rem;
+    background-color: var(--background);
+}
+
+.offers-section-page {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.offers-section-page h1 {
+    font-family: var(--title-font);
+    color: var(--accent);
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.offers-intro {
+    font-family: var(--body-font);
+    color: var(--accent);
+    font-size: clamp(1.1rem, 1.3vw, 1.3rem);
+    line-height: 1.8;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto 3rem auto;
+}
+
+.offers-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 4rem;
+}
+
+.offer-card {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+    width: 100%;
+    max-width: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.offer-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+    background-color: #f9f9f9;
+}
+
+.offer-icon {
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+.offer-icon img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+.offer-card h3 {
+    font-family: var(--title-font);
+    color: var(--accent);
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.offer-card p {
+    font-family: var(--body-font);
+    color: #333;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    text-align: center;
+}
+
+.cta-section {
+    background-color: #C5D5CB;
+    padding: 3rem 2rem;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.cta-section h2 {
+    font-family: var(--title-font);
+    color: var(--accent);
+    font-size: clamp(1.8rem, 3vw, 2.5rem);
+    margin-bottom: 1.5rem;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .offers-section-page {
+        padding: 1.5rem;
+    }
+    
+    .offers-cards {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .offer-card {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 480px) {
+    .offers-section-page {
+        padding: 1rem;
+    }
+    
+    .offer-icon {
+        width: 60px;
+        height: 60px;
+    }
+} 

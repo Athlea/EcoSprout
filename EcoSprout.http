@@ -1,0 +1,6 @@
+@EcoSprout_HostAddress = http://localhost:5125
+
+GET {{EcoSprout_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

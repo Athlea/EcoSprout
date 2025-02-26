@@ -1,0 +1,39 @@
+/* Monitoring Section Styles */
+.monitoring-container {
+    display: flex; /* Use flexbox for layout */
+    flex-wrap: wrap; /* Allow wrapping of items */
+    justify-content: space-around; /* Space items evenly */
+    padding: 2rem; /* Padding around the container */
+}
+
+.plant-card {
+    background-color: #ffffff; /* White background for cards */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    width: 30%; /* Width for larger screens */
+    margin: 1rem; /* Margin between cards */
+    padding: 1.5rem; /* Padding inside cards */
+    text-align: center; /* Center text */
+    transition: transform 0.3s; /* Smooth hover effect */
+}
+
+.plant-card:hover {
+    transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
+.plant-card img {
+    width: 100px; /* Fixed width for images */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%; /* Make images circular */
+}
+
+.plant-info {
+    margin-top: 1rem; /* Space above plant info */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .plant-card {
+        width: 80%; /* Full width on smaller screens */
+    }
+}

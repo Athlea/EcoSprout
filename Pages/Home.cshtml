@@ -1,0 +1,70 @@
+@page "/home"
+@model EcoSprout.Pages.HomeModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home - EcoSprout</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/landing.css" asp-append-version="true" />
+    <link rel="stylesheet" href="/css/home.css" asp-append-version="true" />
+    <script src="/js/site.js" defer></script>
+    <script src="/js/login.js" defer></script>
+</head>
+<body>
+    <nav class="landing-nav">
+        <div class="nav-container">
+            <div class="logo">
+                <a href="/">EcoSprout</a>
+            </div>
+            <div class="nav-links">
+                <a href="/home" class="nav-item active">Dashboard</a>
+                <a href="/monitoring" class="nav-item">Monitoring</a>
+                <a href="/reports" class="nav-item">Reports</a>
+                <a href="#" class="nav-button">Log Out</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="home-main">
+        <h1>Welcome to EcoSprout Dashboard</h1>
+        
+        <div class="dashboard-cards">
+            <div class="dashboard-card" onclick="window.location.href='/monitoring'">
+                <div class="card-icon">
+                    <img src="/images/monitoring-icon.png" alt="Monitoring">
+                </div>
+                <h2>Monitoring</h2>
+                <p>
+                    Monitor real-time temperature and soil moisture levels for all your plants. 
+                    Get instant updates and ensure optimal growing conditions for your garden.
+                </p>
+                <button class="card-button">View Monitoring</button>
+            </div>
+            
+            <div class="dashboard-card" onclick="window.location.href='/reports'">
+                <div class="card-icon">
+                    <img src="/images/reports-icon.png" alt="Reports">
+                </div>
+                <h2>Reports</h2>
+                <p>
+                    Access detailed reports and historical data on your plants' growth conditions.
+                    Track patterns and optimize your gardening strategy with comprehensive analytics.
+                </p>
+                <button class="card-button">View Reports</button>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 EcoSprout - Smart Irrigation System</p>
+    </footer>
+</body>
+</html> 

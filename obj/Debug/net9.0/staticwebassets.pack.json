@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\about.css",
+      "PackagePath": "staticwebassets\\CSS\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\home.css",
+      "PackagePath": "staticwebassets\\CSS\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\landing.css",
+      "PackagePath": "staticwebassets\\CSS\\landing.css"
+    },
+    {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\monitoring.css",
+      "PackagePath": "staticwebassets\\CSS\\monitoring.css"
+    },
+    {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\offers.css",
+      "PackagePath": "staticwebassets\\CSS\\offers.css"
+    },
+    {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\site.css",
+      "PackagePath": "staticwebassets\\CSS\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\login.js",
+      "PackagePath": "staticwebassets\\JS\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\monitoring.js",
+      "PackagePath": "staticwebassets\\JS\\monitoring.js"
+    },
+    {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\site.js",
+      "PackagePath": "staticwebassets\\JS\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\How-to-Grow-Lettuce-1-600x600.png",
+      "PackagePath": "staticwebassets\\images\\How-to-Grow-Lettuce-1-600x600.png"
+    },
+    {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\ath.jpg",
+      "PackagePath": "staticwebassets\\images\\ath.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\aud.jpg",
+      "PackagePath": "staticwebassets\\images\\aud.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\automated-irrigation-system-plant-growth_1305396-6020.png",
+      "PackagePath": "staticwebassets\\images\\automated-irrigation-system-plant-growth_1305396-6020.png"
+    },
+    {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\carrot-sow-and-grow.jpg",
+      "PackagePath": "staticwebassets\\images\\carrot-sow-and-grow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\leafyveggies.jpg",
+      "PackagePath": "staticwebassets\\images\\leafyveggies.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\radishblog-lead_d3082c7e-3f90-46a1-aa4b-543f1472e867.jpg",
+      "PackagePath": "staticwebassets\\images\\radishblog-lead_d3082c7e-3f90-46a1-aa4b-543f1472e867.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\ven.jpg",
+      "PackagePath": "staticwebassets\\images\\ven.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.EcoSprout.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.EcoSprout.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.EcoSprout.props",
+      "PackagePath": "build\\EcoSprout.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.EcoSprout.props",
+      "PackagePath": "buildMultiTargeting\\EcoSprout.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.EcoSprout.props",
+      "PackagePath": "buildTransitive\\EcoSprout.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

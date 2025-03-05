@@ -1,7 +1,9 @@
 @page "/monitoring/baby-carrots"
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 @model EcoSprout.Pages.BabyCarrotsMonitoringModel
 @{
     Layout = null;
+    ViewData["Title"] = "Baby Carrots Monitoring";
 }
 
 <!DOCTYPE html>
@@ -16,8 +18,10 @@
     <link rel="stylesheet" href="/css/landing.css" asp-append-version="true" />
     <link rel="stylesheet" href="/css/home.css" asp-append-version="true" />
     <link rel="stylesheet" href="/css/monitoring.css" asp-append-version="true" />
-    <script src="/js/monitoring.js" defer></script>
-    <script src="/js/login.js" defer></script>
+    <link rel="stylesheet" href="/css/babycarrots.css" asp-append-version="true" />
+    <script type="module" src="/js/firebase.js"></script>
+    <script type="module" src="/js/monitoring.js"></script>
+    <script type="module" src="/js/login.js"></script>
 </head>
 <body>
     <nav class="landing-nav">
@@ -35,9 +39,6 @@
     </nav>
 
     <main class="plant-monitoring-main">
-        <div class="back-link">
-            <a href="/monitoring">← Back to All Plants</a>
-        </div>
         
         <div class="plant-header">
             <div class="plant-image-large">
@@ -52,8 +53,8 @@
             </div>
         </div>
         
-        <div class="monitoring-container">
-            <div class="monitoring-data">
+        <div class="monitoring-container1">
+            <div class="monitoring-data1">
                 <div class="data-card">
                     <h3>Temperature</h3>
                     <div class="data-value">24°C</div>
@@ -91,7 +92,7 @@
                     
                     <div class="control-group">
                         <label for="waterDuration">Set Duration (minutes):</label>
-                        <input type="number" id="waterDuration" min="1" max="60" value="5" disabled>
+                        <input type="number" id="waterDuration" min="1" step="1" placeholder="Enter duration" disabled>
                     </div>
                     
                     <button class="water-now-button" disabled>Water Now</button>
@@ -127,7 +128,8 @@
                         <td>12/29/23</td>
                         <td>6:15 AM</td>
                         <td>10 minutes</td>
-                        <td>Automatic</td>
+                        <td>Automatic</td> 
+                        
                     </tr>
                 </tbody>
             </table>
@@ -137,5 +139,6 @@
     <footer>
         <p>&copy; 2024 EcoSprout - Smart Irrigation System</p>
     </footer>
+
 </body>
-</html> 
+</html>

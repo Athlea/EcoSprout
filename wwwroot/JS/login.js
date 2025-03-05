@@ -13,17 +13,18 @@ document.addEventListener('DOMContentLoaded', function() {
             
             console.log("Login attempt:", email);
             
-            // Simple credential check
-            if (email === 'ecosprout@cit' && password === '12345') {
-                console.log("Login successful");
-                // Store login state in localStorage
-                localStorage.setItem('ecosproutLoggedIn', 'true');
-                // Redirect to home page
-                window.location.href = '/home';
-            } else {
-                console.log("Login failed");
-                alert('Invalid credentials. Please try again.');
-            }
+            // Use Firebase Authentication to sign in
+            firebase.auth().signInWithEmailAndPassword(email, password)
+                .then((userCredential) => {
+                    // Signed in
+                    console.log("Login successful");
+                    localStorage.setItem('ecosproutLoggedIn', 'true');
+                    window.location.href = '/home';
+                })
+                .catch((error) => {
+                    console.error("Login failed:", error);
+                    alert('Invalid credentials. Please try again.');
+                });
         });
     }
     
@@ -46,8 +47,10 @@ document.addEventListener('DOMContentLoaded', function() {
         logoutButton.addEventListener('click', function(e) {
             e.preventDefault();
             console.log("Logging out");
-            localStorage.removeItem('ecosproutLoggedIn');
-            window.location.href = '/';
+            firebase.auth().signOut().then(() => {
+                localStorage.removeItem('ecosproutLoggedIn');
+                window.location.href = '/';
+            });
         });
     }
 }); 

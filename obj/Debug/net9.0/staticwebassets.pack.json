@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\CSS\\site.css"
     },
     {
+      "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\firebase.js",
+      "PackagePath": "staticwebassets\\JS\\firebase.js"
+    },
+    {
       "Id": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\login.js",
       "PackagePath": "staticwebassets\\JS\\login.js"
     },

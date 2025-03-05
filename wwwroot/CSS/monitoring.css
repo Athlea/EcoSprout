@@ -1,39 +1,522 @@
-/* Monitoring Section Styles */
-.monitoring-container {
-    display: flex; /* Use flexbox for layout */
-    flex-wrap: wrap; /* Allow wrapping of items */
-    justify-content: space-around; /* Space items evenly */
-    padding: 2rem; /* Padding around the container */
+/* Monitoring Page Styles */
+.monitoring-main {
+    width: 100%;
+    min-height: 100vh;
+    padding: 8rem 2rem 3rem;
+    background-color: var(--background);
+}
+
+.page-header {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.page-header h1 {
+    font-family: var(--title-font);
+    color: var(--accent);
+    font-size: clamp(2rem, 4vw, 3rem);
+    margin-bottom: 1rem;
+}
+
+.page-header p {
+    font-family: var(--body-font);
+    color: #555;
+    font-size: 1.1rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.plant-cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 .plant-card {
-    background-color: #ffffff; /* White background for cards */
-    border-radius: 10px; /* Rounded corners */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-    width: 30%; /* Width for larger screens */
-    margin: 1rem; /* Margin between cards */
-    padding: 1.5rem; /* Padding inside cards */
-    text-align: center; /* Center text */
-    transition: transform 0.3s; /* Smooth hover effect */
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 100%;
+    max-width: 350px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+    padding: 1.5rem;
+    flex-shrink: 0;
 }
 
 .plant-card:hover {
-    transform: scale(1.05); /* Slightly enlarge on hover */
+    transform: translateY(-10px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
 }
 
-.plant-card img {
-    width: 100px; /* Fixed width for images */
-    height: auto; /* Maintain aspect ratio */
-    border-radius: 50%; /* Make images circular */
+.plant-image {
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border-radius: 50%;
+    flex-shrink: 0;
+    margin-right: 1.5rem;
+    border: 3px solid var(--accent);
+    position: relative;
+}
+
+.plant-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }
 
 .plant-info {
-    margin-top: 1rem; /* Space above plant info */
+    flex: 1;
+    text-align: left;
 }
 
-/* Responsive Styles */
+.plant-info h2 {
+    font-family: var(--title-font);
+    color: var(--accent);
+    font-size: 1.5rem;
+    margin-bottom: 0.8rem;
+}
+
+.plant-stats {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-bottom: 0.8rem;
+}
+
+.stat {
+    display: flex;
+    justify-content: space-between;
+    font-family: var(--body-font);
+}
+
+.stat-label {
+    color: #555;
+    font-weight: 500;
+}
+
+.stat-value {
+    color: var(--primary);
+    font-weight: 600;
+}
+
+.last-updated {
+    font-family: var(--body-font);
+    color: #888;
+    font-size: 0.85rem;
+    text-align: right;
+    margin-top: 0.5rem;
+}
+
+/* Plant Monitoring Page Styles */
+.plant-monitoring-main {
+    width: 100%;
+    min-height: 100vh;
+    padding: 6rem 2rem 3rem;
+    background-color: var(--background);
+}
+
+.back-link {
+    margin-bottom: 2rem;
+}
+
+.back-link a {
+    font-family: var(--body-font);
+    color: var(--accent);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+}
+
+.back-link a:hover {
+    text-decoration: underline;
+}
+
+.plant-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2.5rem;
+    gap: 2rem;
+}
+
+.plant-image-large {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    flex-shrink: 0;
+    border: 4px solid var(--accent);
+}
+
+.plant-image-large img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.plant-title {
+    flex: 1;
+}
+
+.plant-title h1 {
+    font-family: var(--title-font);
+    color: var(--accent);
+    font-size: clamp(1.8rem, 3vw, 2.5rem);
+    margin-bottom: 1rem;
+}
+
+.plant-description {
+    font-family: var(--body-font);
+    color: #555;
+    line-height: 1.6;
+}
+
+.monitoring-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.monitoring-data {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 1.5rem;
+    width: 100%;
+    margin-bottom: 1.5rem;
+}
+
+.data-card {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    width: calc(50% - 0.75rem);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.data-card h3 {
+    font-family: var(--title-font);
+    color: var(--accent);
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.data-value {
+    font-family: var(--title-font);
+    font-size: 2.5rem;
+    font-weight: 500;
+    color: var(--primary);
+    margin-bottom: 0.5rem;
+}
+
+.data-status {
+    font-family: var(--body-font);
+    font-size: 0.9rem;
+    padding: 0.3rem 1rem;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.optimal {
+    color: #00c853;
+}
+
+.warning {
+    color: #ffa000;
+}
+
+.critical {
+    color: #d50000;
+}
+
+.watering-controls {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.watering-controls h2 {
+    font-family: var(--title-font);
+    color: var(--accent);
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.auto-control {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.switch-label {
+    font-family: var(--body-font);
+    color: #555;
+    font-weight: 500;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    transition: .4s;
+}
+
+input:checked + .slider {
+    background-color: var(--primary);
+}
+
+input:focus + .slider {
+    box-shadow: 0 0 1px var(--primary);
+}
+
+input:checked + .slider:before {
+    transform: translateX(26px);
+}
+
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+.manual-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+.control-group {
+    flex: 1;
+    min-width: 200px;
+}
+
+.control-group label {
+    font-family: var(--body-font);
+    color: #555;
+    font-size: 1rem;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.control-group select {
+    width: 100%;
+    padding: 0.8rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-family: var(--body-font);
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+.control-group select:disabled {
+    background-color: #eee;
+    color: #999;
+    cursor: not-allowed;
+}
+
+.water-now-button {
+    background-color: var(--accent);
+    color: white;
+    border: none;
+    padding: 1rem;
+    border-radius: 8px;
+    font-family: var(--body-font);
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-top: 1rem;
+    width: 100%;
+}
+
+.water-now-button:hover:not(:disabled) {
+    background-color: var(--primary);
+}
+
+.water-now-button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.history-section {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto 2rem;
+}
+
+.history-section h2 {
+    font-family: var(--title-font);
+    color: var(--accent);
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
+}
+
+.history-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.history-table th, .history-table td {
+    padding: 1rem;
+    text-align: left;
+    font-family: var(--body-font);
+}
+
+.history-table th {
+    background-color: var(--accent);
+    color: white;
+    font-weight: 500;
+}
+
+.history-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+/* Add styles for date/time pickers */
+input[type="date"], 
+input[type="time"] {
+    width: 100%;
+    padding: 0.8rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-family: var(--body-font);
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+input[type="date"]:disabled, 
+input[type="time"]:disabled {
+    background-color: #eee;
+    color: #999;
+    cursor: not-allowed;
+}
+
+.control-group input[type="number"] {
+    width: 100%;
+    padding: 0.8rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-family: var(--body-font);
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+/* Responsive design */
+@media (max-width: 992px) {
+    .monitoring-data {
+        flex-direction: column;
+    }
+    
+    .data-card {
+        min-width: 100%;
+    }
+}
+
 @media (max-width: 768px) {
+    .monitoring-main, .plant-monitoring-main {
+        padding: 8rem 1rem 3rem;
+    }
+    
+    .plant-cards {
+        flex-direction: column;
+        align-items: center;
+    }
+    
     .plant-card {
-        width: 80%; /* Full width on smaller screens */
+        max-width: 100%;
+        flex-direction: row;
+        align-items: center;
+        text-align: left;
+    }
+    
+    .plant-image {
+        margin-right: 1.5rem;
+        margin-bottom: 0;
+    }
+    
+    .plant-header {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .monitoring-data {
+        flex-direction: column;
+    }
+    
+    .manual-controls {
+        flex-direction: column;
+    }
+    
+    .control-group {
+        width: 100%;
+    }
+}
+
+@media (max-width: 576px) {
+    .monitoring-data {
+        flex-direction: column;
+    }
+    
+    .data-card {
+        width: 100%;
+        margin-bottom: 1rem;
     }
 }

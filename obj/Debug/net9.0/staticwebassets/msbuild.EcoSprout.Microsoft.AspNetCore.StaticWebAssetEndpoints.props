@@ -39,14 +39,14 @@
     <StaticWebAssetEndpoint Include="_content/EcoSprout/CSS/monitoring.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CSS\monitoring.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QJDZOuUNWsB7Wffrk5G3VGFMhVAGA6oRK4mYwzI2WPY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1193"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022QJDZOuUNWsB7Wffrk5G3VGFMhVAGA6oRK4mYwzI2WPY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 26 Feb 2025 03:32:15 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-H/chBu7pdYHCW64c3ZOfTR6siXN2pbkboRK03NSqzLk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9611"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022H/chBu7pdYHCW64c3ZOfTR6siXN2pbkboRK03NSqzLk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 10:25:37 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/EcoSprout/CSS/monitoring.kbi6e0qimw.css">
+    <StaticWebAssetEndpoint Include="_content/EcoSprout/CSS/monitoring.lvz1lya8go.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CSS\monitoring.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kbi6e0qimw"},{"Name":"integrity","Value":"sha256-QJDZOuUNWsB7Wffrk5G3VGFMhVAGA6oRK4mYwzI2WPY="},{"Name":"label","Value":"_content/EcoSprout/CSS/monitoring.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1193"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022QJDZOuUNWsB7Wffrk5G3VGFMhVAGA6oRK4mYwzI2WPY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 26 Feb 2025 03:32:15 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lvz1lya8go"},{"Name":"integrity","Value":"sha256-H/chBu7pdYHCW64c3ZOfTR6siXN2pbkboRK03NSqzLk="},{"Name":"label","Value":"_content/EcoSprout/CSS/monitoring.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9611"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022H/chBu7pdYHCW64c3ZOfTR6siXN2pbkboRK03NSqzLk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 10:25:37 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EcoSprout/CSS/offers.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CSS\offers.css'))</AssetFile>
@@ -192,17 +192,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-c7HCN6yqGlC6xugSgZ/lZycOWZn7hNcwJLKEoY7adxA="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2260"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022c7HCN6yqGlC6xugSgZ/lZycOWZn7hNcwJLKEoY7adxA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Mar 2025 10:21:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/EcoSprout/JS/monitoring.2da6x3fved.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\monitoring.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2da6x3fved"},{"Name":"integrity","Value":"sha256-9tZvVBMBlPAuY1WDoVD62B9mmMh69awZvErpJfXjeTY="},{"Name":"label","Value":"_content/EcoSprout/JS/monitoring.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1759"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229tZvVBMBlPAuY1WDoVD62B9mmMh69awZvErpJfXjeTY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 26 Feb 2025 20:24:18 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EcoSprout/JS/monitoring.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\monitoring.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9tZvVBMBlPAuY1WDoVD62B9mmMh69awZvErpJfXjeTY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1759"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229tZvVBMBlPAuY1WDoVD62B9mmMh69awZvErpJfXjeTY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 26 Feb 2025 20:24:18 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ilNPZovhQ4gaP/mvuzRi4V2oa6WM\u002BIo4eumovh\u002Bwb5o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10201"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ilNPZovhQ4gaP/mvuzRi4V2oa6WM\u002BIo4eumovh\u002Bwb5o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 10:26:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EcoSprout/JS/monitoring.q4us8l1dyp.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\monitoring.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q4us8l1dyp"},{"Name":"integrity","Value":"sha256-ilNPZovhQ4gaP/mvuzRi4V2oa6WM\u002BIo4eumovh\u002Bwb5o="},{"Name":"label","Value":"_content/EcoSprout/JS/monitoring.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10201"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ilNPZovhQ4gaP/mvuzRi4V2oa6WM\u002BIo4eumovh\u002Bwb5o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 10:26:26 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EcoSprout/JS/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\site.js'))</AssetFile>

@@ -81,31 +81,17 @@
                 <div class="manual-controls" id="manualControls">
                     <div class="control-group">
                         <label for="waterDate">Set Date:</label>
-                        <select id="waterDate" disabled>
-                            <option value="today">Today</option>
-                            <option value="tomorrow">Tomorrow</option>
-                            <option value="custom">Custom Date</option>
-                        </select>
+                        <input type="date" id="waterDate" disabled>
                     </div>
                     
                     <div class="control-group">
                         <label for="waterTime">Set Time:</label>
-                        <select id="waterTime" disabled>
-                            <option value="6am">6:00 AM</option>
-                            <option value="12pm">12:00 PM</option>
-                            <option value="6pm">6:00 PM</option>
-                            <option value="custom">Custom Time</option>
-                        </select>
+                        <input type="time" id="waterTime" disabled>
                     </div>
                     
                     <div class="control-group">
-                        <label for="waterDuration">Set Duration:</label>
-                        <select id="waterDuration" disabled>
-                            <option value="5min">5 minutes</option>
-                            <option value="10min">10 minutes</option>
-                            <option value="15min">15 minutes</option>
-                            <option value="custom">Custom Duration</option>
-                        </select>
+                        <label for="waterDuration">Set Duration (minutes):</label>
+                        <input type="number" id="waterDuration" min="1" max="60" value="5" disabled>
                     </div>
                     
                     <button class="water-now-button" disabled>Water Now</button>

@@ -1103,3 +1103,41 @@ body {
         font-size: 1.2rem !important;
     }
 }
+
+/* Make the blue background extend to 100% in mobile view */
+@media (max-width: 768px) {
+    /* Ensure watering controls card takes full width */
+    .watering-controls {
+        width: 100% !important;
+        max-width: 100% !important;
+        margin: 0 !important;
+        padding: 1.5rem !important;
+        border-radius: 15px !important;
+        box-sizing: border-box !important;
+    }
+    
+    /* Remove any padding from watering section */
+    .watering-section {
+        width: 100% !important;
+        max-width: 100% !important;
+        padding: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+    
+    /* Ensure manual controls take full width */
+    .manual-controls {
+        width: 100% !important;
+        grid-template-columns: 1fr !important; /* Stack controls in mobile */
+    }
+    
+    /* Adjust control groups for better mobile layout */
+    .control-group {
+        width: 100% !important;
+    }
+    
+    /* Make water now button full width */
+    .water-now-button {
+        width: 100% !important;
+    }
+}

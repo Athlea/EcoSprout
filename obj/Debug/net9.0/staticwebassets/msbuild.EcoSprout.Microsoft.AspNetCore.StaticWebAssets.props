@@ -18,6 +18,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CSS\about.css'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CSS\babycarrots.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>EcoSprout</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EcoSprout</BasePath>
+      <RelativePath>CSS/babycarrots.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>yeweu138dy</Fingerprint>
+      <Integrity>ZrLlnL0lO7XVk/CSUHN7EIyxR6ACLhU+7n/pN2ud0qM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CSS\babycarrots.css'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CSS\home.css'))">
       <SourceType>Package</SourceType>
       <SourceId>EcoSprout</SourceId>
@@ -66,8 +84,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>lvz1lya8go</Fingerprint>
-      <Integrity>H/chBu7pdYHCW64c3ZOfTR6siXN2pbkboRK03NSqzLk=</Integrity>
+      <Fingerprint>pylaftpkog</Fingerprint>
+      <Integrity>T98V8eLGvoqFCUTTy3ar0YEZTes7beHUagDE5+TcV1g=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CSS\monitoring.css'))</OriginalItemSpec>
@@ -264,8 +282,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>hmyy3qljxp</Fingerprint>
-      <Integrity>N4GVN6T5HpHx+82SCN71QDzwL71CAxxXFLTFv0LiDrw=</Integrity>
+      <Fingerprint>3f6ghhrofl</Fingerprint>
+      <Integrity>f8kTTZ4fnpFZTNY+EA0S2ZDXf/fPs1DqXLy7BbTnDCE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\firebase.js'))</OriginalItemSpec>
@@ -300,8 +318,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>q4us8l1dyp</Fingerprint>
-      <Integrity>ilNPZovhQ4gaP/mvuzRi4V2oa6WM+Io4eumovh+wb5o=</Integrity>
+      <Fingerprint>98mpgc6lcn</Fingerprint>
+      <Integrity>yZz5PMP9cDNz1LceTy85iTZpH4lo+/ZX0EFtrp1c/6E=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\monitoring.js'))</OriginalItemSpec>
@@ -318,8 +336,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zdbaentiro</Fingerprint>
-      <Integrity>JzJjHQs5TCAsurITI1dAjx0z0G87m0ckLjn4Z414QT0=</Integrity>
+      <Fingerprint>l4u88u84xu</Fingerprint>
+      <Integrity>e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\site.js'))</OriginalItemSpec>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WrPoCzkrbUy6tuBY3EInoZ4tq9Y7tOeeJPPVwZUbRGI=",
+  "Hash": "PKhbTes6s9sA3olGqt4VwwzybqI3v7cm2C27uQGNo4A=",
   "Source": "EcoSprout",
   "BasePath": "_content/EcoSprout",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\login.js"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-zdbaentiro.gz",
+      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
-      "RelativePath": "JS/site#[.{fingerprint=zdbaentiro}]?.js.gz",
+      "RelativePath": "JS/site#[.{fingerprint=l4u88u84xu}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,19 +52,19 @@
       "RelatedAsset": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qlm9dcjnsn",
-      "Integrity": "rqdhC/IpvrsbRsDf8L/7ilSp7AG8B/JAEaI2MSsxiUg=",
+      "Fingerprint": "82fbt9attl",
+      "Integrity": "AAJ0sB50oqQKwtCf69yBJTCnkVk+xduwQKumIJFu2JU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-q4us8l1dyp.gz",
+      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-98mpgc6lcn.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
-      "RelativePath": "JS/monitoring#[.{fingerprint=q4us8l1dyp}]?.js.gz",
+      "RelativePath": "JS/monitoring#[.{fingerprint=98mpgc6lcn}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -73,11 +73,32 @@
       "RelatedAsset": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\monitoring.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "rjs84d12fl",
-      "Integrity": "h6pFMIf/XAdtuA7aMgbfWdILsCOkRaFiepeP2SEiGek=",
+      "Fingerprint": "f6eyjoxg54",
+      "Integrity": "uSAnycYG8vWtV4sGvNA2UG7rkiyCKdG86e6HV6fo95k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\monitoring.js"
+    },
+    {
+      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\3cygv4boiu-yeweu138dy.gz",
+      "SourceId": "EcoSprout",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/EcoSprout",
+      "RelativePath": "CSS/babycarrots#[.{fingerprint=yeweu138dy}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\babycarrots.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "t2uxj9own7",
+      "Integrity": "hU0jSCpKU5VL+XgqCS3Fh3WjrTAjpsMUpqQWg0lezdM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\babycarrots.css"
     },
     {
       "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\meuks61lt1-atmbwuq3vk.gz",
@@ -101,12 +122,12 @@
       "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\about.css"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-lvz1lya8go.gz",
+      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-pylaftpkog.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
-      "RelativePath": "CSS/monitoring#[.{fingerprint=lvz1lya8go}]?.css.gz",
+      "RelativePath": "CSS/monitoring#[.{fingerprint=pylaftpkog}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -115,8 +136,8 @@
       "RelatedAsset": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\monitoring.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jb6mc7y8ph",
-      "Integrity": "f/GsltAjFWhQvneJPV16ebldQAbpRzbcvVuLZFKbkxE=",
+      "Fingerprint": "wpa37qgagu",
+      "Integrity": "/BeeqrQqWi7EADVrADn0a4J8itKvQJs3pJDyREIWqI0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\monitoring.css"
@@ -185,12 +206,12 @@
       "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\landing.css"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-hmyy3qljxp.gz",
+      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-3f6ghhrofl.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
-      "RelativePath": "JS/firebase#[.{fingerprint=hmyy3qljxp}]?.js.gz",
+      "RelativePath": "JS/firebase#[.{fingerprint=3f6ghhrofl}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -199,8 +220,8 @@
       "RelatedAsset": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\firebase.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "m7pp0gu8wm",
-      "Integrity": "4mva+mQArQYNInbTO2Zz1P5anUl0NFlQNe09npqh008=",
+      "Fingerprint": "zyhr6wxk2q",
+      "Integrity": "RRbGQV1BYUqQXGCDspPS4Ixk8KVvR89hkkBhslZAA1Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\firebase.js"
@@ -246,6 +267,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\CSS\\about.css"
+    },
+    {
+      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\babycarrots.css",
+      "SourceId": "EcoSprout",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "BasePath": "_content/EcoSprout",
+      "RelativePath": "CSS/babycarrots#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yeweu138dy",
+      "Integrity": "ZrLlnL0lO7XVk/CSUHN7EIyxR6ACLhU+7n/pN2ud0qM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CSS\\babycarrots.css"
     },
     {
       "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\home.css",
@@ -304,8 +346,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "lvz1lya8go",
-      "Integrity": "H/chBu7pdYHCW64c3ZOfTR6siXN2pbkboRK03NSqzLk=",
+      "Fingerprint": "pylaftpkog",
+      "Integrity": "T98V8eLGvoqFCUTTy3ar0YEZTes7beHUagDE5+TcV1g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\CSS\\monitoring.css"
@@ -535,8 +577,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hmyy3qljxp",
-      "Integrity": "N4GVN6T5HpHx+82SCN71QDzwL71CAxxXFLTFv0LiDrw=",
+      "Fingerprint": "3f6ghhrofl",
+      "Integrity": "f8kTTZ4fnpFZTNY+EA0S2ZDXf/fPs1DqXLy7BbTnDCE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\firebase.js"
@@ -577,8 +619,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "q4us8l1dyp",
-      "Integrity": "ilNPZovhQ4gaP/mvuzRi4V2oa6WM+Io4eumovh+wb5o=",
+      "Fingerprint": "98mpgc6lcn",
+      "Integrity": "yZz5PMP9cDNz1LceTy85iTZpH4lo+/ZX0EFtrp1c/6E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\monitoring.js"
@@ -598,8 +640,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zdbaentiro",
-      "Integrity": "JzJjHQs5TCAsurITI1dAjx0z0G87m0ckLjn4Z414QT0=",
+      "Fingerprint": "l4u88u84xu",
+      "Integrity": "e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\site.js"
@@ -901,6 +943,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-rdqrDIqOXyoVbt1CU7WxtwGCfswynA6eEQcayhsu2VU="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/babycarrots.css",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\3cygv4boiu-yeweu138dy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003508771930"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hU0jSCpKU5VL+XgqCS3Fh3WjrTAjpsMUpqQWg0lezdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 12:25:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZrLlnL0lO7XVk/CSUHN7EIyxR6ACLhU+7n/pN2ud0qM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZrLlnL0lO7XVk/CSUHN7EIyxR6ACLhU+7n/pN2ud0qM="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/babycarrots.css",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\babycarrots.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZrLlnL0lO7XVk/CSUHN7EIyxR6ACLhU+7n/pN2ud0qM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 12:25:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZrLlnL0lO7XVk/CSUHN7EIyxR6ACLhU+7n/pN2ud0qM="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/babycarrots.css.gz",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\3cygv4boiu-yeweu138dy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hU0jSCpKU5VL+XgqCS3Fh3WjrTAjpsMUpqQWg0lezdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 12:25:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hU0jSCpKU5VL+XgqCS3Fh3WjrTAjpsMUpqQWg0lezdM="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/babycarrots.yeweu138dy.css",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\3cygv4boiu-yeweu138dy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003508771930"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hU0jSCpKU5VL+XgqCS3Fh3WjrTAjpsMUpqQWg0lezdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 12:25:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZrLlnL0lO7XVk/CSUHN7EIyxR6ACLhU+7n/pN2ud0qM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yeweu138dy"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/babycarrots.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZrLlnL0lO7XVk/CSUHN7EIyxR6ACLhU+7n/pN2ud0qM="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/babycarrots.yeweu138dy.css",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\babycarrots.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZrLlnL0lO7XVk/CSUHN7EIyxR6ACLhU+7n/pN2ud0qM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 12:25:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yeweu138dy"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/babycarrots.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZrLlnL0lO7XVk/CSUHN7EIyxR6ACLhU+7n/pN2ud0qM="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/babycarrots.yeweu138dy.css.gz",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\3cygv4boiu-yeweu138dy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hU0jSCpKU5VL+XgqCS3Fh3WjrTAjpsMUpqQWg0lezdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 12:25:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yeweu138dy"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/babycarrots.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hU0jSCpKU5VL+XgqCS3Fh3WjrTAjpsMUpqQWg0lezdM="
         }
       ]
     },
@@ -1227,7 +1567,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:28:23 GMT"
+          "Value": "Thu, 06 Mar 2025 12:14:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1280,7 +1620,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:28:23 GMT"
+          "Value": "Thu, 06 Mar 2025 12:14:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1317,7 +1657,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:28:23 GMT"
+          "Value": "Thu, 06 Mar 2025 12:14:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1364,7 +1704,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:28:23 GMT"
+          "Value": "Thu, 06 Mar 2025 12:14:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1425,7 +1765,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:28:23 GMT"
+          "Value": "Thu, 06 Mar 2025 12:14:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1470,7 +1810,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:28:23 GMT"
+          "Value": "Thu, 06 Mar 2025 12:14:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1502,12 +1842,12 @@
     },
     {
       "Route": "CSS/monitoring.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-lvz1lya8go.gz",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-pylaftpkog.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000543183053"
+          "Quality": "0.000264410365"
         }
       ],
       "ResponseHeaders": [
@@ -1517,15 +1857,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1840"
+          "Value": "3781"
         },
         {
           "Name": "ETag",
-          "Value": "\"f/GsltAjFWhQvneJPV16ebldQAbpRzbcvVuLZFKbkxE=\""
+          "Value": "\"/BeeqrQqWi7EADVrADn0a4J8itKvQJs3pJDyREIWqI0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 10:25:37 GMT"
+          "Value": "Thu, 06 Mar 2025 12:44:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1545,13 +1885,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"H/chBu7pdYHCW64c3ZOfTR6siXN2pbkboRK03NSqzLk=\""
+          "Value": "W/\"T98V8eLGvoqFCUTTy3ar0YEZTes7beHUagDE5+TcV1g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H/chBu7pdYHCW64c3ZOfTR6siXN2pbkboRK03NSqzLk="
+          "Value": "sha256-T98V8eLGvoqFCUTTy3ar0YEZTes7beHUagDE5+TcV1g="
         }
       ]
     },
@@ -1566,7 +1906,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9611"
+          "Value": "22067"
         },
         {
           "Name": "Content-Type",
@@ -1574,11 +1914,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H/chBu7pdYHCW64c3ZOfTR6siXN2pbkboRK03NSqzLk=\""
+          "Value": "\"T98V8eLGvoqFCUTTy3ar0YEZTes7beHUagDE5+TcV1g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 10:25:37 GMT"
+          "Value": "Thu, 06 Mar 2025 12:44:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1588,13 +1928,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H/chBu7pdYHCW64c3ZOfTR6siXN2pbkboRK03NSqzLk="
+          "Value": "sha256-T98V8eLGvoqFCUTTy3ar0YEZTes7beHUagDE5+TcV1g="
         }
       ]
     },
     {
       "Route": "CSS/monitoring.css.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-lvz1lya8go.gz",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-pylaftpkog.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1603,7 +1943,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1840"
+          "Value": "3781"
         },
         {
           "Name": "Content-Type",
@@ -1611,11 +1951,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"f/GsltAjFWhQvneJPV16ebldQAbpRzbcvVuLZFKbkxE=\""
+          "Value": "\"/BeeqrQqWi7EADVrADn0a4J8itKvQJs3pJDyREIWqI0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 10:25:37 GMT"
+          "Value": "Thu, 06 Mar 2025 12:44:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1633,18 +1973,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-f/GsltAjFWhQvneJPV16ebldQAbpRzbcvVuLZFKbkxE="
+          "Value": "sha256-/BeeqrQqWi7EADVrADn0a4J8itKvQJs3pJDyREIWqI0="
         }
       ]
     },
     {
-      "Route": "CSS/monitoring.lvz1lya8go.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-lvz1lya8go.gz",
+      "Route": "CSS/monitoring.pylaftpkog.css",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-pylaftpkog.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000543183053"
+          "Quality": "0.000264410365"
         }
       ],
       "ResponseHeaders": [
@@ -1654,15 +1994,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1840"
+          "Value": "3781"
         },
         {
           "Name": "ETag",
-          "Value": "\"f/GsltAjFWhQvneJPV16ebldQAbpRzbcvVuLZFKbkxE=\""
+          "Value": "\"/BeeqrQqWi7EADVrADn0a4J8itKvQJs3pJDyREIWqI0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 10:25:37 GMT"
+          "Value": "Thu, 06 Mar 2025 12:44:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1682,13 +2022,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"H/chBu7pdYHCW64c3ZOfTR6siXN2pbkboRK03NSqzLk=\""
+          "Value": "W/\"T98V8eLGvoqFCUTTy3ar0YEZTes7beHUagDE5+TcV1g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lvz1lya8go"
+          "Value": "pylaftpkog"
         },
         {
           "Name": "label",
@@ -1696,12 +2036,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H/chBu7pdYHCW64c3ZOfTR6siXN2pbkboRK03NSqzLk="
+          "Value": "sha256-T98V8eLGvoqFCUTTy3ar0YEZTes7beHUagDE5+TcV1g="
         }
       ]
     },
     {
-      "Route": "CSS/monitoring.lvz1lya8go.css",
+      "Route": "CSS/monitoring.pylaftpkog.css",
       "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\monitoring.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1711,7 +2051,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9611"
+          "Value": "22067"
         },
         {
           "Name": "Content-Type",
@@ -1719,11 +2059,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H/chBu7pdYHCW64c3ZOfTR6siXN2pbkboRK03NSqzLk=\""
+          "Value": "\"T98V8eLGvoqFCUTTy3ar0YEZTes7beHUagDE5+TcV1g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 10:25:37 GMT"
+          "Value": "Thu, 06 Mar 2025 12:44:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1733,7 +2073,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lvz1lya8go"
+          "Value": "pylaftpkog"
         },
         {
           "Name": "label",
@@ -1741,13 +2081,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H/chBu7pdYHCW64c3ZOfTR6siXN2pbkboRK03NSqzLk="
+          "Value": "sha256-T98V8eLGvoqFCUTTy3ar0YEZTes7beHUagDE5+TcV1g="
         }
       ]
     },
     {
-      "Route": "CSS/monitoring.lvz1lya8go.css.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-lvz1lya8go.gz",
+      "Route": "CSS/monitoring.pylaftpkog.css.gz",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-pylaftpkog.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1756,7 +2096,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1840"
+          "Value": "3781"
         },
         {
           "Name": "Content-Type",
@@ -1764,11 +2104,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"f/GsltAjFWhQvneJPV16ebldQAbpRzbcvVuLZFKbkxE=\""
+          "Value": "\"/BeeqrQqWi7EADVrADn0a4J8itKvQJs3pJDyREIWqI0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 10:25:37 GMT"
+          "Value": "Thu, 06 Mar 2025 12:44:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1786,7 +2126,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lvz1lya8go"
+          "Value": "pylaftpkog"
         },
         {
           "Name": "label",
@@ -1794,7 +2134,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-f/GsltAjFWhQvneJPV16ebldQAbpRzbcvVuLZFKbkxE="
+          "Value": "sha256-/BeeqrQqWi7EADVrADn0a4J8itKvQJs3pJDyREIWqI0="
         }
       ]
     },
@@ -3051,13 +3391,13 @@
       ]
     },
     {
-      "Route": "JS/firebase.hmyy3qljxp.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-hmyy3qljxp.gz",
+      "Route": "JS/firebase.3f6ghhrofl.js",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-3f6ghhrofl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003676470588"
+          "Quality": "0.001754385965"
         }
       ],
       "ResponseHeaders": [
@@ -3067,15 +3407,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "271"
+          "Value": "569"
         },
         {
           "Name": "ETag",
-          "Value": "\"4mva+mQArQYNInbTO2Zz1P5anUl0NFlQNe09npqh008=\""
+          "Value": "\"RRbGQV1BYUqQXGCDspPS4Ixk8KVvR89hkkBhslZAA1Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 10:21:21 GMT"
+          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3095,13 +3435,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"N4GVN6T5HpHx+82SCN71QDzwL71CAxxXFLTFv0LiDrw=\""
+          "Value": "W/\"f8kTTZ4fnpFZTNY+EA0S2ZDXf/fPs1DqXLy7BbTnDCE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hmyy3qljxp"
+          "Value": "3f6ghhrofl"
         },
         {
           "Name": "label",
@@ -3109,12 +3449,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-N4GVN6T5HpHx+82SCN71QDzwL71CAxxXFLTFv0LiDrw="
+          "Value": "sha256-f8kTTZ4fnpFZTNY+EA0S2ZDXf/fPs1DqXLy7BbTnDCE="
         }
       ]
     },
     {
-      "Route": "JS/firebase.hmyy3qljxp.js",
+      "Route": "JS/firebase.3f6ghhrofl.js",
       "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\firebase.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3124,7 +3464,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "465"
+          "Value": "1057"
         },
         {
           "Name": "Content-Type",
@@ -3132,11 +3472,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"N4GVN6T5HpHx+82SCN71QDzwL71CAxxXFLTFv0LiDrw=\""
+          "Value": "\"f8kTTZ4fnpFZTNY+EA0S2ZDXf/fPs1DqXLy7BbTnDCE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 10:21:21 GMT"
+          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3146,7 +3486,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hmyy3qljxp"
+          "Value": "3f6ghhrofl"
         },
         {
           "Name": "label",
@@ -3154,13 +3494,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-N4GVN6T5HpHx+82SCN71QDzwL71CAxxXFLTFv0LiDrw="
+          "Value": "sha256-f8kTTZ4fnpFZTNY+EA0S2ZDXf/fPs1DqXLy7BbTnDCE="
         }
       ]
     },
     {
-      "Route": "JS/firebase.hmyy3qljxp.js.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-hmyy3qljxp.gz",
+      "Route": "JS/firebase.3f6ghhrofl.js.gz",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-3f6ghhrofl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3169,7 +3509,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "271"
+          "Value": "569"
         },
         {
           "Name": "Content-Type",
@@ -3177,11 +3517,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4mva+mQArQYNInbTO2Zz1P5anUl0NFlQNe09npqh008=\""
+          "Value": "\"RRbGQV1BYUqQXGCDspPS4Ixk8KVvR89hkkBhslZAA1Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 10:21:21 GMT"
+          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3199,7 +3539,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hmyy3qljxp"
+          "Value": "3f6ghhrofl"
         },
         {
           "Name": "label",
@@ -3207,18 +3547,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4mva+mQArQYNInbTO2Zz1P5anUl0NFlQNe09npqh008="
+          "Value": "sha256-RRbGQV1BYUqQXGCDspPS4Ixk8KVvR89hkkBhslZAA1Y="
         }
       ]
     },
     {
       "Route": "JS/firebase.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-hmyy3qljxp.gz",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-3f6ghhrofl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003676470588"
+          "Quality": "0.001754385965"
         }
       ],
       "ResponseHeaders": [
@@ -3228,15 +3568,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "271"
+          "Value": "569"
         },
         {
           "Name": "ETag",
-          "Value": "\"4mva+mQArQYNInbTO2Zz1P5anUl0NFlQNe09npqh008=\""
+          "Value": "\"RRbGQV1BYUqQXGCDspPS4Ixk8KVvR89hkkBhslZAA1Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 10:21:21 GMT"
+          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3256,13 +3596,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"N4GVN6T5HpHx+82SCN71QDzwL71CAxxXFLTFv0LiDrw=\""
+          "Value": "W/\"f8kTTZ4fnpFZTNY+EA0S2ZDXf/fPs1DqXLy7BbTnDCE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-N4GVN6T5HpHx+82SCN71QDzwL71CAxxXFLTFv0LiDrw="
+          "Value": "sha256-f8kTTZ4fnpFZTNY+EA0S2ZDXf/fPs1DqXLy7BbTnDCE="
         }
       ]
     },
@@ -3277,7 +3617,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "465"
+          "Value": "1057"
         },
         {
           "Name": "Content-Type",
@@ -3285,11 +3625,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"N4GVN6T5HpHx+82SCN71QDzwL71CAxxXFLTFv0LiDrw=\""
+          "Value": "\"f8kTTZ4fnpFZTNY+EA0S2ZDXf/fPs1DqXLy7BbTnDCE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 10:21:21 GMT"
+          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3299,13 +3639,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-N4GVN6T5HpHx+82SCN71QDzwL71CAxxXFLTFv0LiDrw="
+          "Value": "sha256-f8kTTZ4fnpFZTNY+EA0S2ZDXf/fPs1DqXLy7BbTnDCE="
         }
       ]
     },
     {
       "Route": "JS/firebase.js.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-hmyy3qljxp.gz",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-3f6ghhrofl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3314,7 +3654,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "271"
+          "Value": "569"
         },
         {
           "Name": "Content-Type",
@@ -3322,11 +3662,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4mva+mQArQYNInbTO2Zz1P5anUl0NFlQNe09npqh008=\""
+          "Value": "\"RRbGQV1BYUqQXGCDspPS4Ixk8KVvR89hkkBhslZAA1Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 10:21:21 GMT"
+          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3344,7 +3684,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4mva+mQArQYNInbTO2Zz1P5anUl0NFlQNe09npqh008="
+          "Value": "sha256-RRbGQV1BYUqQXGCDspPS4Ixk8KVvR89hkkBhslZAA1Y="
         }
       ]
     },
@@ -3647,13 +3987,13 @@
       ]
     },
     {
-      "Route": "JS/monitoring.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-q4us8l1dyp.gz",
+      "Route": "JS/monitoring.98mpgc6lcn.js",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-98mpgc6lcn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000430477830"
+          "Quality": "0.000840336134"
         }
       ],
       "ResponseHeaders": [
@@ -3663,19 +4003,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2322"
+          "Value": "1189"
         },
         {
           "Name": "ETag",
-          "Value": "\"h6pFMIf/XAdtuA7aMgbfWdILsCOkRaFiepeP2SEiGek=\""
+          "Value": "\"uSAnycYG8vWtV4sGvNA2UG7rkiyCKdG86e6HV6fo95k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 10:26:26 GMT"
+          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3691,18 +4031,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ilNPZovhQ4gaP/mvuzRi4V2oa6WM+Io4eumovh+wb5o=\""
+          "Value": "W/\"yZz5PMP9cDNz1LceTy85iTZpH4lo+/ZX0EFtrp1c/6E=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "98mpgc6lcn"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/monitoring.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-ilNPZovhQ4gaP/mvuzRi4V2oa6WM+Io4eumovh+wb5o="
+          "Value": "sha256-yZz5PMP9cDNz1LceTy85iTZpH4lo+/ZX0EFtrp1c/6E="
         }
       ]
     },
     {
-      "Route": "JS/monitoring.js",
+      "Route": "JS/monitoring.98mpgc6lcn.js",
       "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\monitoring.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3712,7 +4060,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10201"
+          "Value": "3953"
         },
         {
           "Name": "Content-Type",
@@ -3720,121 +4068,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ilNPZovhQ4gaP/mvuzRi4V2oa6WM+Io4eumovh+wb5o=\""
+          "Value": "\"yZz5PMP9cDNz1LceTy85iTZpH4lo+/ZX0EFtrp1c/6E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 10:26:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ilNPZovhQ4gaP/mvuzRi4V2oa6WM+Io4eumovh+wb5o="
-        }
-      ]
-    },
-    {
-      "Route": "JS/monitoring.js.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-q4us8l1dyp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2322"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"h6pFMIf/XAdtuA7aMgbfWdILsCOkRaFiepeP2SEiGek=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 10:26:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-h6pFMIf/XAdtuA7aMgbfWdILsCOkRaFiepeP2SEiGek="
-        }
-      ]
-    },
-    {
-      "Route": "JS/monitoring.q4us8l1dyp.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-q4us8l1dyp.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000430477830"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2322"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"h6pFMIf/XAdtuA7aMgbfWdILsCOkRaFiepeP2SEiGek=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 10:26:26 GMT"
+          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ilNPZovhQ4gaP/mvuzRi4V2oa6WM+Io4eumovh+wb5o=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "q4us8l1dyp"
+          "Value": "98mpgc6lcn"
         },
         {
           "Name": "label",
@@ -3842,13 +4090,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ilNPZovhQ4gaP/mvuzRi4V2oa6WM+Io4eumovh+wb5o="
+          "Value": "sha256-yZz5PMP9cDNz1LceTy85iTZpH4lo+/ZX0EFtrp1c/6E="
         }
       ]
     },
     {
-      "Route": "JS/monitoring.q4us8l1dyp.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\monitoring.js",
+      "Route": "JS/monitoring.98mpgc6lcn.js.gz",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-98mpgc6lcn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3857,7 +4105,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10201"
+          "Value": "1189"
         },
         {
           "Name": "Content-Type",
@@ -3865,56 +4113,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ilNPZovhQ4gaP/mvuzRi4V2oa6WM+Io4eumovh+wb5o=\""
+          "Value": "\"uSAnycYG8vWtV4sGvNA2UG7rkiyCKdG86e6HV6fo95k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 10:26:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "q4us8l1dyp"
-        },
-        {
-          "Name": "label",
-          "Value": "JS/monitoring.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ilNPZovhQ4gaP/mvuzRi4V2oa6WM+Io4eumovh+wb5o="
-        }
-      ]
-    },
-    {
-      "Route": "JS/monitoring.q4us8l1dyp.js.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-q4us8l1dyp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2322"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"h6pFMIf/XAdtuA7aMgbfWdILsCOkRaFiepeP2SEiGek=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 10:26:26 GMT"
+          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3932,7 +4135,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "q4us8l1dyp"
+          "Value": "98mpgc6lcn"
         },
         {
           "Name": "label",
@@ -3940,18 +4143,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-h6pFMIf/XAdtuA7aMgbfWdILsCOkRaFiepeP2SEiGek="
+          "Value": "sha256-uSAnycYG8vWtV4sGvNA2UG7rkiyCKdG86e6HV6fo95k="
         }
       ]
     },
     {
-      "Route": "JS/site.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-zdbaentiro.gz",
+      "Route": "JS/monitoring.js",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-98mpgc6lcn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000896057348"
+          "Quality": "0.000840336134"
         }
       ],
       "ResponseHeaders": [
@@ -3961,15 +4164,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1115"
+          "Value": "1189"
         },
         {
           "Name": "ETag",
-          "Value": "\"rqdhC/IpvrsbRsDf8L/7ilSp7AG8B/JAEaI2MSsxiUg=\""
+          "Value": "\"uSAnycYG8vWtV4sGvNA2UG7rkiyCKdG86e6HV6fo95k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:27:51 GMT"
+          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3989,13 +4192,150 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"JzJjHQs5TCAsurITI1dAjx0z0G87m0ckLjn4Z414QT0=\""
+          "Value": "W/\"yZz5PMP9cDNz1LceTy85iTZpH4lo+/ZX0EFtrp1c/6E=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JzJjHQs5TCAsurITI1dAjx0z0G87m0ckLjn4Z414QT0="
+          "Value": "sha256-yZz5PMP9cDNz1LceTy85iTZpH4lo+/ZX0EFtrp1c/6E="
+        }
+      ]
+    },
+    {
+      "Route": "JS/monitoring.js",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\monitoring.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yZz5PMP9cDNz1LceTy85iTZpH4lo+/ZX0EFtrp1c/6E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yZz5PMP9cDNz1LceTy85iTZpH4lo+/ZX0EFtrp1c/6E="
+        }
+      ]
+    },
+    {
+      "Route": "JS/monitoring.js.gz",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-98mpgc6lcn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1189"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uSAnycYG8vWtV4sGvNA2UG7rkiyCKdG86e6HV6fo95k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uSAnycYG8vWtV4sGvNA2UG7rkiyCKdG86e6HV6fo95k="
+        }
+      ]
+    },
+    {
+      "Route": "JS/site.js",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000683060109"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1463"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AAJ0sB50oqQKwtCf69yBJTCnkVk+xduwQKumIJFu2JU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 10:40:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA="
         }
       ]
     },
@@ -4010,7 +4350,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3820"
+          "Value": "5349"
         },
         {
           "Name": "Content-Type",
@@ -4018,11 +4358,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JzJjHQs5TCAsurITI1dAjx0z0G87m0ckLjn4Z414QT0=\""
+          "Value": "\"e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:27:51 GMT"
+          "Value": "Thu, 06 Mar 2025 10:40:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4032,13 +4372,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JzJjHQs5TCAsurITI1dAjx0z0G87m0ckLjn4Z414QT0="
+          "Value": "sha256-e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA="
         }
       ]
     },
     {
       "Route": "JS/site.js.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-zdbaentiro.gz",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4047,7 +4387,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1115"
+          "Value": "1463"
         },
         {
           "Name": "Content-Type",
@@ -4055,11 +4395,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rqdhC/IpvrsbRsDf8L/7ilSp7AG8B/JAEaI2MSsxiUg=\""
+          "Value": "\"AAJ0sB50oqQKwtCf69yBJTCnkVk+xduwQKumIJFu2JU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:27:51 GMT"
+          "Value": "Thu, 06 Mar 2025 10:40:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4077,18 +4417,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rqdhC/IpvrsbRsDf8L/7ilSp7AG8B/JAEaI2MSsxiUg="
+          "Value": "sha256-AAJ0sB50oqQKwtCf69yBJTCnkVk+xduwQKumIJFu2JU="
         }
       ]
     },
     {
-      "Route": "JS/site.zdbaentiro.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-zdbaentiro.gz",
+      "Route": "JS/site.l4u88u84xu.js",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000896057348"
+          "Quality": "0.000683060109"
         }
       ],
       "ResponseHeaders": [
@@ -4098,15 +4438,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1115"
+          "Value": "1463"
         },
         {
           "Name": "ETag",
-          "Value": "\"rqdhC/IpvrsbRsDf8L/7ilSp7AG8B/JAEaI2MSsxiUg=\""
+          "Value": "\"AAJ0sB50oqQKwtCf69yBJTCnkVk+xduwQKumIJFu2JU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:27:51 GMT"
+          "Value": "Thu, 06 Mar 2025 10:40:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4126,13 +4466,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"JzJjHQs5TCAsurITI1dAjx0z0G87m0ckLjn4Z414QT0=\""
+          "Value": "W/\"e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zdbaentiro"
+          "Value": "l4u88u84xu"
         },
         {
           "Name": "label",
@@ -4140,12 +4480,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JzJjHQs5TCAsurITI1dAjx0z0G87m0ckLjn4Z414QT0="
+          "Value": "sha256-e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA="
         }
       ]
     },
     {
-      "Route": "JS/site.zdbaentiro.js",
+      "Route": "JS/site.l4u88u84xu.js",
       "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4155,7 +4495,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3820"
+          "Value": "5349"
         },
         {
           "Name": "Content-Type",
@@ -4163,11 +4503,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JzJjHQs5TCAsurITI1dAjx0z0G87m0ckLjn4Z414QT0=\""
+          "Value": "\"e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:27:51 GMT"
+          "Value": "Thu, 06 Mar 2025 10:40:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4177,7 +4517,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zdbaentiro"
+          "Value": "l4u88u84xu"
         },
         {
           "Name": "label",
@@ -4185,13 +4525,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JzJjHQs5TCAsurITI1dAjx0z0G87m0ckLjn4Z414QT0="
+          "Value": "sha256-e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA="
         }
       ]
     },
     {
-      "Route": "JS/site.zdbaentiro.js.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-zdbaentiro.gz",
+      "Route": "JS/site.l4u88u84xu.js.gz",
+      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4200,7 +4540,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1115"
+          "Value": "1463"
         },
         {
           "Name": "Content-Type",
@@ -4208,11 +4548,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rqdhC/IpvrsbRsDf8L/7ilSp7AG8B/JAEaI2MSsxiUg=\""
+          "Value": "\"AAJ0sB50oqQKwtCf69yBJTCnkVk+xduwQKumIJFu2JU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:27:51 GMT"
+          "Value": "Thu, 06 Mar 2025 10:40:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4230,7 +4570,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zdbaentiro"
+          "Value": "l4u88u84xu"
         },
         {
           "Name": "label",
@@ -4238,7 +4578,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rqdhC/IpvrsbRsDf8L/7ilSp7AG8B/JAEaI2MSsxiUg="
+          "Value": "sha256-AAJ0sB50oqQKwtCf69yBJTCnkVk+xduwQKumIJFu2JU="
         }
       ]
     }

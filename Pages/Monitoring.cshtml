@@ -25,7 +25,12 @@
             <div class="logo">
                 <a href="/">EcoSprout</a>
             </div>
-            <div class="nav-links">
+            <div class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <div class="nav-links" id="navLinks">
                 <a href="/home" class="nav-item">Dashboard</a>
                 <a href="/monitoring" class="nav-item active">Monitoring</a>
                 <a href="/reports" class="nav-item">Reports</a>
@@ -106,5 +111,11 @@
     <footer>
         <p>&copy; 2024 EcoSprout - Smart Irrigation System</p>
     </footer>
+
+    <script>
+        document.getElementById('mobileMenuToggle').addEventListener('click', function() {
+            document.getElementById('navLinks').classList.toggle('active');
+        });
+    </script>
 </body>
 </html> 

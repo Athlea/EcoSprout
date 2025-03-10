@@ -1,0 +1,33 @@
+/* Baby Carrots specific styles */
+.monitoring-data {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+
+.data-card {
+    width: calc(50% - 1rem);
+    max-width: calc(50% - 1rem);
+}
+
+.plant-description {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto 2rem;
+    text-align: center;
+    padding: 0 1rem;
+}
+
+@media (max-width: 768px) {
+    .monitoring-data {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+    
+    .data-card {
+        width: 100%;
+        max-width: 100%;
+        margin-bottom: 1rem;
+    }
+} 

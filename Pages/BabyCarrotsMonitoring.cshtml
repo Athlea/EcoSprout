@@ -1,7 +1,9 @@
 @page "/monitoring/baby-carrots"
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 @model EcoSprout.Pages.BabyCarrotsMonitoringModel
 @{
     Layout = null;
+    ViewData["Title"] = "Baby Carrots Monitoring";
 }
 
 <!DOCTYPE html>
@@ -16,28 +18,15 @@
     <link rel="stylesheet" href="/css/landing.css" asp-append-version="true" />
     <link rel="stylesheet" href="/css/home.css" asp-append-version="true" />
     <link rel="stylesheet" href="/css/monitoring.css" asp-append-version="true" />
-    <script src="/js/monitoring.js" defer></script>
-    <script src="/js/login.js" defer></script>
+    <link rel="stylesheet" href="/css/babycarrots.css" asp-append-version="true" />
+    <script type="module" src="/js/firebase.js"></script>
+    <script type="module" src="/js/monitoring.js"></script>
+    <script type="module" src="/js/login.js"></script>
 </head>
 <body>
-    <nav class="landing-nav">
-        <div class="nav-container">
-            <div class="logo">
-                <a href="/">EcoSprout</a>
-            </div>
-            <div class="nav-links">
-                <a href="/home" class="nav-item">Dashboard</a>
-                <a href="/monitoring" class="nav-item active">Monitoring</a>
-                <a href="/reports" class="nav-item">Reports</a>
-                <a href="#" class="nav-button">Log Out</a>
-            </div>
-        </div>
-    </nav>
+    @await Html.PartialAsync("_NavbarPartial")
 
     <main class="plant-monitoring-main">
-        <div class="back-link">
-            <a href="/monitoring">← Back to All Plants</a>
-        </div>
         
         <div class="plant-header">
             <div class="plant-image-large">
@@ -56,59 +45,46 @@
             <div class="monitoring-data">
                 <div class="data-card">
                     <h3>Temperature</h3>
-                    <div class="data-value">24°C</div>
+                    <div class="data-value">29.25°C</div>
                     <div class="data-status optimal">Optimal</div>
                 </div>
                 
                 <div class="data-card">
                     <h3>Soil Moisture</h3>
-                    <div class="data-value">65%</div>
-                    <div class="data-status optimal">Optimal</div>
+                    <div class="data-value">365%</div>
+                    <div class="data-status optimal">Not Optimal</div>
                 </div>
             </div>
             
-            <div class="watering-controls">
-                <h2>Watering Controls</h2>
-                
-                <div class="auto-control">
-                    <label class="switch-label">Auto Water Control</label>
-                    <label class="switch">
-                        <input type="checkbox" id="autoWaterToggle" checked>
-                        <span class="slider round"></span>
-                    </label>
-                </div>
-                
-                <div class="manual-controls" id="manualControls">
-                    <div class="control-group">
-                        <label for="waterDate">Set Date:</label>
-                        <select id="waterDate" disabled>
-                            <option value="today">Today</option>
-                            <option value="tomorrow">Tomorrow</option>
-                            <option value="custom">Custom Date</option>
-                        </select>
+            <div class="watering-section">
+                <h2>Watering Control</h2>
+                <div class="watering-controls">
+                    <div class="auto-toggle">
+                        <label class="switch-label">Auto Water Control</label>
+                        <label class="switch">
+                            <input type="checkbox" id="autoWaterToggle" checked>
+                            <span class="slider round"></span>
+                        </label>
                     </div>
                     
-                    <div class="control-group">
-                        <label for="waterTime">Set Time:</label>
-                        <select id="waterTime" disabled>
-                            <option value="6am">6:00 AM</option>
-                            <option value="12pm">12:00 PM</option>
-                            <option value="6pm">6:00 PM</option>
-                            <option value="custom">Custom Time</option>
-                        </select>
+                    <div class="manual-controls" id="manualControls">
+                        <div class="control-group">
+                            <label for="waterDate">Set Date:</label>
+                            <input type="date" id="waterDate" disabled>
+                        </div>
+                        
+                        <div class="control-group">
+                            <label for="waterTime">Set Time:</label>
+                            <input type="time" id="waterTime" disabled>
+                        </div>
+                        
+                        <div class="control-group">
+                            <label for="waterDuration">Set Duration (mins):</label>
+                            <input type="number" id="waterDuration" min="1" step="1" placeholder="Enter duration" disabled>
+                        </div>
+                        
+                        <button class="water-now-button" disabled>Water Now</button>
                     </div>
-                    
-                    <div class="control-group">
-                        <label for="waterDuration">Set Duration:</label>
-                        <select id="waterDuration" disabled>
-                            <option value="5min">5 minutes</option>
-                            <option value="10min">10 minutes</option>
-                            <option value="15min">15 minutes</option>
-                            <option value="custom">Custom Duration</option>
-                        </select>
-                    </div>
-                    
-                    <button class="water-now-button" disabled>Water Now</button>
                 </div>
             </div>
         </div>
@@ -128,20 +104,20 @@
                     <tr>
                         <td>12/30/23</td>
                         <td>4:59 AM</td>
-                        <td>10 minutes</td>
+                        <td>10 mins</td>
                         <td>Automatic</td>
                     </tr>
                     <tr>
                         <td>12/29/23</td>
                         <td>5:30 PM</td>
-                        <td>8 minutes</td>
+                        <td>8 mins</td>
                         <td>Automatic</td>
                     </tr>
                     <tr>
                         <td>12/29/23</td>
                         <td>6:15 AM</td>
-                        <td>10 minutes</td>
-                        <td>Automatic</td>
+                        <td>10 mins</td>
+                        <td>Automatic</td> 
                     </tr>
                 </tbody>
             </table>
@@ -152,4 +128,4 @@
         <p>&copy; 2024 EcoSprout - Smart Irrigation System</p>
     </footer>
 </body>
-</html> 
+</html>

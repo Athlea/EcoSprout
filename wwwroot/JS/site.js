@@ -10,6 +10,9 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Login form handling
     setupLoginForm();
+    
+    // Add mobile navigation setup
+    setupMobileNavigation();
 });
 
 function setupNavigation() {
@@ -102,6 +105,39 @@ function setupLoginForm() {
             } else {
                 console.log("Login failed");
                 alert('Invalid credentials. Please try again.');
+            }
+        });
+    }
+}
+
+function setupMobileNavigation() {
+    // Create mobile menu toggle button
+    const navContainer = document.querySelector('.nav-container');
+    const navLinks = document.querySelector('.nav-links');
+    
+    if (navContainer && !document.querySelector('.mobile-menu-toggle')) {
+        const mobileMenuToggle = document.createElement('div');
+        mobileMenuToggle.className = 'mobile-menu-toggle';
+        mobileMenuToggle.innerHTML = '<span></span><span></span><span></span>';
+        
+        // Insert the toggle button before the nav links
+        navContainer.insertBefore(mobileMenuToggle, navLinks);
+        
+        // Add click event to toggle menu
+        mobileMenuToggle.addEventListener('click', function() {
+            navLinks.classList.toggle('active');
+            
+            // Toggle animation for the hamburger icon
+            const spans = this.querySelectorAll('span');
+            spans.forEach(span => span.classList.toggle('active'));
+        });
+        
+        // Close menu when clicking outside
+        document.addEventListener('click', function(event) {
+            if (!navLinks.contains(event.target) && !mobileMenuToggle.contains(event.target)) {
+                navLinks.classList.remove('active');
+                const spans = mobileMenuToggle.querySelectorAll('span');
+                spans.forEach(span => span.classList.remove('active'));
             }
         });
     }

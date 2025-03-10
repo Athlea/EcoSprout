@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="/css/home.css" asp-append-version="true" />
     <link rel="stylesheet" href="/css/monitoring.css" asp-append-version="true" />
     <link rel="stylesheet" href="/css/babycarrots.css" asp-append-version="true" />
-    <script type="module" src="/js/firebase.js"></script>
+     <script type="module" src="/js/firebase.js"></script>
     <script type="module" src="/js/monitoring.js"></script>
     <script type="module" src="/js/login.js"></script>
 </head>
@@ -27,7 +27,6 @@
     @await Html.PartialAsync("_NavbarPartial")
 
     <main class="plant-monitoring-main">
-        
         <div class="plant-header">
             <div class="plant-image-large">
                 <img src="/images/carrot-sow-and-grow.jpg" alt="Baby Carrots">
@@ -45,12 +44,18 @@
             <div class="monitoring-data">
                 <div class="data-card">
                     <h3>Temperature</h3>
+<<<<<<< HEAD
                     <div class="data-value">29.25°C</div>
                     <div class="data-status optimal">Optimal</div>
+=======
+                    <div class="data-value" id="tempValue">--°C</div>
+                    <div class="data-status optimal" id="tempStatus">Loading...</div>
+>>>>>>> odd-branch
                 </div>
                 
                 <div class="data-card">
                     <h3>Soil Moisture</h3>
+<<<<<<< HEAD
                     <div class="data-value">365%</div>
                     <div class="data-status optimal">Not Optimal</div>
                 </div>
@@ -65,6 +70,27 @@
                             <input type="checkbox" id="autoWaterToggle" checked>
                             <span class="slider round"></span>
                         </label>
+=======
+                    <div class="data-value" id="moistureValue">--%</div>
+                    <div class="data-status optimal" id="moistureStatus">Loading...</div>
+                </div>
+            </div>
+            
+            <div class="watering-controls">
+                <h2>Watering Controls</h2>
+                <div class="auto-control">
+                    <label class="switch-label">Auto Water Control</label>
+                    <label class="switch">
+                        <input type="checkbox" id="autoWaterToggle" checked>
+                        <span class="slider round"></span>
+                    </label>
+                </div>
+                
+                <div class="manual-controls" id="manualControls">
+                    <div class="control-group">
+                        <label for="waterDate">Set Date:</label>
+                        <input type="date" id="waterDate" disabled>
+>>>>>>> odd-branch
                     </div>
                     
                     <div class="manual-controls" id="manualControls">
@@ -100,6 +126,7 @@
                         <th>Mode</th>
                     </tr>
                 </thead>
+<<<<<<< HEAD
                 <tbody>
                     <tr>
                         <td>12/30/23</td>
@@ -119,6 +146,10 @@
                         <td>10 mins</td>
                         <td>Automatic</td> 
                     </tr>
+=======
+                <tbody id="historyTableBody">
+                    <!-- Watering history will be dynamically inserted here -->
+>>>>>>> odd-branch
                 </tbody>
             </table>
         </div>

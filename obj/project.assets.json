@@ -75,24 +75,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Athlea Baril\\.nuget\\packages\\": {}
+    "C:\\Users\\Audrei\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\EcoSprout.csproj",
+      "projectUniqueName": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\EcoSprout.csproj",
       "projectName": "EcoSprout",
-      "projectPath": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\EcoSprout.csproj",
-      "packagesPath": "C:\\Users\\Athlea Baril\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\",
+      "projectPath": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\EcoSprout.csproj",
+      "packagesPath": "C:\\Users\\Audrei\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Athlea Baril\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Audrei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -144,5 +146,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

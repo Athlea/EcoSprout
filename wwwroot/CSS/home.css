@@ -286,11 +286,14 @@
         gap: 0.5rem !important;
     }
     
+    .dashboard-card {
+        max-width: 100%;
     /* Ensure nav items have proper spacing */
     .nav-item {
         padding: 0.4rem 0.8rem !important;
         font-size: 0.9rem !important;
     }
+} 
     
     /* Landing nav adjustments */
     .landing-nav {
@@ -318,7 +321,3 @@
         font-size: 1.2rem !important;
     }
 }
-
-
-
-

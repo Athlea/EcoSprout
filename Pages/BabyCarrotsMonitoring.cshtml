@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="/css/home.css" asp-append-version="true" />
     <link rel="stylesheet" href="/css/monitoring.css" asp-append-version="true" />
     <link rel="stylesheet" href="/css/babycarrots.css" asp-append-version="true" />
-    <script type="module" src="/js/firebase.js"></script>
+     <script type="module" src="/js/firebase.js"></script>
     <script type="module" src="/js/monitoring.js"></script>
     <script type="module" src="/js/login.js"></script>
 </head>
@@ -39,7 +39,6 @@
     </nav>
 
     <main class="plant-monitoring-main">
-        
         <div class="plant-header">
             <div class="plant-image-large">
                 <img src="/images/carrot-sow-and-grow.jpg" alt="Baby Carrots">
@@ -57,20 +56,19 @@
             <div class="monitoring-data1">
                 <div class="data-card">
                     <h3>Temperature</h3>
-                    <div class="data-value">24°C</div>
-                    <div class="data-status optimal">Optimal</div>
+                    <div class="data-value" id="tempValue">--°C</div>
+                    <div class="data-status optimal" id="tempStatus">Loading...</div>
                 </div>
                 
                 <div class="data-card">
                     <h3>Soil Moisture</h3>
-                    <div class="data-value">65%</div>
-                    <div class="data-status optimal">Optimal</div>
+                    <div class="data-value" id="moistureValue">--%</div>
+                    <div class="data-status optimal" id="moistureStatus">Loading...</div>
                 </div>
             </div>
             
             <div class="watering-controls">
                 <h2>Watering Controls</h2>
-                
                 <div class="auto-control">
                     <label class="switch-label">Auto Water Control</label>
                     <label class="switch">
@@ -111,26 +109,8 @@
                         <th>Mode</th>
                     </tr>
                 </thead>
-                <tbody>
-                    <tr>
-                        <td>12/30/23</td>
-                        <td>4:59 AM</td>
-                        <td>10 minutes</td>
-                        <td>Automatic</td>
-                    </tr>
-                    <tr>
-                        <td>12/29/23</td>
-                        <td>5:30 PM</td>
-                        <td>8 minutes</td>
-                        <td>Automatic</td>
-                    </tr>
-                    <tr>
-                        <td>12/29/23</td>
-                        <td>6:15 AM</td>
-                        <td>10 minutes</td>
-                        <td>Automatic</td> 
-                        
-                    </tr>
+                <tbody id="historyTableBody">
+                    <!-- Watering history will be dynamically inserted here -->
                 </tbody>
             </table>
         </div>

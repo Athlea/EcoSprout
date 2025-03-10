@@ -96,12 +96,229 @@
 
 /* Responsive design */
 @media (max-width: 768px) {
-    .dashboard-cards {
-        flex-direction: column;
-        align-items: center;
+    /* Make cards 90% width with even margins */
+    .monitoring-container,
+    .history-section {
+        width: 90% !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        padding: 0 !important;
+    }
+
+    .watering-section {
+        width: 100% !important;
+        margin-left: 0 !important;
+        margin-right: 0!important;
+        padding: 0 !important;
+    }
+
+    
+    /* Ensure cards stack properly */
+    .monitoring-data {
+        flex-direction: column !important;
+        gap: 1rem !important;
     }
     
-    .dashboard-card {
-        max-width: 100%;
+    /* Make each card full width of container */
+    .data-card,
+    .watering-controls,
+    .history-table {
+        width: 100% !important;
+        max-width: 100% !important;
+        margin-bottom: 1rem !important;
     }
-} 
+    
+    /* Fix navbar alignment */
+    .nav-container {
+        display: flex !important;
+        flex-direction: row !important;
+        justify-content: space-between !important;
+        align-items: center !important;
+        padding: 0.5rem 1rem !important;
+        width: 100% !important;
+        height: 3.5rem !important;
+    }
+    
+    /* Logo positioning with consistent margin */
+    .logo {
+        margin: 0 0 0 0.5rem !important;
+    }
+    
+    /* Mobile menu toggle button with consistent margin */
+    .mobile-menu-toggle {
+        display: flex !important;
+        margin: 0 0.5rem 0 0 !important;
+        position: relative !important;
+    }
+    
+    /* Remove orange background color */
+    .monitoring-data,
+    .watering-section,
+    .history-section {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        background-color: transparent !important;
+    }
+    
+    /* Ensure nav links appear below the header */
+    .nav-links {
+        position: absolute !important;
+        top: 100% !important;
+        left: 0 !important;
+        right: 0 !important;
+    }
+    
+    /* Remove any conflicting styles */
+    .landing-nav {
+        padding: 0 !important;
+    }
+}
+
+/* Mobile Navigation Styles from monitoring.css */
+.nav-container {
+    position: relative;
+}
+
+.mobile-menu-toggle {
+    display: none;
+    background-color: transparent;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    cursor: pointer;
+    z-index: 1001;
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 5px;
+    margin-left: auto;
+}
+
+.mobile-menu-toggle span {
+    display: block;
+    height: 3px;
+    width: 24px;
+    background-color: var(--primary);
+    border-radius: 3px;
+    transition: all 0.3s ease;
+}
+
+/* Nav links background */
+.nav-links {
+    background-color: white !important;
+}
+
+/* Mobile view styles */
+@media (max-width: 768px) {
+    /* Navbar container */
+    .nav-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 1rem;
+        width: 100%;
+    }
+    
+    /* Logo positioning */
+    .logo {
+        margin-right: auto;
+    }
+    
+    /* Mobile menu toggle button */
+    .mobile-menu-toggle {
+        display: flex;
+        margin-left: auto;
+    }
+    
+    /* Nav links dropdown */
+    .nav-links {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background-color: white !important;
+        flex-direction: column;
+        align-items: center;
+        padding: 1rem 0;
+        gap: 1rem;
+        display: none;
+        z-index: 1000;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        width: 100%;
+    }
+    
+    /* Active state for nav links */
+    .nav-links.active {
+        display: flex;
+    }
+    
+    /* Nav items in mobile view */
+    .nav-item, .nav-button {
+        width: 80%;
+        text-align: center;
+        padding: 0.8rem;
+    }
+    
+    /* Button styling */
+    .nav-button {
+        font-size: 0.9rem !important;
+        padding: 0.4rem 1rem !important;
+        margin: 0.3rem !important;
+        width: auto !important;
+        min-width: 80px !important;
+        max-width: 100px !important;
+    }
+    
+    /* Adjust nav container for better mobile layout */
+    .nav-container {
+        padding: 0.3rem 0.5rem !important;
+    }
+    
+    /* Make logo smaller on mobile */
+    .logo a {
+        font-size: 1.3rem !important;
+    }
+    
+    /* Adjust nav links spacing */
+    .nav-links {
+        gap: 0.5rem !important;
+    }
+    
+    /* Ensure nav items have proper spacing */
+    .nav-item {
+        padding: 0.4rem 0.8rem !important;
+        font-size: 0.9rem !important;
+    }
+    
+    /* Landing nav adjustments */
+    .landing-nav {
+        position: fixed;
+        width: 100%;
+        top: 0;
+        background-color: white;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        z-index: 1000;
+        height: auto;
+        min-height: 3.5rem;
+    }
+}
+
+/* Smaller screens */
+@media (max-width: 480px) {
+    .nav-button {
+        font-size: 0.8rem !important;
+        padding: 0.3rem 0.8rem !important;
+        min-width: 70px !important;
+        max-width: 90px !important;
+    }
+    
+    .logo a {
+        font-size: 1.2rem !important;
+    }
+}
+
+
+
+

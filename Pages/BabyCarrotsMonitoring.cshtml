@@ -24,24 +24,7 @@
     <script type="module" src="/js/login.js"></script>
 </head>
 <body>
-    <nav class="landing-nav">
-        <div class="nav-container">
-            <div class="logo">
-                <a href="/">EcoSprout</a>
-            </div>
-            <div class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Toggle menu">
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-            <div class="nav-links" id="navLinks">
-                <a href="/home" class="nav-item">Dashboard</a>
-                <a href="/monitoring" class="nav-item active">Monitoring</a>
-                <a href="/reports" class="nav-item">Reports</a>
-                <a href="#" class="nav-button">Log Out</a>
-            </div>
-        </div>
-    </nav>
+    @await Html.PartialAsync("_NavbarPartial")
 
     <main class="plant-monitoring-main">
         
@@ -62,14 +45,14 @@
             <div class="monitoring-data">
                 <div class="data-card">
                     <h3>Temperature</h3>
-                    <div class="data-value">24°C</div>
+                    <div class="data-value">29.25°C</div>
                     <div class="data-status optimal">Optimal</div>
                 </div>
                 
                 <div class="data-card">
                     <h3>Soil Moisture</h3>
-                    <div class="data-value">65%</div>
-                    <div class="data-status optimal">Optimal</div>
+                    <div class="data-value">365%</div>
+                    <div class="data-status optimal">Not Optimal</div>
                 </div>
             </div>
             
@@ -144,11 +127,5 @@
     <footer>
         <p>&copy; 2024 EcoSprout - Smart Irrigation System</p>
     </footer>
-
-    <script>
-        document.getElementById('mobileMenuToggle').addEventListener('click', function() {
-            document.getElementById('navLinks').classList.toggle('active');
-        });
-    </script>
 </body>
 </html>

@@ -19,19 +19,7 @@
     <script src="/js/login.js" defer></script>
 </head>
 <body>
-    <nav class="landing-nav">
-        <div class="nav-container">
-            <div class="logo">
-                <a href="/">EcoSprout</a>
-            </div>
-            <div class="nav-links">
-                <a href="/home" class="nav-item active">Dashboard</a>
-                <a href="/monitoring" class="nav-item">Monitoring</a>
-                <a href="/reports" class="nav-item">Reports</a>
-                <a href="#" class="nav-button">Log Out</a>
-            </div>
-        </div>
-    </nav>
+    @await Html.PartialAsync("_NavbarPartial")
 
     <main class="home-main">
         <h1>Welcome to EcoSprout Dashboard</h1>

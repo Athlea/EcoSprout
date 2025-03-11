@@ -5,16 +5,14 @@
     Layout = null;
     ViewData["Title"] = "Baby Carrots Monitoring";
 }
-
+ 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Baby Carrots Monitoring - EcoSprout</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/css/landing.css" asp-append-version="true" />
     <link rel="stylesheet" href="/css/home.css" asp-append-version="true" />
     <link rel="stylesheet" href="/css/monitoring.css" asp-append-version="true" />
@@ -24,8 +22,20 @@
     <script type="module" src="/js/login.js"></script>
 </head>
 <body>
-    @await Html.PartialAsync("_NavbarPartial")
-
+    <nav class="landing-nav">
+        <div class="nav-container">
+            <div class="logo">
+                <a href="/">EcoSprout</a>
+            </div>
+            <div class="nav-links">
+                <a href="/home" class="nav-item">Dashboard</a>
+                <a href="/monitoring" class="nav-item active">Monitoring</a>
+                <a href="/reports" class="nav-item">Reports</a>
+                <a href="#" class="nav-button">Log Out</a>
+            </div>
+        </div>
+    </nav>
+ 
     <main class="plant-monitoring-main">
         <div class="plant-header">
             <div class="plant-image-large">
@@ -40,8 +50,8 @@
             </div>
         </div>
         
-        <div class="monitoring-container">
-            <div class="monitoring-data">
+        <div class="monitoring-container1">
+            <div class="monitoring-data1">
                 <div class="data-card">
                     <h3>Temperature</h3>
                     <div class="data-value" id="tempValue">--°C</div>
@@ -55,40 +65,34 @@
                 </div>
             </div>
             
-            <div class="watering-section">
+            <div class="watering-controls">
                 <h2>Watering Controls</h2>
-                <div class="watering-card">
-                    <div class="auto-toggle">
-                        <span class="switch-label">Auto Water Control</span>
-                        <label class="switch">
-                            <input type="checkbox" id="autoWaterToggle">
-                            <span class="slider round"></span>
-                        </label>
-                        <div class="auto-control-indicator">You're in automatic control</div>
-                    </div>
-                    <div class="auto-control-separator"></div>
-                    <!-- Manual controls section -->
-                    <div class="manual-controls" id="manualControls">
-                        <div class="control-group">
-                            <label for="waterDate">Set Date:</label>
-                            <input type="date" id="waterDate" disabled>
-                        </div>
-                    
-                        <div class="control-group">
-                            <label for="waterTime">Set Time:</label>
-                            <input type="time" id="waterTime" disabled>
-                        </div>
-                    
-                        <div class="control-group">
-                            <label for="waterDuration">Set Duration (minutes):</label>
-                            <input type="number" id="waterDuration" min="1" step="1" placeholder="Enter duration" disabled>
-                        </div>
-                    
-                </div>
-                     <button class="water-now-button" disabled>Water Now</button>
+                <div class="auto-control">
+                    <label class="switch-label">Auto Water Control</label>
+                    <label class="switch">
+                        <input type="checkbox" id="autoWaterToggle" checked>
+                        <span class="slider round"></span>
+                    </label>
                 </div>
                 
-               
+                <div class="manual-controls" id="manualControls">
+                    <div class="control-group">
+                        <label for="waterDate">Set Date:</label>
+                        <input type="date" id="waterDate" disabled>
+                    </div>
+                    
+                    <div class="control-group">
+                        <label for="waterTime">Set Time:</label>
+                        <input type="time" id="waterTime" disabled>
+                    </div>
+                    
+                    <div class="control-group">
+                        <label for="waterDuration">Set Duration (minutes):</label>
+                        <input type="number" id="waterDuration" min="1" step="1" placeholder="Enter duration" disabled>
+                    </div>
+                    
+                    <button class="water-now-button" disabled>Water Now</button>
+                </div>
             </div>
         </div>
         
@@ -109,9 +113,10 @@
             </table>
         </div>
     </main>
-
+ 
     <footer>
         <p>&copy; 2024 EcoSprout - Smart Irrigation System</p>
     </footer>
+ 
 </body>
 </html>

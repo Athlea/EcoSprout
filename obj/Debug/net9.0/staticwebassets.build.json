@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aKATsmo0WFsPxcW/zbVlDop8G+ughbGnHZYPbK+kVaE=",
+  "Hash": "S5C2YUX+yqPnNhlitsI0IH55axT3gYjhiblm08Bg/bs=",
   "Source": "EcoSprout",
   "BasePath": "_content/EcoSprout",
   "Mode": "Default",
@@ -10,38 +10,38 @@
     {
       "Name": "EcoSprout\\wwwroot",
       "Source": "EcoSprout",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-h3ttafzkgj.gz",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-vintxxafq5.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
-      "RelativePath": "JS/login#[.{fingerprint=h3ttafzkgj}]?.js.gz",
+      "RelativePath": "JS/login#[.{fingerprint=vintxxafq5}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\login.js",
+      "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\login.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "l1v5voay78",
-      "Integrity": "l9QvkTFLX+ej6ZArC+CfpBS0L2i1HRMrWR2Q8DQ15nk=",
+      "Fingerprint": "lnxdns7qwn",
+      "Integrity": "oUJplKvkqo06A67aJc1kQ1G6E38c9uqjwfg4ooOhT4U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\login.js"
+      "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\login.js"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "JS/site#[.{fingerprint=l4u88u84xu}]?.js.gz",
       "AssetKind": "All",
@@ -49,41 +49,41 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\site.js",
+      "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "82fbt9attl",
       "Integrity": "AAJ0sB50oqQKwtCf69yBJTCnkVk+xduwQKumIJFu2JU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\site.js"
+      "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-v4vdh84js5.gz",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-qukbpsywby.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
-      "RelativePath": "JS/monitoring#[.{fingerprint=v4vdh84js5}]?.js.gz",
+      "RelativePath": "JS/monitoring#[.{fingerprint=qukbpsywby}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\monitoring.js",
+      "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\monitoring.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ejk0x7ajcl",
-      "Integrity": "+gRO4TKicydI0ubf+N6euGYwMUSniBZjv/oN+tHGtks=",
+      "Fingerprint": "44g64cvzci",
+      "Integrity": "FHuEjJE4Z2gzi6U9LILgE4ZNrlrfN9xi1GbVhT7Spv8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\monitoring.js"
+      "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\monitoring.js"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\3cygv4boiu-yeweu138dy.gz",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\3cygv4boiu-yeweu138dy.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "CSS/babycarrots#[.{fingerprint=yeweu138dy}]?.css.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\babycarrots.css",
+      "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\babycarrots.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "t2uxj9own7",
       "Integrity": "hU0jSCpKU5VL+XgqCS3Fh3WjrTAjpsMUpqQWg0lezdM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\babycarrots.css"
+      "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\babycarrots.css"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\meuks61lt1-atmbwuq3vk.gz",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\meuks61lt1-atmbwuq3vk.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "CSS/about#[.{fingerprint=atmbwuq3vk}]?.css.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\about.css",
+      "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\about.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "pptdn3iqra",
       "Integrity": "rdqrDIqOXyoVbt1CU7WxtwGCfswynA6eEQcayhsu2VU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\about.css"
+      "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\about.css"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-6ffs7rygp4.gz",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-6ffs7rygp4.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "CSS/monitoring#[.{fingerprint=6ffs7rygp4}]?.css.gz",
       "AssetKind": "All",
@@ -133,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\monitoring.css",
+      "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\monitoring.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "s92s8cm45b",
       "Integrity": "gBKW1MGLNYMqWzd+n0+0xqExvyucM1l2zmZHsZk9FS0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\monitoring.css"
+      "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\monitoring.css"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\rvehggpqqb-o5zdrte0il.gz",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\rvehggpqqb-o5zdrte0il.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "CSS/home#[.{fingerprint=o5zdrte0il}]?.css.gz",
       "AssetKind": "All",
@@ -154,20 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\home.css",
+      "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\home.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "a9mltavl5o",
       "Integrity": "7jjUHsNWwAV8km3zVIpyIEBC219C/sMaueu+ZFFtPAc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\home.css"
+      "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\home.css"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\x0z6sf3w7c-srpcs59il4.gz",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\x0z6sf3w7c-srpcs59il4.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "CSS/offers#[.{fingerprint=srpcs59il4}]?.css.gz",
       "AssetKind": "All",
@@ -175,20 +175,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\offers.css",
+      "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\offers.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "i8fvwdy28t",
       "Integrity": "4nKtZiygj5ESoOoLkAz9ucteRwqtS+rlrWItetespRk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\offers.css"
+      "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\offers.css"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\xdr4vcix07-jchemkr0ux.gz",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\xdr4vcix07-jchemkr0ux.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "CSS/landing#[.{fingerprint=jchemkr0ux}]?.css.gz",
       "AssetKind": "All",
@@ -196,20 +196,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\landing.css",
+      "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\landing.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "2yihp1xvdv",
       "Integrity": "KqfrWObXXtZAJgytKXHaBoL8I+FAJMys5KBwgCNuSRM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\landing.css"
+      "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\landing.css"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-3f6ghhrofl.gz",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-3f6ghhrofl.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "JS/firebase#[.{fingerprint=3f6ghhrofl}]?.js.gz",
       "AssetKind": "All",
@@ -217,20 +217,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\firebase.js",
+      "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\firebase.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "zyhr6wxk2q",
       "Integrity": "RRbGQV1BYUqQXGCDspPS4Ixk8KVvR89hkkBhslZAA1Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\firebase.js"
+      "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\firebase.js"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\zlfn3zgx7f-6835s9t8oa.gz",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\zlfn3zgx7f-6835s9t8oa.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "CSS/site#[.{fingerprint=6835s9t8oa}]?.css.gz",
       "AssetKind": "All",
@@ -238,20 +238,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\site.css",
+      "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "mszvzxv7be",
       "Integrity": "CmLfViEsuDvEhAqxQbhHdCTM24JyaeMLvMpw2D65os8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\site.css"
+      "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\about.css",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\about.css",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "CSS/about#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\CSS\\about.css"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\babycarrots.css",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\babycarrots.css",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "CSS/babycarrots#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\CSS\\babycarrots.css"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\home.css",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\home.css",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "CSS/home#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\CSS\\home.css"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\landing.css",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\landing.css",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "CSS/landing#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\CSS\\landing.css"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\monitoring.css",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\monitoring.css",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "CSS/monitoring#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\CSS\\monitoring.css"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\offers.css",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\offers.css",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "CSS/offers#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\CSS\\offers.css"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\site.css",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\site.css",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "CSS/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\CSS\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\ath.jpg",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\ath.jpg",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "images/ath#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ath.jpg"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\aud.jpg",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\aud.jpg",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "images/aud#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\images\\aud.jpg"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\automated-irrigation-system-plant-growth_1305396-6020.png",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\automated-irrigation-system-plant-growth_1305396-6020.png",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "images/automated-irrigation-system-plant-growth_1305396-6020#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\images\\automated-irrigation-system-plant-growth_1305396-6020.png"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\carrot-sow-and-grow.jpg",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\carrot-sow-and-grow.jpg",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "images/carrot-sow-and-grow#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\carrot-sow-and-grow.jpg"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\How-to-Grow-Lettuce-1-600x600.png",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\How-to-Grow-Lettuce-1-600x600.png",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "images/How-to-Grow-Lettuce-1-600x600#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\images\\How-to-Grow-Lettuce-1-600x600.png"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\leafyveggies.jpg",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\leafyveggies.jpg",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "images/leafyveggies#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\images\\leafyveggies.jpg"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\radishblog-lead_d3082c7e-3f90-46a1-aa4b-543f1472e867.jpg",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\radishblog-lead_d3082c7e-3f90-46a1-aa4b-543f1472e867.jpg",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "images/radishblog-lead_d3082c7e-3f90-46a1-aa4b-543f1472e867#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\images\\radishblog-lead_d3082c7e-3f90-46a1-aa4b-543f1472e867.jpg"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\ven.jpg",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\ven.jpg",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "images/ven#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ven.jpg"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\firebase.js",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\firebase.js",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "JS/firebase#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\JS\\firebase.js"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\login.js",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\login.js",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "JS/login#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -598,17 +598,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "h3ttafzkgj",
-      "Integrity": "c7HCN6yqGlC6xugSgZ/lZycOWZn7hNcwJLKEoY7adxA=",
+      "Fingerprint": "vintxxafq5",
+      "Integrity": "V2E83NfZxvVvoPX3s8zu+yB2H/wHCMprkIj4iSQfCjw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\login.js"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\monitoring.js",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\monitoring.js",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "JS/monitoring#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -619,17 +619,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "v4vdh84js5",
-      "Integrity": "IVDSKzIHuffbs4Nsvw3tUDSq3bJF9vpUCcoL0WZmCvA=",
+      "Fingerprint": "qukbpsywby",
+      "Integrity": "rvhRpJExQ6S/o3EwVeL4qkwgmO3uL8HNzAoaTtQMZRc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\monitoring.js"
     },
     {
-      "Identity": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\site.js",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\site.js",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
       "RelativePath": "JS/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -650,7 +650,7 @@
   "Endpoints": [
     {
       "Route": "CSS/about.atmbwuq3vk.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\meuks61lt1-atmbwuq3vk.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\meuks61lt1-atmbwuq3vk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -673,7 +673,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:22:43 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -713,7 +713,7 @@
     },
     {
       "Route": "CSS/about.atmbwuq3vk.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\about.css",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\about.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -734,7 +734,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:22:43 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -758,7 +758,7 @@
     },
     {
       "Route": "CSS/about.atmbwuq3vk.css.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\meuks61lt1-atmbwuq3vk.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\meuks61lt1-atmbwuq3vk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -779,7 +779,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:22:43 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -811,7 +811,7 @@
     },
     {
       "Route": "CSS/about.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\meuks61lt1-atmbwuq3vk.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\meuks61lt1-atmbwuq3vk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -834,7 +834,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:22:43 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -866,7 +866,7 @@
     },
     {
       "Route": "CSS/about.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\about.css",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\about.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -887,7 +887,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:22:43 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -903,7 +903,7 @@
     },
     {
       "Route": "CSS/about.css.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\meuks61lt1-atmbwuq3vk.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\meuks61lt1-atmbwuq3vk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -924,7 +924,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:22:43 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -948,7 +948,7 @@
     },
     {
       "Route": "CSS/babycarrots.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\3cygv4boiu-yeweu138dy.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\3cygv4boiu-yeweu138dy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -971,7 +971,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 09:56:24 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1003,7 +1003,7 @@
     },
     {
       "Route": "CSS/babycarrots.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\babycarrots.css",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\babycarrots.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1024,7 +1024,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 09:56:24 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1040,7 +1040,7 @@
     },
     {
       "Route": "CSS/babycarrots.css.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\3cygv4boiu-yeweu138dy.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\3cygv4boiu-yeweu138dy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1061,7 +1061,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 09:56:24 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1085,7 +1085,7 @@
     },
     {
       "Route": "CSS/babycarrots.yeweu138dy.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\3cygv4boiu-yeweu138dy.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\3cygv4boiu-yeweu138dy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1108,7 +1108,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 09:56:24 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1148,7 +1148,7 @@
     },
     {
       "Route": "CSS/babycarrots.yeweu138dy.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\babycarrots.css",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\babycarrots.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1169,7 +1169,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 09:56:24 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1193,7 +1193,7 @@
     },
     {
       "Route": "CSS/babycarrots.yeweu138dy.css.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\3cygv4boiu-yeweu138dy.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\3cygv4boiu-yeweu138dy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1214,7 +1214,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 09:56:24 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1246,7 +1246,7 @@
     },
     {
       "Route": "CSS/home.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\rvehggpqqb-o5zdrte0il.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\rvehggpqqb-o5zdrte0il.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1269,7 +1269,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1301,7 +1301,7 @@
     },
     {
       "Route": "CSS/home.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\home.css",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\home.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1322,7 +1322,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1338,7 +1338,7 @@
     },
     {
       "Route": "CSS/home.css.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\rvehggpqqb-o5zdrte0il.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\rvehggpqqb-o5zdrte0il.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1359,7 +1359,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1383,7 +1383,7 @@
     },
     {
       "Route": "CSS/home.o5zdrte0il.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\rvehggpqqb-o5zdrte0il.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\rvehggpqqb-o5zdrte0il.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1406,7 +1406,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1446,7 +1446,7 @@
     },
     {
       "Route": "CSS/home.o5zdrte0il.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\home.css",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\home.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1467,7 +1467,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1491,7 +1491,7 @@
     },
     {
       "Route": "CSS/home.o5zdrte0il.css.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\rvehggpqqb-o5zdrte0il.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\rvehggpqqb-o5zdrte0il.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1512,7 +1512,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1544,7 +1544,7 @@
     },
     {
       "Route": "CSS/landing.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\xdr4vcix07-jchemkr0ux.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\xdr4vcix07-jchemkr0ux.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1567,7 +1567,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1599,7 +1599,7 @@
     },
     {
       "Route": "CSS/landing.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\landing.css",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\landing.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1620,7 +1620,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1636,7 +1636,7 @@
     },
     {
       "Route": "CSS/landing.css.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\xdr4vcix07-jchemkr0ux.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\xdr4vcix07-jchemkr0ux.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1657,7 +1657,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1681,7 +1681,7 @@
     },
     {
       "Route": "CSS/landing.jchemkr0ux.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\xdr4vcix07-jchemkr0ux.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\xdr4vcix07-jchemkr0ux.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1704,7 +1704,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1744,7 +1744,7 @@
     },
     {
       "Route": "CSS/landing.jchemkr0ux.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\landing.css",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\landing.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1765,7 +1765,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1789,7 +1789,7 @@
     },
     {
       "Route": "CSS/landing.jchemkr0ux.css.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\xdr4vcix07-jchemkr0ux.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\xdr4vcix07-jchemkr0ux.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1810,7 +1810,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1842,7 +1842,7 @@
     },
     {
       "Route": "CSS/monitoring.6ffs7rygp4.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-6ffs7rygp4.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-6ffs7rygp4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1865,7 +1865,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 10:32:25 GMT"
+          "Value": "Tue, 11 Mar 2025 12:04:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1905,7 +1905,7 @@
     },
     {
       "Route": "CSS/monitoring.6ffs7rygp4.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\monitoring.css",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\monitoring.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1926,7 +1926,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 10:32:25 GMT"
+          "Value": "Tue, 11 Mar 2025 12:04:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1950,7 +1950,7 @@
     },
     {
       "Route": "CSS/monitoring.6ffs7rygp4.css.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-6ffs7rygp4.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-6ffs7rygp4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1971,7 +1971,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 10:32:25 GMT"
+          "Value": "Tue, 11 Mar 2025 12:04:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2003,7 +2003,7 @@
     },
     {
       "Route": "CSS/monitoring.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-6ffs7rygp4.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-6ffs7rygp4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2026,7 +2026,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 10:32:25 GMT"
+          "Value": "Tue, 11 Mar 2025 12:04:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2058,7 +2058,7 @@
     },
     {
       "Route": "CSS/monitoring.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\monitoring.css",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\monitoring.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2079,7 +2079,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 10:32:25 GMT"
+          "Value": "Tue, 11 Mar 2025 12:04:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2095,7 +2095,7 @@
     },
     {
       "Route": "CSS/monitoring.css.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-6ffs7rygp4.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-6ffs7rygp4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2116,7 +2116,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 10:32:25 GMT"
+          "Value": "Tue, 11 Mar 2025 12:04:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2140,7 +2140,7 @@
     },
     {
       "Route": "CSS/offers.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\x0z6sf3w7c-srpcs59il4.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\x0z6sf3w7c-srpcs59il4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2163,7 +2163,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:28:23 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2195,7 +2195,7 @@
     },
     {
       "Route": "CSS/offers.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\offers.css",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\offers.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2216,7 +2216,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:28:23 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2232,7 +2232,7 @@
     },
     {
       "Route": "CSS/offers.css.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\x0z6sf3w7c-srpcs59il4.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\x0z6sf3w7c-srpcs59il4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2253,7 +2253,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:28:23 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2277,7 +2277,7 @@
     },
     {
       "Route": "CSS/offers.srpcs59il4.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\x0z6sf3w7c-srpcs59il4.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\x0z6sf3w7c-srpcs59il4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2300,7 +2300,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:28:23 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2340,7 +2340,7 @@
     },
     {
       "Route": "CSS/offers.srpcs59il4.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\offers.css",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\offers.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2361,7 +2361,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:28:23 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2385,7 +2385,7 @@
     },
     {
       "Route": "CSS/offers.srpcs59il4.css.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\x0z6sf3w7c-srpcs59il4.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\x0z6sf3w7c-srpcs59il4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2406,7 +2406,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 19:28:23 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2438,7 +2438,7 @@
     },
     {
       "Route": "CSS/site.6835s9t8oa.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\zlfn3zgx7f-6835s9t8oa.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\zlfn3zgx7f-6835s9t8oa.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2461,7 +2461,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 23:33:18 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2501,7 +2501,7 @@
     },
     {
       "Route": "CSS/site.6835s9t8oa.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\site.css",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2522,7 +2522,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 23:33:18 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2546,7 +2546,7 @@
     },
     {
       "Route": "CSS/site.6835s9t8oa.css.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\zlfn3zgx7f-6835s9t8oa.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\zlfn3zgx7f-6835s9t8oa.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2567,7 +2567,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 23:33:18 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2599,7 +2599,7 @@
     },
     {
       "Route": "CSS/site.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\zlfn3zgx7f-6835s9t8oa.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\zlfn3zgx7f-6835s9t8oa.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2622,7 +2622,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 23:33:18 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2654,7 +2654,7 @@
     },
     {
       "Route": "CSS/site.css",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\CSS\\site.css",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2675,7 +2675,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 23:33:18 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2691,7 +2691,7 @@
     },
     {
       "Route": "CSS/site.css.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\zlfn3zgx7f-6835s9t8oa.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\zlfn3zgx7f-6835s9t8oa.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2712,7 +2712,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 23:33:18 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2736,7 +2736,7 @@
     },
     {
       "Route": "images/ath.jpg",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\ath.jpg",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\ath.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2757,7 +2757,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 02:14:58 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2773,7 +2773,7 @@
     },
     {
       "Route": "images/ath.w8pi40aq9d.jpg",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\ath.jpg",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\ath.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2794,7 +2794,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 02:14:58 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2818,7 +2818,7 @@
     },
     {
       "Route": "images/aud.3msqbc96qi.jpg",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\aud.jpg",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\aud.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2839,7 +2839,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 02:28:00 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2863,7 +2863,7 @@
     },
     {
       "Route": "images/aud.jpg",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\aud.jpg",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\aud.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2884,7 +2884,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 02:28:00 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2900,7 +2900,7 @@
     },
     {
       "Route": "images/automated-irrigation-system-plant-growth_1305396-6020.5b07ut9dn2.png",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\automated-irrigation-system-plant-growth_1305396-6020.png",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\automated-irrigation-system-plant-growth_1305396-6020.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2921,7 +2921,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 18:54:14 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2945,7 +2945,7 @@
     },
     {
       "Route": "images/automated-irrigation-system-plant-growth_1305396-6020.png",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\automated-irrigation-system-plant-growth_1305396-6020.png",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\automated-irrigation-system-plant-growth_1305396-6020.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2966,7 +2966,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 18:54:14 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2982,7 +2982,7 @@
     },
     {
       "Route": "images/carrot-sow-and-grow.i3lq75yzjg.jpg",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\carrot-sow-and-grow.jpg",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\carrot-sow-and-grow.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3003,7 +3003,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:33:38 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3027,7 +3027,7 @@
     },
     {
       "Route": "images/carrot-sow-and-grow.jpg",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\carrot-sow-and-grow.jpg",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\carrot-sow-and-grow.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3048,7 +3048,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:33:38 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3064,7 +3064,7 @@
     },
     {
       "Route": "images/How-to-Grow-Lettuce-1-600x600.0rnkdjiqjm.png",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\How-to-Grow-Lettuce-1-600x600.png",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\How-to-Grow-Lettuce-1-600x600.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3085,7 +3085,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:37:45 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3109,7 +3109,7 @@
     },
     {
       "Route": "images/How-to-Grow-Lettuce-1-600x600.png",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\How-to-Grow-Lettuce-1-600x600.png",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\How-to-Grow-Lettuce-1-600x600.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3130,7 +3130,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:37:45 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3146,7 +3146,7 @@
     },
     {
       "Route": "images/leafyveggies.jpg",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\leafyveggies.jpg",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\leafyveggies.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3167,7 +3167,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 00:33:56 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3183,7 +3183,7 @@
     },
     {
       "Route": "images/leafyveggies.zh5skc0au5.jpg",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\leafyveggies.jpg",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\leafyveggies.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3204,7 +3204,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 00:33:56 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3228,7 +3228,7 @@
     },
     {
       "Route": "images/radishblog-lead_d3082c7e-3f90-46a1-aa4b-543f1472e867.ih5l02n60j.jpg",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\radishblog-lead_d3082c7e-3f90-46a1-aa4b-543f1472e867.jpg",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\radishblog-lead_d3082c7e-3f90-46a1-aa4b-543f1472e867.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3249,7 +3249,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:38:05 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3273,7 +3273,7 @@
     },
     {
       "Route": "images/radishblog-lead_d3082c7e-3f90-46a1-aa4b-543f1472e867.jpg",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\radishblog-lead_d3082c7e-3f90-46a1-aa4b-543f1472e867.jpg",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\radishblog-lead_d3082c7e-3f90-46a1-aa4b-543f1472e867.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3294,7 +3294,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:38:05 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3310,7 +3310,7 @@
     },
     {
       "Route": "images/ven.j0dik9e9k2.jpg",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\ven.jpg",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\ven.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3331,7 +3331,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 02:14:05 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3355,7 +3355,7 @@
     },
     {
       "Route": "images/ven.jpg",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\images\\ven.jpg",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\images\\ven.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3376,7 +3376,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 02:14:05 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3392,7 +3392,7 @@
     },
     {
       "Route": "JS/firebase.3f6ghhrofl.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-3f6ghhrofl.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-3f6ghhrofl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3415,7 +3415,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
+          "Value": "Mon, 10 Mar 2025 15:43:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3455,7 +3455,7 @@
     },
     {
       "Route": "JS/firebase.3f6ghhrofl.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\firebase.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\firebase.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3476,7 +3476,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
+          "Value": "Mon, 10 Mar 2025 15:43:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3500,7 +3500,7 @@
     },
     {
       "Route": "JS/firebase.3f6ghhrofl.js.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-3f6ghhrofl.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-3f6ghhrofl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3521,7 +3521,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
+          "Value": "Mon, 10 Mar 2025 15:43:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3553,7 +3553,7 @@
     },
     {
       "Route": "JS/firebase.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-3f6ghhrofl.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-3f6ghhrofl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3576,7 +3576,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
+          "Value": "Mon, 10 Mar 2025 15:43:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3608,7 +3608,7 @@
     },
     {
       "Route": "JS/firebase.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\firebase.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\firebase.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3629,7 +3629,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
+          "Value": "Mon, 10 Mar 2025 15:43:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3645,7 +3645,7 @@
     },
     {
       "Route": "JS/firebase.js.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-3f6ghhrofl.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-3f6ghhrofl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3666,7 +3666,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 11:13:40 GMT"
+          "Value": "Mon, 10 Mar 2025 15:43:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3689,13 +3689,13 @@
       ]
     },
     {
-      "Route": "JS/login.h3ttafzkgj.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-h3ttafzkgj.gz",
+      "Route": "JS/login.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-vintxxafq5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001223990208"
+          "Quality": "0.001221001221"
         }
       ],
       "ResponseHeaders": [
@@ -3705,15 +3705,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "816"
+          "Value": "818"
         },
         {
           "Name": "ETag",
-          "Value": "\"l9QvkTFLX+ej6ZArC+CfpBS0L2i1HRMrWR2Q8DQ15nk=\""
+          "Value": "\"oUJplKvkqo06A67aJc1kQ1G6E38c9uqjwfg4ooOhT4U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 10:21:49 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"V2E83NfZxvVvoPX3s8zu+yB2H/wHCMprkIj4iSQfCjw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V2E83NfZxvVvoPX3s8zu+yB2H/wHCMprkIj4iSQfCjw="
+        }
+      ]
+    },
+    {
+      "Route": "JS/login.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V2E83NfZxvVvoPX3s8zu+yB2H/wHCMprkIj4iSQfCjw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V2E83NfZxvVvoPX3s8zu+yB2H/wHCMprkIj4iSQfCjw="
+        }
+      ]
+    },
+    {
+      "Route": "JS/login.js.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-vintxxafq5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oUJplKvkqo06A67aJc1kQ1G6E38c9uqjwfg4ooOhT4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oUJplKvkqo06A67aJc1kQ1G6E38c9uqjwfg4ooOhT4U="
+        }
+      ]
+    },
+    {
+      "Route": "JS/login.vintxxafq5.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-vintxxafq5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001221001221"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "818"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oUJplKvkqo06A67aJc1kQ1G6E38c9uqjwfg4ooOhT4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3733,13 +3870,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"c7HCN6yqGlC6xugSgZ/lZycOWZn7hNcwJLKEoY7adxA=\""
+          "Value": "W/\"V2E83NfZxvVvoPX3s8zu+yB2H/wHCMprkIj4iSQfCjw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "h3ttafzkgj"
+          "Value": "vintxxafq5"
         },
         {
           "Name": "label",
@@ -3747,13 +3884,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-c7HCN6yqGlC6xugSgZ/lZycOWZn7hNcwJLKEoY7adxA="
+          "Value": "sha256-V2E83NfZxvVvoPX3s8zu+yB2H/wHCMprkIj4iSQfCjw="
         }
       ]
     },
     {
-      "Route": "JS/login.h3ttafzkgj.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\login.js",
+      "Route": "JS/login.vintxxafq5.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\login.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3762,7 +3899,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2260"
+          "Value": "2315"
         },
         {
           "Name": "Content-Type",
@@ -3770,11 +3907,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"c7HCN6yqGlC6xugSgZ/lZycOWZn7hNcwJLKEoY7adxA=\""
+          "Value": "\"V2E83NfZxvVvoPX3s8zu+yB2H/wHCMprkIj4iSQfCjw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 10:21:49 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3784,7 +3921,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "h3ttafzkgj"
+          "Value": "vintxxafq5"
         },
         {
           "Name": "label",
@@ -3792,13 +3929,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-c7HCN6yqGlC6xugSgZ/lZycOWZn7hNcwJLKEoY7adxA="
+          "Value": "sha256-V2E83NfZxvVvoPX3s8zu+yB2H/wHCMprkIj4iSQfCjw="
         }
       ]
     },
     {
-      "Route": "JS/login.h3ttafzkgj.js.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-h3ttafzkgj.gz",
+      "Route": "JS/login.vintxxafq5.js.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-vintxxafq5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3807,7 +3944,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "816"
+          "Value": "818"
         },
         {
           "Name": "Content-Type",
@@ -3815,11 +3952,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"l9QvkTFLX+ej6ZArC+CfpBS0L2i1HRMrWR2Q8DQ15nk=\""
+          "Value": "\"oUJplKvkqo06A67aJc1kQ1G6E38c9uqjwfg4ooOhT4U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 10:21:49 GMT"
+          "Value": "Wed, 05 Mar 2025 10:45:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3837,7 +3974,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "h3ttafzkgj"
+          "Value": "vintxxafq5"
         },
         {
           "Name": "label",
@@ -3845,155 +3982,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-l9QvkTFLX+ej6ZArC+CfpBS0L2i1HRMrWR2Q8DQ15nk="
-        }
-      ]
-    },
-    {
-      "Route": "JS/login.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-h3ttafzkgj.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001223990208"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "816"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"l9QvkTFLX+ej6ZArC+CfpBS0L2i1HRMrWR2Q8DQ15nk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 10:21:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"c7HCN6yqGlC6xugSgZ/lZycOWZn7hNcwJLKEoY7adxA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-c7HCN6yqGlC6xugSgZ/lZycOWZn7hNcwJLKEoY7adxA="
-        }
-      ]
-    },
-    {
-      "Route": "JS/login.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\login.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2260"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"c7HCN6yqGlC6xugSgZ/lZycOWZn7hNcwJLKEoY7adxA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 10:21:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-c7HCN6yqGlC6xugSgZ/lZycOWZn7hNcwJLKEoY7adxA="
-        }
-      ]
-    },
-    {
-      "Route": "JS/login.js.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-h3ttafzkgj.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "816"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"l9QvkTFLX+ej6ZArC+CfpBS0L2i1HRMrWR2Q8DQ15nk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 10:21:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-l9QvkTFLX+ej6ZArC+CfpBS0L2i1HRMrWR2Q8DQ15nk="
+          "Value": "sha256-oUJplKvkqo06A67aJc1kQ1G6E38c9uqjwfg4ooOhT4U="
         }
       ]
     },
     {
       "Route": "JS/monitoring.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-v4vdh84js5.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-qukbpsywby.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000741289844"
+          "Quality": "0.000744601638"
         }
       ],
       "ResponseHeaders": [
@@ -4003,15 +4003,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1348"
+          "Value": "1342"
         },
         {
           "Name": "ETag",
-          "Value": "\"+gRO4TKicydI0ubf+N6euGYwMUSniBZjv/oN+tHGtks=\""
+          "Value": "\"FHuEjJE4Z2gzi6U9LILgE4ZNrlrfN9xi1GbVhT7Spv8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 09:34:56 GMT"
+          "Value": "Tue, 11 Mar 2025 12:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4031,19 +4031,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"IVDSKzIHuffbs4Nsvw3tUDSq3bJF9vpUCcoL0WZmCvA=\""
+          "Value": "W/\"rvhRpJExQ6S/o3EwVeL4qkwgmO3uL8HNzAoaTtQMZRc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IVDSKzIHuffbs4Nsvw3tUDSq3bJF9vpUCcoL0WZmCvA="
+          "Value": "sha256-rvhRpJExQ6S/o3EwVeL4qkwgmO3uL8HNzAoaTtQMZRc="
         }
       ]
     },
     {
       "Route": "JS/monitoring.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\monitoring.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\monitoring.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4052,7 +4052,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4968"
+          "Value": "4962"
         },
         {
           "Name": "Content-Type",
@@ -4060,11 +4060,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IVDSKzIHuffbs4Nsvw3tUDSq3bJF9vpUCcoL0WZmCvA=\""
+          "Value": "\"rvhRpJExQ6S/o3EwVeL4qkwgmO3uL8HNzAoaTtQMZRc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 09:34:56 GMT"
+          "Value": "Tue, 11 Mar 2025 12:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4074,13 +4074,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IVDSKzIHuffbs4Nsvw3tUDSq3bJF9vpUCcoL0WZmCvA="
+          "Value": "sha256-rvhRpJExQ6S/o3EwVeL4qkwgmO3uL8HNzAoaTtQMZRc="
         }
       ]
     },
     {
       "Route": "JS/monitoring.js.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-v4vdh84js5.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-qukbpsywby.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4089,7 +4089,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1348"
+          "Value": "1342"
         },
         {
           "Name": "Content-Type",
@@ -4097,11 +4097,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+gRO4TKicydI0ubf+N6euGYwMUSniBZjv/oN+tHGtks=\""
+          "Value": "\"FHuEjJE4Z2gzi6U9LILgE4ZNrlrfN9xi1GbVhT7Spv8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 09:34:56 GMT"
+          "Value": "Tue, 11 Mar 2025 12:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4119,18 +4119,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+gRO4TKicydI0ubf+N6euGYwMUSniBZjv/oN+tHGtks="
+          "Value": "sha256-FHuEjJE4Z2gzi6U9LILgE4ZNrlrfN9xi1GbVhT7Spv8="
         }
       ]
     },
     {
-      "Route": "JS/monitoring.v4vdh84js5.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-v4vdh84js5.gz",
+      "Route": "JS/monitoring.qukbpsywby.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-qukbpsywby.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000741289844"
+          "Quality": "0.000744601638"
         }
       ],
       "ResponseHeaders": [
@@ -4140,15 +4140,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1348"
+          "Value": "1342"
         },
         {
           "Name": "ETag",
-          "Value": "\"+gRO4TKicydI0ubf+N6euGYwMUSniBZjv/oN+tHGtks=\""
+          "Value": "\"FHuEjJE4Z2gzi6U9LILgE4ZNrlrfN9xi1GbVhT7Spv8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 09:34:56 GMT"
+          "Value": "Tue, 11 Mar 2025 12:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4168,13 +4168,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"IVDSKzIHuffbs4Nsvw3tUDSq3bJF9vpUCcoL0WZmCvA=\""
+          "Value": "W/\"rvhRpJExQ6S/o3EwVeL4qkwgmO3uL8HNzAoaTtQMZRc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v4vdh84js5"
+          "Value": "qukbpsywby"
         },
         {
           "Name": "label",
@@ -4182,13 +4182,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IVDSKzIHuffbs4Nsvw3tUDSq3bJF9vpUCcoL0WZmCvA="
+          "Value": "sha256-rvhRpJExQ6S/o3EwVeL4qkwgmO3uL8HNzAoaTtQMZRc="
         }
       ]
     },
     {
-      "Route": "JS/monitoring.v4vdh84js5.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\monitoring.js",
+      "Route": "JS/monitoring.qukbpsywby.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\monitoring.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4197,7 +4197,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4968"
+          "Value": "4962"
         },
         {
           "Name": "Content-Type",
@@ -4205,11 +4205,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IVDSKzIHuffbs4Nsvw3tUDSq3bJF9vpUCcoL0WZmCvA=\""
+          "Value": "\"rvhRpJExQ6S/o3EwVeL4qkwgmO3uL8HNzAoaTtQMZRc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 09:34:56 GMT"
+          "Value": "Tue, 11 Mar 2025 12:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4219,7 +4219,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v4vdh84js5"
+          "Value": "qukbpsywby"
         },
         {
           "Name": "label",
@@ -4227,13 +4227,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IVDSKzIHuffbs4Nsvw3tUDSq3bJF9vpUCcoL0WZmCvA="
+          "Value": "sha256-rvhRpJExQ6S/o3EwVeL4qkwgmO3uL8HNzAoaTtQMZRc="
         }
       ]
     },
     {
-      "Route": "JS/monitoring.v4vdh84js5.js.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-v4vdh84js5.gz",
+      "Route": "JS/monitoring.qukbpsywby.js.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-qukbpsywby.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4242,7 +4242,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1348"
+          "Value": "1342"
         },
         {
           "Name": "Content-Type",
@@ -4250,11 +4250,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+gRO4TKicydI0ubf+N6euGYwMUSniBZjv/oN+tHGtks=\""
+          "Value": "\"FHuEjJE4Z2gzi6U9LILgE4ZNrlrfN9xi1GbVhT7Spv8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 09:34:56 GMT"
+          "Value": "Tue, 11 Mar 2025 12:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4272,7 +4272,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v4vdh84js5"
+          "Value": "qukbpsywby"
         },
         {
           "Name": "label",
@@ -4280,13 +4280,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+gRO4TKicydI0ubf+N6euGYwMUSniBZjv/oN+tHGtks="
+          "Value": "sha256-FHuEjJE4Z2gzi6U9LILgE4ZNrlrfN9xi1GbVhT7Spv8="
         }
       ]
     },
     {
       "Route": "JS/site.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4309,7 +4309,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4341,7 +4341,7 @@
     },
     {
       "Route": "JS/site.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\site.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4362,7 +4362,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4378,7 +4378,7 @@
     },
     {
       "Route": "JS/site.js.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4399,7 +4399,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4423,7 +4423,7 @@
     },
     {
       "Route": "JS/site.l4u88u84xu.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4446,7 +4446,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4486,7 +4486,7 @@
     },
     {
       "Route": "JS/site.l4u88u84xu.js",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\wwwroot\\JS\\site.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4507,7 +4507,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4531,7 +4531,7 @@
     },
     {
       "Route": "JS/site.l4u88u84xu.js.gz",
-      "AssetFile": "C:\\Users\\Athlea Baril\\Desktop\\EcoSprout Web Dev\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4552,7 +4552,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:14:22 GMT"
+          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EcoSprout")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+653edc9b771169f651dce014b8b78b113b010b08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b09041272a36583e13ecfdd1485afa7b4df79174")]
 [assembly: System.Reflection.AssemblyProductAttribute("EcoSprout")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EcoSprout")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

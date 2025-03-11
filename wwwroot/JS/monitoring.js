@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
  
     // ✅ Firebase Paths
-    const autoWaterRef = ref(database, "settings/autoWater/pump1");
+    const autoWaterRef = ref(database, "settings/autoWater");
     const tempRef = ref(database, "sensors/latest/temperature/sensor1");
     const moistureRef = ref(database, "sensors/latest/moisture/sensor1");
     const waterNowRef = ref(database, "control/waterNow");

@@ -1,9 +1,9 @@
-@page "/monitoring/baby-carrots"
+@page "/monitoring/radish"
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
-@model EcoSprout.Pages.BabyCarrotsMonitoringModel
+@model EcoSprout.Pages.RadishMonitoringModel
 @{
     Layout = null;
-    ViewData["Title"] = "Baby Carrots Monitoring";
+    ViewData["Title"] = "Radish Monitoring";
 }
 
 <!DOCTYPE html>
@@ -11,15 +11,14 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Baby Carrots Monitoring - EcoSprout</title>
+    <title>Radish Monitoring - EcoSprout</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/css/landing.css" asp-append-version="true" />
     <link rel="stylesheet" href="/css/home.css" asp-append-version="true" />
     <link rel="stylesheet" href="/css/monitoring.css" asp-append-version="true" />
-    <link rel="stylesheet" href="/css/babycarrots.css" asp-append-version="true" />
-     <script type="module" src="/js/firebase.js"></script>
+    <script type="module" src="/js/firebase.js"></script>
     <script type="module" src="/js/monitoring.js"></script>
     <script type="module" src="/js/login.js"></script>
 </head>
@@ -29,13 +28,13 @@
     <main class="plant-monitoring-main">
         <div class="plant-header">
             <div class="plant-image-large">
-                <img src="/images/carrot-sow-and-grow.jpg" alt="Baby Carrots">
+                <img src="/images/radish.jpg" alt="Radish">
             </div>
             <div class="plant-title">
-                <h1>Baby Carrots</h1>
+                <h1>Radish</h1>
                 <p class="plant-description">
-                    Baby carrots are sweet, crunchy root vegetables that are perfect for small gardens.
-                    They require consistent moisture and moderate temperatures for optimal growth.
+                    Radishes are fast-growing root vegetables that add a peppery crunch to salads.
+                    They prefer consistent moisture and can be harvested in as little as 3-4 weeks.
                 </p>
             </div>
         </div>
@@ -44,14 +43,14 @@
             <div class="monitoring-data">
                 <div class="data-card">
                     <h3>Temperature</h3>
-                    <div class="data-value" id="tempValue">--°C</div>
-                    <div class="data-status optimal" id="tempStatus">Loading...</div>
+                    <div class="data-value">--°C</div>
+                    <div class="data-status optimal">Loading...</div>
                 </div>
                 
                 <div class="data-card">
                     <h3>Soil Moisture</h3>
-                    <div class="data-value" id="moistureValue">--%</div>
-                    <div class="data-status optimal" id="moistureStatus">Loading...</div>
+                    <div class="data-value">--%</div>
+                    <div class="data-status optimal">Loading...</div>
                 </div>
             </div>
             
@@ -61,34 +60,32 @@
                     <div class="auto-toggle">
                         <span class="switch-label">Auto Water Control</span>
                         <label class="switch">
-                            <input type="checkbox" id="autoWaterToggle">
+                            <input type="checkbox">
                             <span class="slider round"></span>
                         </label>
                         <div class="auto-control-indicator">You're in automatic control</div>
                     </div>
                     <div class="auto-control-separator"></div>
                     <!-- Manual controls section -->
-                    <div class="manual-controls" id="manualControls">
+                    <div class="manual-controls">
                         <div class="control-group">
                             <label for="waterDate">Set Date:</label>
-                            <input type="date" id="waterDate" disabled>
+                            <input type="date" disabled>
                         </div>
                     
                         <div class="control-group">
                             <label for="waterTime">Set Time:</label>
-                            <input type="time" id="waterTime" disabled>
+                            <input type="time" disabled>
                         </div>
                     
                         <div class="control-group">
                             <label for="waterDuration">Set Duration (minutes):</label>
-                            <input type="number" id="waterDuration" min="1" step="1" placeholder="Enter duration" disabled>
+                            <input type="number" min="1" step="1" placeholder="Enter duration" disabled>
                         </div>
                     
+                    </div>
+                    <button class="water-now-button" disabled>Water Now</button>
                 </div>
-                     <button class="water-now-button" disabled>Water Now</button>
-                </div>
-                
-               
             </div>
         </div>
         
@@ -103,7 +100,7 @@
                         <th>Mode</th>
                     </tr>
                 </thead>
-                <tbody id="historyTableBody">
+                <tbody>
                     <!-- Watering history will be dynamically inserted here -->
                 </tbody>
             </table>
@@ -114,4 +111,4 @@
         <p>&copy; 2024 EcoSprout - Smart Irrigation System</p>
     </footer>
 </body>
-</html>
+</html> 

@@ -1,97 +1,113 @@
 import { database } from "./firebase.js";
-import { ref, set, update, onValue } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-database.js";
-
+import { ref, set, onValue } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-database.js";
+ 
 document.addEventListener("DOMContentLoaded", function () {
     console.log("Monitoring page loaded.");
-
-    // Get elements safely
+ 
     const autoWaterToggle = document.getElementById("autoWaterToggle");
     const waterNowButton = document.querySelector(".watering-controls button");
-    const tempElement = document.querySelector(".data-value"); // Temperature
-    const moistureElement = document.querySelector(".data-card:nth-child(2) .data-value"); // Soil Moisture
+    const tempElement = document.getElementById("tempValue");
+    const moistureElement = document.getElementById("moistureValue");
+    const tempStatus = document.getElementById("tempStatus");
+    const moistureStatus = document.getElementById("moistureStatus");
     const waterDate = document.getElementById("waterDate");
     const waterTime = document.getElementById("waterTime");
     const waterDuration = document.getElementById("waterDuration");
-
-    // Ensure elements exist before proceeding
-    if (!autoWaterToggle || !waterNowButton || !tempElement || !moistureElement || !waterDate || !waterTime || !waterDuration) {
+ 
+    if (!autoWaterToggle || !waterNowButton || !tempElement || !moistureElement || !tempStatus || !moistureStatus || !waterDate || !waterTime || !waterDuration) {
         console.error("One or more elements not found in the DOM.");
         return;
     }
-
-    // Firebase references
-    const autoWaterRef = ref(database, "settings/autoWater/enabled");
-    const tempRef = ref(database, "sensors/temperature");
-    const moistureRef = ref(database, "sensors/moisture");
+ 
+    // ✅ Firebase Paths
+    const autoWaterRef = ref(database, "settings/autoWater/pump1");
+    const tempRef = ref(database, "sensors/latest/temperature/sensor1");
+    const moistureRef = ref(database, "sensors/latest/moisture/sensor1");
     const waterNowRef = ref(database, "control/waterNow");
-
-    // Function to enable/disable manual controls based on auto mode
+ 
     function updateControlState() {
         const isAuto = autoWaterToggle.checked;
-
         waterDate.disabled = isAuto;
         waterTime.disabled = isAuto;
         waterDuration.disabled = isAuto;
         waterNowButton.disabled = isAuto;
     }
-
-    // Auto-watering toggle switch event
+ 
     autoWaterToggle.addEventListener("change", () => {
         console.log("Auto water toggled:", autoWaterToggle.checked);
-
-        update(autoWaterRef, { enabled: autoWaterToggle.checked })
-            .then(() => console.log("Database updated successfully!"))
-            .catch((error) => console.error("Error updating database:", error));
-
-        // Update UI control states when toggled
+        set(autoWaterRef, autoWaterToggle.checked)
+            .then(() => console.log("Auto-watering status updated successfully!"))
+            .catch((error) => console.error("Error updating auto-watering status:", error));
         updateControlState();
     });
-
-    // Manual watering button event
+ 
     waterNowButton.addEventListener("click", () => {
         const date = waterDate.value;
         const time = waterTime.value;
         const duration = waterDuration.value;
-
+ 
         if (!date || !time || !duration) {
-            alert("No input");
+            alert("Please enter all manual watering details.");
             return;
         }
-
-        update(waterNowRef, { trigger: true, date: date, time: time, duration: duration })
+ 
+        set(waterNowRef, { trigger: true, date, time, duration })
             .then(() => console.log(`Manual watering scheduled on ${date} at ${time} for ${duration} minutes.`))
             .catch((error) => console.error("Error triggering manual watering:", error));
-        
+ 
         alert(`Manual watering scheduled on ${date} at ${time} for ${duration} minutes.`);
     });
-
-    // Fetch sensor data from Firebase
+ 
+    function updateStatus(value, min, max, statusElement) {
+        if (value < min || value > max) {
+            statusElement.textContent = "Not Optimal";
+            statusElement.classList.remove("optimal");
+            statusElement.classList.add("not-optimal");
+        } else {
+            statusElement.textContent = "Optimal";
+            statusElement.classList.remove("not-optimal");
+            statusElement.classList.add("optimal");
+        }
+    }
+ 
     function fetchSensorData() {
         onValue(tempRef, (snapshot) => {
             if (snapshot.exists()) {
-                tempElement.textContent = `${snapshot.val()}°C`;
+                const temp = snapshot.val();
+                console.log("New Temperature:", temp);
+                tempElement.textContent = `${temp}°C`;
+                updateStatus(temp, 20, 30, tempStatus);
             } else {
                 console.warn("Temperature data not found in Firebase.");
             }
         });
-
+ 
         onValue(moistureRef, (snapshot) => {
             if (snapshot.exists()) {
-                moistureElement.textContent = `${snapshot.val()}%`;
+                const rawMoisture = snapshot.val(); // Get raw sensor value (0-1023)
+                const moisturePercentage = Math.round((rawMoisture * 99) / 1023 + 1); // Convert to 1-100%
+                
+                console.log(`Raw Moisture: ${rawMoisture}, Converted: ${moisturePercentage}%`);
+                moistureElement.textContent = `${moisturePercentage}%`;
+                
+                updateStatus(moisturePercentage, 41, 80, moistureStatus); // Check if moisture is optimal
             } else {
                 console.warn("Soil moisture data not found in Firebase.");
             }
         });
-
+ 
         onValue(autoWaterRef, (snapshot) => {
             if (snapshot.exists()) {
-                autoWaterToggle.checked = snapshot.val();
-                updateControlState(); // Ensure controls match the database state
+                const isAutoWaterEnabled = snapshot.val();
+                console.log("Auto Watering Status:", isAutoWaterEnabled);
+                autoWaterToggle.checked = isAutoWaterEnabled;
+                updateControlState();
+            } else {
+                console.warn("Auto-watering data not found in Firebase.");
             }
         });
     }
-
-    // Run functions on page load
-    updateControlState(); // Ensure controls are correct on load
+ 
+    updateControlState();
     fetchSensorData();
 });

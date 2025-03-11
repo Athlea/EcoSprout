@@ -282,20 +282,22 @@
     text-align: left;
 }
 
-/* Adjust auto toggle styling */
+
 .auto-toggle {
     display: flex;
     align-items: center;
-    margin-bottom: 1.5rem;
     width: 100%;
     box-sizing: border-box;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
 }
 
 .switch-label {
     font-family: var(--body-font);
     color: #555;
     font-weight: 500;
-    font-size: 1rem;
+    font-size: 0.95rem;
     margin-right: 1rem;
 }
 
@@ -303,8 +305,8 @@
 .switch {
     position: relative;
     display: inline-block;
-    width: 50px;
-    height: 28px;
+    width: 46px;
+    height: 24px;
 }
 
 .switch input {
@@ -328,8 +330,8 @@
 .slider:before {
     position: absolute;
     content: "";
-    height: 20px;
-    width: 20px;
+    height: 16px;
+    width: 16px;
     left: 4px;
     bottom: 4px;
     background-color: white;
@@ -355,6 +357,32 @@ input:checked + .slider:before {
 
 .slider.round:before {
     border-radius: 50%;
+}
+
+/* Add auto control indicator */
+.auto-control-indicator {
+    display: none;
+    font-family: var(--body-font);
+    font-size: 0.8rem;
+    color: #00c853;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    padding-left: 0.5rem;
+    border-left: 3px solid #00c853;
+    font-style: italic;
+}
+
+/* Show indicator when auto is enabled */
+.auto-toggle input:checked ~ .auto-control-indicator {
+    display: block;
+}
+
+/* Add separator line */
+.auto-control-separator {
+    height: 1px;
+    background-color: #eee;
+    margin: 1.2rem 0;
+    width: 100%;
 }
 
 /* Adjust control group styling */
@@ -393,11 +421,12 @@ input:checked + .slider:before {
     color: #333;
     background-color: #f9f9f9;
     box-sizing: border-box;
+    height: 38px;
 }
 
 .water-now-button {
     grid-column: 1 / -1;
-    margin-top: 0.8rem;
+    margin-top: 1.2rem;
     padding: 0.7rem;
     background-color: var(--primary);
     color: white;
@@ -464,7 +493,6 @@ input:checked + .slider:before {
     background-color: #f9f9f9;
 }
 
-/* Add styles for date/time pickers */
 input[type="date"], 
 input[type="time"] {
     width: 100%;
@@ -1334,3 +1362,164 @@ body {
         display: flex;
     }
 }
+
+/* Watering Controls Card Styling */
+.watering-card {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+/* Auto-control card styling */
+
+
+
+.switch-label {
+    font-family: var(--body-font);
+    font-weight: 500;
+    color: var(--accent);
+    font-size: 1.1rem;
+    margin: 0;
+}
+
+/* Toggle switch styling */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 46px;
+    height: 24px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 16px;
+    width: 16px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    transition: .4s;
+    border-radius: 50%;
+}
+
+input:checked + .slider {
+    background-color: var(--primary);
+}
+
+input:focus + .slider {
+    box-shadow: 0 0 1px var(--primary);
+}
+
+input:checked + .slider:before {
+    transform: translateX(22px);
+}
+
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+/* Divider line */
+.controls-divider {
+    height: 1px;
+    background-color: #eee;
+    margin: 1.2rem 0;
+    width: 100%;
+}
+
+/* Manual controls section */
+.manual-controls {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    margin-top: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 2.5rem;
+
+}
+
+.control-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.control-group label {
+    font-family: var(--body-font);
+    color: #555;
+    font-size: 0.95rem;
+}
+
+.control-group input {
+    padding: 0.7rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-family: var(--body-font);
+}
+
+/* Water now button */
+.water-now-button {
+    grid-column: 1 / -1;
+    background-color: var(--primary);
+    color: white;
+    border: none;
+    padding: 0.8rem;
+    border-radius: 8px;
+    font-family: var(--body-font);
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-top: 1.5rem;
+    width: 100%;
+    text-align: center;
+}
+
+.water-now-button:hover:not(:disabled) {
+    background-color: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.water-now-button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+    .manual-controls {
+        grid-template-columns: 1fr;
+    }
+    
+    .switch-label {
+        font-size: 1rem;
+    }
+    
+    .watering-card {
+        padding: 1.2rem;
+    }
+}
+

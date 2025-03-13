@@ -147,8 +147,11 @@
 .plant-header {
     display: flex;
     align-items: center;
-    margin-bottom: 2.5rem;
-    gap: 2rem;
+    padding: 2rem;
+    width: 90%;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .plant-image-large {
@@ -167,20 +170,25 @@
 }
 
 .plant-title {
-    flex: 1;
+    text-align: left;
+    margin-bottom: 0.5rem;
 }
 
 .plant-title h1 {
     font-family: var(--title-font);
     color: var(--accent);
     font-size: clamp(1.8rem, 3vw, 2.5rem);
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
+    padding-left: 2rem;
 }
 
 .plant-description {
     font-family: var(--body-font);
     color: #555;
     line-height: 1.6;
+    padding-left: 2rem;
+    margin-top: 0;
+    max-width: 90%;
 }
 
 .monitoring-container {
@@ -728,14 +736,28 @@ input[type="time"]:disabled {
         flex-direction: column !important;
         align-items: center !important;
         text-align: center !important;
-        width: 85% !important;
+        width: 85% !important; 
         margin: 0 auto 1.5rem !important;
+        padding: 1rem !important; /* Reduced padding for mobile */
     }
     
-    /* Center plant title */
+    /* Make sure the plant-image-large is centered in mobile */
+    .plant-image-large {
+        margin-left: 0 !important; /* Reset any left margin */
+        margin-bottom: 1rem !important; /* Add space below image */
+    }
+    
+    /* Ensure plant title is properly centered */
     .plant-title {
         text-align: center !important;
         width: 100% !important;
+        padding: 0 !important;
+    }
+    
+    /* Center the title text */
+    .plant-title h1 {
+        padding-left: 0 !important;
+        text-align: center !important;
     }
     
     /* Ensure plant monitoring main has proper padding */
@@ -1521,5 +1543,45 @@ input:checked + .slider:before {
     .watering-card {
         padding: 1.2rem;
     }
+}
+
+/* Fix cursor styles for non-input elements */
+button, 
+a, 
+.nav-item, 
+.nav-button, 
+.water-now-button,
+.plant-card,
+h1, h2, h3, h4, h5, h6,
+p, 
+.data-value,
+.data-status,
+.plant-title,
+.plant-description,
+.history-table th,
+.history-table td,
+.switch-label {
+    cursor: default;
+}
+
+/* Set pointer cursor for clickable elements */
+button:not(:disabled),
+a:hover,
+.nav-item:hover,
+.nav-button:hover,
+.water-now-button:not(:disabled),
+.plant-card:hover,
+.switch {
+    cursor: pointer;
+}
+
+/* Ensure text is not selectable on UI elements */
+button, 
+.nav-item, 
+.nav-button, 
+.water-now-button,
+.switch-label,
+.data-status {
+    user-select: none;
 }
 

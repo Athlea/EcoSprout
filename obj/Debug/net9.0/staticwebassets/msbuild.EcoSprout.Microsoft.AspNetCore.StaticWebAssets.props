@@ -282,8 +282,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3f6ghhrofl</Fingerprint>
-      <Integrity>f8kTTZ4fnpFZTNY+EA0S2ZDXf/fPs1DqXLy7BbTnDCE=</Integrity>
+      <Fingerprint>38yctv4kg8</Fingerprint>
+      <Integrity>Q5FT+I+bcvgekSJxiojTLtvifCK0LdbHeg/DnkbvdC4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\firebase.js'))</OriginalItemSpec>
@@ -300,8 +300,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>vintxxafq5</Fingerprint>
-      <Integrity>V2E83NfZxvVvoPX3s8zu+yB2H/wHCMprkIj4iSQfCjw=</Integrity>
+      <Fingerprint>tnrmdehz7b</Fingerprint>
+      <Integrity>d9X3rhOKTDew5D65+hZLXuuKveSLoHi6X+si/UWAgBM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\login.js'))</OriginalItemSpec>
@@ -318,11 +318,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qukbpsywby</Fingerprint>
-      <Integrity>rvhRpJExQ6S/o3EwVeL4qkwgmO3uL8HNzAoaTtQMZRc=</Integrity>
+      <Fingerprint>68hj3lie0d</Fingerprint>
+      <Integrity>CiuLEdk5FCHjD0iPZHrhYxuYmzVV4DLrZsgDwfGoh4k=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\monitoring.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\register.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>EcoSprout</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EcoSprout</BasePath>
+      <RelativePath>JS/register.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>v6s85vjg8x</Fingerprint>
+      <Integrity>t3Fu3aWi+HoG/a00NjFwhSDpXGZlvdD5oaekn4E0Sk8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\register.js'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\site.js'))">
       <SourceType>Package</SourceType>

@@ -74,6 +74,7 @@ document.addEventListener("DOMContentLoaded", function () {
         onValue(tempRef, (snapshot) => {
             if (snapshot.exists()) {
                 const temp = snapshot.val();
+                temp = Math.trunc(temp); // Ensure it removes decimals
                 console.log("New Temperature:", temp);
                 tempElement.textContent = `${temp}°C`;
                 updateStatus(temp, 20, 30, tempStatus);

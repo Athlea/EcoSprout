@@ -15,8 +15,11 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/css/landing.css" asp-append-version="true" />
-    <script src="/js/site.js" defer></script>
-    <script src="/js/login.js" defer></script>
+     <script type="module" src="/js/firebase.js"></script>|
+     <script type="module" src="/js/login.js"></script>
+     <script type="module" src="/js/register.js"></script>
+     <script type="module" src="/js/site.js"></script>
+    
 </head>
 <body>
     <nav class="landing-nav">
@@ -84,22 +87,22 @@
                 <form class="register-form">
                     <div class="form-row">
                         <div class="form-group">
-                            <input type="text" placeholder="First Name" required>
+                            <input type="text"  id="firstName" placeholder="First Name" required>
                         </div>
                         <div class="form-group">
-                            <input type="text" placeholder="Last Name" required>
+                            <input type="text" id="lastName" placeholder="Last Name" required>
                         </div>
                     </div>
                     <div class="form-group">
-                        <input type="email" placeholder="Email" required>
+                        <input type="email" id="registerEmail" placeholder="Email" required>
                     </div>
                     <div class="form-group">
-                        <input type="password" placeholder="Set Password" required>
+                        <input type="password" id="registerPassword" placeholder="Set Password" required>
                     </div>
                     <div class="form-group">
-                        <input type="password" placeholder="Confirm Password" required>
+                        <input type="password" id="confirmPassword" placeholder="Confirm Password" required>
                     </div>
-                    <button type="submit" class="register-button">Register Now</button>
+                    <button type="submit" id="registerButton" class="register-button">Register Now</button>
                 </form>
             </div>
         </section>

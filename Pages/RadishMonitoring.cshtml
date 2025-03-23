@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="/css/home.css" asp-append-version="true" />
     <link rel="stylesheet" href="/css/monitoring.css" asp-append-version="true" />
     <script type="module" src="/js/firebase.js"></script>
-    <script type="module" src="/js/monitoring.js"></script>
+    <script type="module" src="/js/radish_monitoring.js"></script>
     <script type="module" src="/js/login.js"></script>
 </head>
 <body>
@@ -43,50 +43,50 @@
             <div class="monitoring-data">
                 <div class="data-card">
                     <h3>Temperature</h3>
-                    <div class="data-value">--°C</div>
-                    <div class="data-status optimal">Loading...</div>
+                    <div class="data-value" id="tempValue">--°C</div>
+                    <div class="data-status optimal" id="tempStatus">Loading...</div>
                 </div>
                 
                 <div class="data-card">
                     <h3>Soil Moisture</h3>
-                    <div class="data-value">--%</div>
-                    <div class="data-status optimal">Loading...</div>
+                    <div class="data-value" id="moistureValue">--%</div>
+                    <div class="data-status optimal" id="moistureStatus">Loading...</div>
                 </div>
             </div>
             
             <div class="watering-section">
                 <h2>Watering Controls</h2>
-                <div class="watering-card">
-                    <div class="auto-toggle">
-                        <span class="switch-label">Auto Water Control</span>
-                        <label class="switch">
-                            <input type="checkbox">
-                            <span class="slider round"></span>
-                        </label>
-                        <div class="auto-control-indicator">You're in automatic control</div>
-                    </div>
-                    <div class="auto-control-separator"></div>
+                <div class="watering-controls">
+                <div class="auto-toggle">
+                    <label class="switch-label">Auto Water Control</label>
+                    <label class="switch">
+                        <input type="checkbox" id="autoWaterToggle" checked>
+                        <span class="slider round"></span>
+                    </label>
+                </div>
+                <div class="auto-control-separator"></div>
                     <!-- Manual controls section -->
-                    <div class="manual-controls">
-                        <div class="control-group">
-                            <label for="waterDate">Set Date:</label>
-                            <input type="date" disabled>
-                        </div>
-                    
-                        <div class="control-group">
-                            <label for="waterTime">Set Time:</label>
-                            <input type="time" disabled>
-                        </div>
-                    
-                        <div class="control-group">
-                            <label for="waterDuration">Set Duration (minutes):</label>
-                            <input type="number" min="1" step="1" placeholder="Enter duration" disabled>
-                        </div>
-                    
+                <div class="manual-controls" id="manualControls">
+                    <div class="control-group">
+                        <label for="waterDate">Set Date:</label>
+                        <input type="date" id="waterDate" disabled>
                     </div>
+                    
+                    <div class="control-group">
+                        <label for="waterTime">Set Time:</label>
+                        <input type="time" id="waterTime" disabled>
+                    </div>
+                    
+                    <div class="control-group">
+                        <label for="waterDuration">Set Duration (minutes):</label>
+                        <input type="number" id="waterDuration" min="1" step="1" placeholder="Enter duration" disabled>
+                    </div>
+                    
                     <button class="water-now-button" disabled>Water Now</button>
                 </div>
             </div>
+            </div>
+            
         </div>
         
         <div class="history-section">
@@ -100,13 +100,13 @@
                         <th>Mode</th>
                     </tr>
                 </thead>
-                <tbody>
+                <tbody id="historyTableBody">
                     <!-- Watering history will be dynamically inserted here -->
                 </tbody>
             </table>
         </div>
     </main>
-
+ 
     <footer>
         <p>&copy; 2024 EcoSprout - Smart Irrigation System</p>
     </footer>

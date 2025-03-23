@@ -84,8 +84,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>6ffs7rygp4</Fingerprint>
-      <Integrity>EhDk1UPnr/AtHdS2P4qKZC7Aegn+db9Gyo/IOLM9CDo=</Integrity>
+      <Fingerprint>lr12eekx79</Fingerprint>
+      <Integrity>cbtrUM8QRq9uUjE4LeuPLptLPqtBOik9RzDUY00m72M=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CSS\monitoring.css'))</OriginalItemSpec>
@@ -270,6 +270,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ven.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\bc_monitoring.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>EcoSprout</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EcoSprout</BasePath>
+      <RelativePath>JS/bc_monitoring.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>z34dkc1tfq</Fingerprint>
+      <Integrity>D+r8HfL4/SxNobvT/QD16Dyx53Uv1V4XPMSaiqiihwk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\bc_monitoring.js'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\firebase.js'))">
       <SourceType>Package</SourceType>
       <SourceId>EcoSprout</SourceId>
@@ -282,11 +300,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>38yctv4kg8</Fingerprint>
-      <Integrity>Q5FT+I+bcvgekSJxiojTLtvifCK0LdbHeg/DnkbvdC4=</Integrity>
+      <Fingerprint>um8jnaxf61</Fingerprint>
+      <Integrity>ip6519jXknuB7I8pvsygvAYzzMtberg7VwlNGhqYVnk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\firebase.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\lettuce_monitoring.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>EcoSprout</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EcoSprout</BasePath>
+      <RelativePath>JS/lettuce_monitoring.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xhe87ypsxf</Fingerprint>
+      <Integrity>m0UIoB5OKZKmzzdd8DkRjlbyv1m1b8tUh+Y1rlteOs8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\lettuce_monitoring.js'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\login.js'))">
       <SourceType>Package</SourceType>
@@ -300,29 +336,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>tnrmdehz7b</Fingerprint>
-      <Integrity>d9X3rhOKTDew5D65+hZLXuuKveSLoHi6X+si/UWAgBM=</Integrity>
+      <Fingerprint>c018zm9pew</Fingerprint>
+      <Integrity>5F2ltUNh7+SAlXK9TZJjDoFpzp0HbH79rMGRRRHT228=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\login.js'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\monitoring.js'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\radish_monitoring.js'))">
       <SourceType>Package</SourceType>
       <SourceId>EcoSprout</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/EcoSprout</BasePath>
-      <RelativePath>JS/monitoring.js</RelativePath>
+      <RelativePath>JS/radish_monitoring.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>68hj3lie0d</Fingerprint>
-      <Integrity>CiuLEdk5FCHjD0iPZHrhYxuYmzVV4DLrZsgDwfGoh4k=</Integrity>
+      <Fingerprint>6joohmdbc8</Fingerprint>
+      <Integrity>zhRU/R4sC8ScEzmGuUhCgULLDA8GM4kvQZ4Rv7j7PBs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\monitoring.js'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\radish_monitoring.js'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\register.js'))">
       <SourceType>Package</SourceType>
@@ -336,8 +372,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>v6s85vjg8x</Fingerprint>
-      <Integrity>t3Fu3aWi+HoG/a00NjFwhSDpXGZlvdD5oaekn4E0Sk8=</Integrity>
+      <Fingerprint>qyml6dbotj</Fingerprint>
+      <Integrity>fs4XeJWZTDfbv2MmCAz42YYLIN7suPlSmjl1nAc6gcI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\register.js'))</OriginalItemSpec>
@@ -354,8 +390,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>l4u88u84xu</Fingerprint>
-      <Integrity>e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA=</Integrity>
+      <Fingerprint>j1zk90lc6o</Fingerprint>
+      <Integrity>Z+eCQD141g5dx3GelMF9+/1K07EgsR06l4sEYu3heGE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\site.js'))</OriginalItemSpec>

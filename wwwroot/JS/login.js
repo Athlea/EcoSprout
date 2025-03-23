@@ -1,14 +1,12 @@
-import { auth } from "./firebase.js"; 
-import { signInWithEmailAndPassword, signOut } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-auth.js";
+import { auth, signInWithEmailAndPassword, signOut } from "./firebase.js";
 
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     console.log("Login script loaded");
 
-    // Get the login form
     const loginForm = document.getElementById('loginForm');
 
     if (loginForm) {
-        loginForm.addEventListener('submit', function(e) {
+        loginForm.addEventListener('submit', function (e) {
             e.preventDefault();
 
             const email = document.getElementById('loginEmail').value;
@@ -16,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             console.log("Login attempt:", email);
 
-            // ✅ Use imported `auth` for authentication
+            // Use Firebase Authentication to sign in
             signInWithEmailAndPassword(auth, email, password)
                 .then((userCredential) => {
                     console.log("Login successful");
@@ -33,7 +31,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // Check if user is logged in on protected pages
     const currentPath = window.location.pathname;
     const isLoggedIn = localStorage.getItem('ecosproutLoggedIn') === 'true';
-
     const protectedPages = ['/home', '/monitoring', '/reports', '/monitoring/baby-carrots', '/monitoring/radish', '/monitoring/lettuce'];
 
     if (protectedPages.some(page => currentPath.startsWith(page)) && !isLoggedIn) {
@@ -41,18 +38,15 @@ document.addEventListener('DOMContentLoaded', function() {
         window.location.href = '/';
     }
 
-    // Handle logout
+    // Handle logout button
     const logoutButton = document.querySelector('.nav-button');
     if (logoutButton && logoutButton.textContent.includes('Log Out')) {
-        logoutButton.addEventListener('click', function(e) {
+        logoutButton.addEventListener('click', function (e) {
             e.preventDefault();
             console.log("Logging out");
-
             signOut(auth).then(() => {
                 localStorage.removeItem('ecosproutLoggedIn');
                 window.location.href = '/';
-            }).catch((error) => {
-                console.error("Logout failed:", error);
             });
         });
     }

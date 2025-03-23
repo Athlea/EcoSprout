@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vY042fQzhQldfXTARGrMTx6shD7wbY4wx/QIWBnqQH8=",
+  "Hash": "XQOOyjj4AjEm0PWGnhcg/YEMhKFELyOENsxmt6lneTo=",
   "Source": "EcoSprout",
   "BasePath": "_content/EcoSprout",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-tnrmdehz7b.gz",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-c018zm9pew.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
-      "RelativePath": "JS/login#[.{fingerprint=tnrmdehz7b}]?.js.gz",
+      "RelativePath": "JS/login#[.{fingerprint=c018zm9pew}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,19 +31,19 @@
       "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\login.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "i316sub3la",
-      "Integrity": "Do/Ot9YK3scnUwlJFUQhI1AJaYfysAOli7nRYh2zPXQ=",
+      "Fingerprint": "8zuptsgig1",
+      "Integrity": "FBYJ4zpA0XAWgcYQie1+9xF+vigL9aP2faCxsjGHaF4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\login.js"
     },
     {
-      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-j1zk90lc6o.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
-      "RelativePath": "JS/site#[.{fingerprint=l4u88u84xu}]?.js.gz",
+      "RelativePath": "JS/site#[.{fingerprint=j1zk90lc6o}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,32 +52,11 @@
       "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "82fbt9attl",
-      "Integrity": "AAJ0sB50oqQKwtCf69yBJTCnkVk+xduwQKumIJFu2JU=",
+      "Fingerprint": "xd2try5j8v",
+      "Integrity": "q3sPqn8fv1SCeRC1jd9gQYx4gkQ0QlakGX6hSXbEg1M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\site.js"
-    },
-    {
-      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-68hj3lie0d.gz",
-      "SourceId": "EcoSprout",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/EcoSprout",
-      "RelativePath": "JS/monitoring#[.{fingerprint=68hj3lie0d}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\monitoring.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "hov5kx6vra",
-      "Integrity": "X/g0I8c4D0+3L5T1Et7qTCv2Qa2N4pxEN/plcnaMLfo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\monitoring.js"
     },
     {
       "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\3cygv4boiu-yeweu138dy.gz",
@@ -101,6 +80,69 @@
       "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\babycarrots.css"
     },
     {
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\6pr70s4l9v-6joohmdbc8.gz",
+      "SourceId": "EcoSprout",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/EcoSprout",
+      "RelativePath": "JS/radish_monitoring#[.{fingerprint=6joohmdbc8}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\radish_monitoring.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lju00o111k",
+      "Integrity": "X7VhkzKJlKjcHc4DA0AbsqOleTCLZW1bGzB3KnpNi/A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\radish_monitoring.js"
+    },
+    {
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\9eszwrz613-z34dkc1tfq.gz",
+      "SourceId": "EcoSprout",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/EcoSprout",
+      "RelativePath": "JS/bc_monitoring#[.{fingerprint=z34dkc1tfq}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\bc_monitoring.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "za7t694cza",
+      "Integrity": "xWv/zvWfw/76mraztIjnnd8Cw8xuMNHXtinPg7Rhv3I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\bc_monitoring.js"
+    },
+    {
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\a0ha4qlhfg-xhe87ypsxf.gz",
+      "SourceId": "EcoSprout",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/EcoSprout",
+      "RelativePath": "JS/lettuce_monitoring#[.{fingerprint=xhe87ypsxf}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\lettuce_monitoring.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "i8y4mtjtrn",
+      "Integrity": "rp8xVtJzSpCOiV8nUq142JeFS+LTEwBuyC79SmOKUno=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\lettuce_monitoring.js"
+    },
+    {
       "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\meuks61lt1-atmbwuq3vk.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
@@ -122,12 +164,12 @@
       "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\about.css"
     },
     {
-      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-6ffs7rygp4.gz",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-lr12eekx79.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
-      "RelativePath": "CSS/monitoring#[.{fingerprint=6ffs7rygp4}]?.css.gz",
+      "RelativePath": "CSS/monitoring#[.{fingerprint=lr12eekx79}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -136,19 +178,19 @@
       "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\monitoring.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "s92s8cm45b",
-      "Integrity": "gBKW1MGLNYMqWzd+n0+0xqExvyucM1l2zmZHsZk9FS0=",
+      "Fingerprint": "vj3qtekhtm",
+      "Integrity": "e0lDz4qX4korEhEMsCoUdix4t++ND/KpsablfAoBL9E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\monitoring.css"
     },
     {
-      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\qnt9cc1x4l-v6s85vjg8x.gz",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\qnt9cc1x4l-qyml6dbotj.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
-      "RelativePath": "JS/register#[.{fingerprint=v6s85vjg8x}]?.js.gz",
+      "RelativePath": "JS/register#[.{fingerprint=qyml6dbotj}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -157,8 +199,8 @@
       "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\register.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "m5035bheav",
-      "Integrity": "dhv7qtyrolTkAjz1B95hsBh9fsvlnMFS8b0S6xokn+w=",
+      "Fingerprint": "o542qrb0ox",
+      "Integrity": "jNc8z8+ptc1rFYnf7W8MI20E9pS9FBnNW20jLOsK+SI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\register.js"
@@ -227,12 +269,12 @@
       "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\landing.css"
     },
     {
-      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-38yctv4kg8.gz",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-um8jnaxf61.gz",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcoSprout",
-      "RelativePath": "JS/firebase#[.{fingerprint=38yctv4kg8}]?.js.gz",
+      "RelativePath": "JS/firebase#[.{fingerprint=um8jnaxf61}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -241,8 +283,8 @@
       "RelatedAsset": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\firebase.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "yy963j3wct",
-      "Integrity": "Bkm/kCSHqlaAb/T47LSoCLNCJX2SybINZY4mk3zhX0I=",
+      "Fingerprint": "inquge2urh",
+      "Integrity": "knWyr9DL4eCLD8h1XDtQkEl94Z0aCFJzstomTz/tcBU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\firebase.js"
@@ -367,8 +409,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6ffs7rygp4",
-      "Integrity": "EhDk1UPnr/AtHdS2P4qKZC7Aegn+db9Gyo/IOLM9CDo=",
+      "Fingerprint": "lr12eekx79",
+      "Integrity": "cbtrUM8QRq9uUjE4LeuPLptLPqtBOik9RzDUY00m72M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\CSS\\monitoring.css"
@@ -584,6 +626,27 @@
       "OriginalItemSpec": "wwwroot\\images\\ven.jpg"
     },
     {
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\bc_monitoring.js",
+      "SourceId": "EcoSprout",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
+      "BasePath": "_content/EcoSprout",
+      "RelativePath": "JS/bc_monitoring#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z34dkc1tfq",
+      "Integrity": "D+r8HfL4/SxNobvT/QD16Dyx53Uv1V4XPMSaiqiihwk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\JS\\bc_monitoring.js"
+    },
+    {
       "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\firebase.js",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
@@ -598,11 +661,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "38yctv4kg8",
-      "Integrity": "Q5FT+I+bcvgekSJxiojTLtvifCK0LdbHeg/DnkbvdC4=",
+      "Fingerprint": "um8jnaxf61",
+      "Integrity": "ip6519jXknuB7I8pvsygvAYzzMtberg7VwlNGhqYVnk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\firebase.js"
+    },
+    {
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\lettuce_monitoring.js",
+      "SourceId": "EcoSprout",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
+      "BasePath": "_content/EcoSprout",
+      "RelativePath": "JS/lettuce_monitoring#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xhe87ypsxf",
+      "Integrity": "m0UIoB5OKZKmzzdd8DkRjlbyv1m1b8tUh+Y1rlteOs8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\JS\\lettuce_monitoring.js"
     },
     {
       "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\login.js",
@@ -619,19 +703,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "tnrmdehz7b",
-      "Integrity": "d9X3rhOKTDew5D65+hZLXuuKveSLoHi6X+si/UWAgBM=",
+      "Fingerprint": "c018zm9pew",
+      "Integrity": "5F2ltUNh7+SAlXK9TZJjDoFpzp0HbH79rMGRRRHT228=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\login.js"
     },
     {
-      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\monitoring.js",
+      "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\radish_monitoring.js",
       "SourceId": "EcoSprout",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\",
       "BasePath": "_content/EcoSprout",
-      "RelativePath": "JS/monitoring#[.{fingerprint}]?.js",
+      "RelativePath": "JS/radish_monitoring#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -640,11 +724,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "68hj3lie0d",
-      "Integrity": "CiuLEdk5FCHjD0iPZHrhYxuYmzVV4DLrZsgDwfGoh4k=",
+      "Fingerprint": "6joohmdbc8",
+      "Integrity": "zhRU/R4sC8ScEzmGuUhCgULLDA8GM4kvQZ4Rv7j7PBs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\JS\\monitoring.js"
+      "OriginalItemSpec": "wwwroot\\JS\\radish_monitoring.js"
     },
     {
       "Identity": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\register.js",
@@ -661,8 +745,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "v6s85vjg8x",
-      "Integrity": "t3Fu3aWi+HoG/a00NjFwhSDpXGZlvdD5oaekn4E0Sk8=",
+      "Fingerprint": "qyml6dbotj",
+      "Integrity": "fs4XeJWZTDfbv2MmCAz42YYLIN7suPlSmjl1nAc6gcI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\register.js"
@@ -682,8 +766,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "l4u88u84xu",
-      "Integrity": "e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA=",
+      "Fingerprint": "j1zk90lc6o",
+      "Integrity": "Z+eCQD141g5dx3GelMF9+/1K07EgsR06l4sEYu3heGE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\site.js"
@@ -1883,13 +1967,13 @@
       ]
     },
     {
-      "Route": "CSS/monitoring.6ffs7rygp4.css",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-6ffs7rygp4.gz",
+      "Route": "CSS/monitoring.css",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-lr12eekx79.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000201857085"
+          "Quality": "0.000190912562"
         }
       ],
       "ResponseHeaders": [
@@ -1899,19 +1983,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4953"
+          "Value": "5237"
         },
         {
           "Name": "ETag",
-          "Value": "\"gBKW1MGLNYMqWzd+n0+0xqExvyucM1l2zmZHsZk9FS0=\""
+          "Value": "\"e0lDz4qX4korEhEMsCoUdix4t++ND/KpsablfAoBL9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 12:04:27 GMT"
+          "Value": "Thu, 13 Mar 2025 12:18:48 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -1927,26 +2011,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"EhDk1UPnr/AtHdS2P4qKZC7Aegn+db9Gyo/IOLM9CDo=\""
+          "Value": "W/\"cbtrUM8QRq9uUjE4LeuPLptLPqtBOik9RzDUY00m72M=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "6ffs7rygp4"
-        },
-        {
-          "Name": "label",
-          "Value": "CSS/monitoring.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-EhDk1UPnr/AtHdS2P4qKZC7Aegn+db9Gyo/IOLM9CDo="
+          "Value": "sha256-cbtrUM8QRq9uUjE4LeuPLptLPqtBOik9RzDUY00m72M="
         }
       ]
     },
     {
-      "Route": "CSS/monitoring.6ffs7rygp4.css",
+      "Route": "CSS/monitoring.css",
       "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\monitoring.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1956,7 +2032,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33016"
+          "Value": "34405"
         },
         {
           "Name": "Content-Type",
@@ -1964,11 +2040,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EhDk1UPnr/AtHdS2P4qKZC7Aegn+db9Gyo/IOLM9CDo=\""
+          "Value": "\"cbtrUM8QRq9uUjE4LeuPLptLPqtBOik9RzDUY00m72M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 12:04:27 GMT"
+          "Value": "Thu, 13 Mar 2025 12:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cbtrUM8QRq9uUjE4LeuPLptLPqtBOik9RzDUY00m72M="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/monitoring.css.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-lr12eekx79.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5237"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0lDz4qX4korEhEMsCoUdix4t++ND/KpsablfAoBL9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 12:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0lDz4qX4korEhEMsCoUdix4t++ND/KpsablfAoBL9E="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/monitoring.lr12eekx79.css",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-lr12eekx79.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000190912562"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5237"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0lDz4qX4korEhEMsCoUdix4t++ND/KpsablfAoBL9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 12:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cbtrUM8QRq9uUjE4LeuPLptLPqtBOik9RzDUY00m72M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lr12eekx79"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/monitoring.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cbtrUM8QRq9uUjE4LeuPLptLPqtBOik9RzDUY00m72M="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/monitoring.lr12eekx79.css",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\monitoring.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34405"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cbtrUM8QRq9uUjE4LeuPLptLPqtBOik9RzDUY00m72M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 12:18:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1978,7 +2199,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6ffs7rygp4"
+          "Value": "lr12eekx79"
         },
         {
           "Name": "label",
@@ -1986,13 +2207,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EhDk1UPnr/AtHdS2P4qKZC7Aegn+db9Gyo/IOLM9CDo="
+          "Value": "sha256-cbtrUM8QRq9uUjE4LeuPLptLPqtBOik9RzDUY00m72M="
         }
       ]
     },
     {
-      "Route": "CSS/monitoring.6ffs7rygp4.css.gz",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-6ffs7rygp4.gz",
+      "Route": "CSS/monitoring.lr12eekx79.css.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-lr12eekx79.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2001,7 +2222,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4953"
+          "Value": "5237"
         },
         {
           "Name": "Content-Type",
@@ -2009,11 +2230,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gBKW1MGLNYMqWzd+n0+0xqExvyucM1l2zmZHsZk9FS0=\""
+          "Value": "\"e0lDz4qX4korEhEMsCoUdix4t++ND/KpsablfAoBL9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 12:04:27 GMT"
+          "Value": "Thu, 13 Mar 2025 12:18:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2031,7 +2252,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6ffs7rygp4"
+          "Value": "lr12eekx79"
         },
         {
           "Name": "label",
@@ -2039,144 +2260,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gBKW1MGLNYMqWzd+n0+0xqExvyucM1l2zmZHsZk9FS0="
-        }
-      ]
-    },
-    {
-      "Route": "CSS/monitoring.css",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-6ffs7rygp4.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000201857085"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4953"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBKW1MGLNYMqWzd+n0+0xqExvyucM1l2zmZHsZk9FS0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 12:04:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"EhDk1UPnr/AtHdS2P4qKZC7Aegn+db9Gyo/IOLM9CDo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-EhDk1UPnr/AtHdS2P4qKZC7Aegn+db9Gyo/IOLM9CDo="
-        }
-      ]
-    },
-    {
-      "Route": "CSS/monitoring.css",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\CSS\\monitoring.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33016"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EhDk1UPnr/AtHdS2P4qKZC7Aegn+db9Gyo/IOLM9CDo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 12:04:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-EhDk1UPnr/AtHdS2P4qKZC7Aegn+db9Gyo/IOLM9CDo="
-        }
-      ]
-    },
-    {
-      "Route": "CSS/monitoring.css.gz",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\ora5dv3fne-6ffs7rygp4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4953"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBKW1MGLNYMqWzd+n0+0xqExvyucM1l2zmZHsZk9FS0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 12:04:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBKW1MGLNYMqWzd+n0+0xqExvyucM1l2zmZHsZk9FS0="
+          "Value": "sha256-e0lDz4qX4korEhEMsCoUdix4t++ND/KpsablfAoBL9E="
         }
       ]
     },
@@ -3433,13 +3517,13 @@
       ]
     },
     {
-      "Route": "JS/firebase.38yctv4kg8.js",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-38yctv4kg8.gz",
+      "Route": "JS/bc_monitoring.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\9eszwrz613-z34dkc1tfq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001686340641"
+          "Quality": "0.000587889477"
         }
       ],
       "ResponseHeaders": [
@@ -3449,15 +3533,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "592"
+          "Value": "1700"
         },
         {
           "Name": "ETag",
-          "Value": "\"Bkm/kCSHqlaAb/T47LSoCLNCJX2SybINZY4mk3zhX0I=\""
+          "Value": "\"xWv/zvWfw/76mraztIjnnd8Cw8xuMNHXtinPg7Rhv3I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:15:09 GMT"
+          "Value": "Sun, 23 Mar 2025 16:26:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"D+r8HfL4/SxNobvT/QD16Dyx53Uv1V4XPMSaiqiihwk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D+r8HfL4/SxNobvT/QD16Dyx53Uv1V4XPMSaiqiihwk="
+        }
+      ]
+    },
+    {
+      "Route": "JS/bc_monitoring.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\bc_monitoring.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D+r8HfL4/SxNobvT/QD16Dyx53Uv1V4XPMSaiqiihwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 16:26:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D+r8HfL4/SxNobvT/QD16Dyx53Uv1V4XPMSaiqiihwk="
+        }
+      ]
+    },
+    {
+      "Route": "JS/bc_monitoring.js.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\9eszwrz613-z34dkc1tfq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1700"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xWv/zvWfw/76mraztIjnnd8Cw8xuMNHXtinPg7Rhv3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 16:26:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xWv/zvWfw/76mraztIjnnd8Cw8xuMNHXtinPg7Rhv3I="
+        }
+      ]
+    },
+    {
+      "Route": "JS/bc_monitoring.z34dkc1tfq.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\9eszwrz613-z34dkc1tfq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000587889477"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1700"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xWv/zvWfw/76mraztIjnnd8Cw8xuMNHXtinPg7Rhv3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 16:26:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3477,26 +3698,179 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Q5FT+I+bcvgekSJxiojTLtvifCK0LdbHeg/DnkbvdC4=\""
+          "Value": "W/\"D+r8HfL4/SxNobvT/QD16Dyx53Uv1V4XPMSaiqiihwk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "38yctv4kg8"
+          "Value": "z34dkc1tfq"
         },
         {
           "Name": "label",
-          "Value": "JS/firebase.js"
+          "Value": "JS/bc_monitoring.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Q5FT+I+bcvgekSJxiojTLtvifCK0LdbHeg/DnkbvdC4="
+          "Value": "sha256-D+r8HfL4/SxNobvT/QD16Dyx53Uv1V4XPMSaiqiihwk="
         }
       ]
     },
     {
-      "Route": "JS/firebase.38yctv4kg8.js",
+      "Route": "JS/bc_monitoring.z34dkc1tfq.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\bc_monitoring.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D+r8HfL4/SxNobvT/QD16Dyx53Uv1V4XPMSaiqiihwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 16:26:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z34dkc1tfq"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/bc_monitoring.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D+r8HfL4/SxNobvT/QD16Dyx53Uv1V4XPMSaiqiihwk="
+        }
+      ]
+    },
+    {
+      "Route": "JS/bc_monitoring.z34dkc1tfq.js.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\9eszwrz613-z34dkc1tfq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1700"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xWv/zvWfw/76mraztIjnnd8Cw8xuMNHXtinPg7Rhv3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 16:26:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z34dkc1tfq"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/bc_monitoring.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xWv/zvWfw/76mraztIjnnd8Cw8xuMNHXtinPg7Rhv3I="
+        }
+      ]
+    },
+    {
+      "Route": "JS/firebase.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-um8jnaxf61.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001540832049"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "648"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"knWyr9DL4eCLD8h1XDtQkEl94Z0aCFJzstomTz/tcBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 16:20:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ip6519jXknuB7I8pvsygvAYzzMtberg7VwlNGhqYVnk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ip6519jXknuB7I8pvsygvAYzzMtberg7VwlNGhqYVnk="
+        }
+      ]
+    },
+    {
+      "Route": "JS/firebase.js",
       "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\firebase.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3506,7 +3880,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1177"
+          "Value": "1310"
         },
         {
           "Name": "Content-Type",
@@ -3514,11 +3888,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Q5FT+I+bcvgekSJxiojTLtvifCK0LdbHeg/DnkbvdC4=\""
+          "Value": "\"ip6519jXknuB7I8pvsygvAYzzMtberg7VwlNGhqYVnk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:15:09 GMT"
+          "Value": "Sun, 23 Mar 2025 16:20:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ip6519jXknuB7I8pvsygvAYzzMtberg7VwlNGhqYVnk="
+        }
+      ]
+    },
+    {
+      "Route": "JS/firebase.js.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-um8jnaxf61.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"knWyr9DL4eCLD8h1XDtQkEl94Z0aCFJzstomTz/tcBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 16:20:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-knWyr9DL4eCLD8h1XDtQkEl94Z0aCFJzstomTz/tcBU="
+        }
+      ]
+    },
+    {
+      "Route": "JS/firebase.um8jnaxf61.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-um8jnaxf61.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001540832049"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "648"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"knWyr9DL4eCLD8h1XDtQkEl94Z0aCFJzstomTz/tcBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 16:20:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ip6519jXknuB7I8pvsygvAYzzMtberg7VwlNGhqYVnk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "um8jnaxf61"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/firebase.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ip6519jXknuB7I8pvsygvAYzzMtberg7VwlNGhqYVnk="
+        }
+      ]
+    },
+    {
+      "Route": "JS/firebase.um8jnaxf61.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\firebase.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ip6519jXknuB7I8pvsygvAYzzMtberg7VwlNGhqYVnk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 16:20:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3528,7 +4047,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "38yctv4kg8"
+          "Value": "um8jnaxf61"
         },
         {
           "Name": "label",
@@ -3536,13 +4055,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Q5FT+I+bcvgekSJxiojTLtvifCK0LdbHeg/DnkbvdC4="
+          "Value": "sha256-ip6519jXknuB7I8pvsygvAYzzMtberg7VwlNGhqYVnk="
         }
       ]
     },
     {
-      "Route": "JS/firebase.38yctv4kg8.js.gz",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-38yctv4kg8.gz",
+      "Route": "JS/firebase.um8jnaxf61.js.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-um8jnaxf61.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3551,7 +4070,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "592"
+          "Value": "648"
         },
         {
           "Name": "Content-Type",
@@ -3559,11 +4078,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Bkm/kCSHqlaAb/T47LSoCLNCJX2SybINZY4mk3zhX0I=\""
+          "Value": "\"knWyr9DL4eCLD8h1XDtQkEl94Z0aCFJzstomTz/tcBU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:15:09 GMT"
+          "Value": "Sun, 23 Mar 2025 16:20:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3581,7 +4100,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "38yctv4kg8"
+          "Value": "um8jnaxf61"
         },
         {
           "Name": "label",
@@ -3589,18 +4108,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Bkm/kCSHqlaAb/T47LSoCLNCJX2SybINZY4mk3zhX0I="
+          "Value": "sha256-knWyr9DL4eCLD8h1XDtQkEl94Z0aCFJzstomTz/tcBU="
         }
       ]
     },
     {
-      "Route": "JS/firebase.js",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-38yctv4kg8.gz",
+      "Route": "JS/lettuce_monitoring.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\a0ha4qlhfg-xhe87ypsxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001686340641"
+          "Quality": "0.000585823081"
         }
       ],
       "ResponseHeaders": [
@@ -3610,15 +4129,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "592"
+          "Value": "1706"
         },
         {
           "Name": "ETag",
-          "Value": "\"Bkm/kCSHqlaAb/T47LSoCLNCJX2SybINZY4mk3zhX0I=\""
+          "Value": "\"rp8xVtJzSpCOiV8nUq142JeFS+LTEwBuyC79SmOKUno=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:15:09 GMT"
+          "Value": "Sun, 23 Mar 2025 17:17:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3638,19 +4157,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Q5FT+I+bcvgekSJxiojTLtvifCK0LdbHeg/DnkbvdC4=\""
+          "Value": "W/\"m0UIoB5OKZKmzzdd8DkRjlbyv1m1b8tUh+Y1rlteOs8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Q5FT+I+bcvgekSJxiojTLtvifCK0LdbHeg/DnkbvdC4="
+          "Value": "sha256-m0UIoB5OKZKmzzdd8DkRjlbyv1m1b8tUh+Y1rlteOs8="
         }
       ]
     },
     {
-      "Route": "JS/firebase.js",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\firebase.js",
+      "Route": "JS/lettuce_monitoring.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\lettuce_monitoring.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3659,7 +4178,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1177"
+          "Value": "7863"
         },
         {
           "Name": "Content-Type",
@@ -3667,11 +4186,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Q5FT+I+bcvgekSJxiojTLtvifCK0LdbHeg/DnkbvdC4=\""
+          "Value": "\"m0UIoB5OKZKmzzdd8DkRjlbyv1m1b8tUh+Y1rlteOs8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:15:09 GMT"
+          "Value": "Sun, 23 Mar 2025 17:17:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3681,13 +4200,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Q5FT+I+bcvgekSJxiojTLtvifCK0LdbHeg/DnkbvdC4="
+          "Value": "sha256-m0UIoB5OKZKmzzdd8DkRjlbyv1m1b8tUh+Y1rlteOs8="
         }
       ]
     },
     {
-      "Route": "JS/firebase.js.gz",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\yvjrtmfzmn-38yctv4kg8.gz",
+      "Route": "JS/lettuce_monitoring.js.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\a0ha4qlhfg-xhe87ypsxf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3696,7 +4215,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "592"
+          "Value": "1706"
         },
         {
           "Name": "Content-Type",
@@ -3704,11 +4223,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Bkm/kCSHqlaAb/T47LSoCLNCJX2SybINZY4mk3zhX0I=\""
+          "Value": "\"rp8xVtJzSpCOiV8nUq142JeFS+LTEwBuyC79SmOKUno=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:15:09 GMT"
+          "Value": "Sun, 23 Mar 2025 17:17:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3726,18 +4245,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Bkm/kCSHqlaAb/T47LSoCLNCJX2SybINZY4mk3zhX0I="
+          "Value": "sha256-rp8xVtJzSpCOiV8nUq142JeFS+LTEwBuyC79SmOKUno="
         }
       ]
     },
     {
-      "Route": "JS/login.js",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-tnrmdehz7b.gz",
+      "Route": "JS/lettuce_monitoring.xhe87ypsxf.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\a0ha4qlhfg-xhe87ypsxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001152073733"
+          "Quality": "0.000585823081"
         }
       ],
       "ResponseHeaders": [
@@ -3747,19 +4266,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "867"
+          "Value": "1706"
         },
         {
           "Name": "ETag",
-          "Value": "\"Do/Ot9YK3scnUwlJFUQhI1AJaYfysAOli7nRYh2zPXQ=\""
+          "Value": "\"rp8xVtJzSpCOiV8nUq142JeFS+LTEwBuyC79SmOKUno=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:15:30 GMT"
+          "Value": "Sun, 23 Mar 2025 17:17:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3775,18 +4294,187 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"d9X3rhOKTDew5D65+hZLXuuKveSLoHi6X+si/UWAgBM=\""
+          "Value": "W/\"m0UIoB5OKZKmzzdd8DkRjlbyv1m1b8tUh+Y1rlteOs8=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "xhe87ypsxf"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/lettuce_monitoring.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-d9X3rhOKTDew5D65+hZLXuuKveSLoHi6X+si/UWAgBM="
+          "Value": "sha256-m0UIoB5OKZKmzzdd8DkRjlbyv1m1b8tUh+Y1rlteOs8="
         }
       ]
     },
     {
-      "Route": "JS/login.js",
+      "Route": "JS/lettuce_monitoring.xhe87ypsxf.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\lettuce_monitoring.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m0UIoB5OKZKmzzdd8DkRjlbyv1m1b8tUh+Y1rlteOs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 17:17:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xhe87ypsxf"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/lettuce_monitoring.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m0UIoB5OKZKmzzdd8DkRjlbyv1m1b8tUh+Y1rlteOs8="
+        }
+      ]
+    },
+    {
+      "Route": "JS/lettuce_monitoring.xhe87ypsxf.js.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\a0ha4qlhfg-xhe87ypsxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rp8xVtJzSpCOiV8nUq142JeFS+LTEwBuyC79SmOKUno=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 17:17:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xhe87ypsxf"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/lettuce_monitoring.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rp8xVtJzSpCOiV8nUq142JeFS+LTEwBuyC79SmOKUno="
+        }
+      ]
+    },
+    {
+      "Route": "JS/login.c018zm9pew.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-c018zm9pew.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001262626263"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "791"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FBYJ4zpA0XAWgcYQie1+9xF+vigL9aP2faCxsjGHaF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 16:21:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5F2ltUNh7+SAlXK9TZJjDoFpzp0HbH79rMGRRRHT228=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c018zm9pew"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5F2ltUNh7+SAlXK9TZJjDoFpzp0HbH79rMGRRRHT228="
+        }
+      ]
+    },
+    {
+      "Route": "JS/login.c018zm9pew.js",
       "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\login.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3796,7 +4484,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2346"
+          "Value": "2150"
         },
         {
           "Name": "Content-Type",
@@ -3804,121 +4492,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"d9X3rhOKTDew5D65+hZLXuuKveSLoHi6X+si/UWAgBM=\""
+          "Value": "\"5F2ltUNh7+SAlXK9TZJjDoFpzp0HbH79rMGRRRHT228=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:15:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-d9X3rhOKTDew5D65+hZLXuuKveSLoHi6X+si/UWAgBM="
-        }
-      ]
-    },
-    {
-      "Route": "JS/login.js.gz",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-tnrmdehz7b.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "867"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Do/Ot9YK3scnUwlJFUQhI1AJaYfysAOli7nRYh2zPXQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:15:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Do/Ot9YK3scnUwlJFUQhI1AJaYfysAOli7nRYh2zPXQ="
-        }
-      ]
-    },
-    {
-      "Route": "JS/login.tnrmdehz7b.js",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-tnrmdehz7b.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001152073733"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "867"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Do/Ot9YK3scnUwlJFUQhI1AJaYfysAOli7nRYh2zPXQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:15:30 GMT"
+          "Value": "Sun, 23 Mar 2025 16:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"d9X3rhOKTDew5D65+hZLXuuKveSLoHi6X+si/UWAgBM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tnrmdehz7b"
+          "Value": "c018zm9pew"
         },
         {
           "Name": "label",
@@ -3926,13 +4514,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-d9X3rhOKTDew5D65+hZLXuuKveSLoHi6X+si/UWAgBM="
+          "Value": "sha256-5F2ltUNh7+SAlXK9TZJjDoFpzp0HbH79rMGRRRHT228="
         }
       ]
     },
     {
-      "Route": "JS/login.tnrmdehz7b.js",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\login.js",
+      "Route": "JS/login.c018zm9pew.js.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-c018zm9pew.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3941,7 +4529,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2346"
+          "Value": "791"
         },
         {
           "Name": "Content-Type",
@@ -3949,56 +4537,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"d9X3rhOKTDew5D65+hZLXuuKveSLoHi6X+si/UWAgBM=\""
+          "Value": "\"FBYJ4zpA0XAWgcYQie1+9xF+vigL9aP2faCxsjGHaF4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:15:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tnrmdehz7b"
-        },
-        {
-          "Name": "label",
-          "Value": "JS/login.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-d9X3rhOKTDew5D65+hZLXuuKveSLoHi6X+si/UWAgBM="
-        }
-      ]
-    },
-    {
-      "Route": "JS/login.tnrmdehz7b.js.gz",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-tnrmdehz7b.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "867"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Do/Ot9YK3scnUwlJFUQhI1AJaYfysAOli7nRYh2zPXQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:15:30 GMT"
+          "Value": "Sun, 23 Mar 2025 16:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4016,7 +4559,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tnrmdehz7b"
+          "Value": "c018zm9pew"
         },
         {
           "Name": "label",
@@ -4024,18 +4567,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Do/Ot9YK3scnUwlJFUQhI1AJaYfysAOli7nRYh2zPXQ="
+          "Value": "sha256-FBYJ4zpA0XAWgcYQie1+9xF+vigL9aP2faCxsjGHaF4="
         }
       ]
     },
     {
-      "Route": "JS/monitoring.68hj3lie0d.js",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-68hj3lie0d.gz",
+      "Route": "JS/login.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-c018zm9pew.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000730460190"
+          "Quality": "0.001262626263"
         }
       ],
       "ResponseHeaders": [
@@ -4045,19 +4588,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1368"
+          "Value": "791"
         },
         {
           "Name": "ETag",
-          "Value": "\"X/g0I8c4D0+3L5T1Et7qTCv2Qa2N4pxEN/plcnaMLfo=\""
+          "Value": "\"FBYJ4zpA0XAWgcYQie1+9xF+vigL9aP2faCxsjGHaF4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 08:40:47 GMT"
+          "Value": "Sun, 23 Mar 2025 16:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -4073,27 +4616,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CiuLEdk5FCHjD0iPZHrhYxuYmzVV4DLrZsgDwfGoh4k=\""
+          "Value": "W/\"5F2ltUNh7+SAlXK9TZJjDoFpzp0HbH79rMGRRRHT228=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "68hj3lie0d"
-        },
-        {
-          "Name": "label",
-          "Value": "JS/monitoring.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-CiuLEdk5FCHjD0iPZHrhYxuYmzVV4DLrZsgDwfGoh4k="
+          "Value": "sha256-5F2ltUNh7+SAlXK9TZJjDoFpzp0HbH79rMGRRRHT228="
         }
       ]
     },
     {
-      "Route": "JS/monitoring.68hj3lie0d.js",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\monitoring.js",
+      "Route": "JS/login.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\login.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4102,7 +4637,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5034"
+          "Value": "2150"
         },
         {
           "Name": "Content-Type",
@@ -4110,35 +4645,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CiuLEdk5FCHjD0iPZHrhYxuYmzVV4DLrZsgDwfGoh4k=\""
+          "Value": "\"5F2ltUNh7+SAlXK9TZJjDoFpzp0HbH79rMGRRRHT228=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 08:40:47 GMT"
+          "Value": "Sun, 23 Mar 2025 16:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "68hj3lie0d"
-        },
-        {
-          "Name": "label",
-          "Value": "JS/monitoring.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-CiuLEdk5FCHjD0iPZHrhYxuYmzVV4DLrZsgDwfGoh4k="
+          "Value": "sha256-5F2ltUNh7+SAlXK9TZJjDoFpzp0HbH79rMGRRRHT228="
         }
       ]
     },
     {
-      "Route": "JS/monitoring.68hj3lie0d.js.gz",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-68hj3lie0d.gz",
+      "Route": "JS/login.js.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\02f7sstjuc-c018zm9pew.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4147,7 +4674,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1368"
+          "Value": "791"
         },
         {
           "Name": "Content-Type",
@@ -4155,15 +4682,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"X/g0I8c4D0+3L5T1Et7qTCv2Qa2N4pxEN/plcnaMLfo=\""
+          "Value": "\"FBYJ4zpA0XAWgcYQie1+9xF+vigL9aP2faCxsjGHaF4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 08:40:47 GMT"
+          "Value": "Sun, 23 Mar 2025 16:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -4176,27 +4703,19 @@
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "68hj3lie0d"
-        },
-        {
-          "Name": "label",
-          "Value": "JS/monitoring.js.gz"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-X/g0I8c4D0+3L5T1Et7qTCv2Qa2N4pxEN/plcnaMLfo="
+          "Value": "sha256-FBYJ4zpA0XAWgcYQie1+9xF+vigL9aP2faCxsjGHaF4="
         }
       ]
     },
     {
-      "Route": "JS/monitoring.js",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-68hj3lie0d.gz",
+      "Route": "JS/radish_monitoring.6joohmdbc8.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\6pr70s4l9v-6joohmdbc8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000730460190"
+          "Quality": "0.000585823081"
         }
       ],
       "ResponseHeaders": [
@@ -4206,15 +4725,176 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1368"
+          "Value": "1706"
         },
         {
           "Name": "ETag",
-          "Value": "\"X/g0I8c4D0+3L5T1Et7qTCv2Qa2N4pxEN/plcnaMLfo=\""
+          "Value": "\"X7VhkzKJlKjcHc4DA0AbsqOleTCLZW1bGzB3KnpNi/A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 08:40:47 GMT"
+          "Value": "Sun, 23 Mar 2025 17:15:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zhRU/R4sC8ScEzmGuUhCgULLDA8GM4kvQZ4Rv7j7PBs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6joohmdbc8"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/radish_monitoring.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zhRU/R4sC8ScEzmGuUhCgULLDA8GM4kvQZ4Rv7j7PBs="
+        }
+      ]
+    },
+    {
+      "Route": "JS/radish_monitoring.6joohmdbc8.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\radish_monitoring.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zhRU/R4sC8ScEzmGuUhCgULLDA8GM4kvQZ4Rv7j7PBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 17:15:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6joohmdbc8"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/radish_monitoring.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zhRU/R4sC8ScEzmGuUhCgULLDA8GM4kvQZ4Rv7j7PBs="
+        }
+      ]
+    },
+    {
+      "Route": "JS/radish_monitoring.6joohmdbc8.js.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\6pr70s4l9v-6joohmdbc8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X7VhkzKJlKjcHc4DA0AbsqOleTCLZW1bGzB3KnpNi/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 17:15:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6joohmdbc8"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/radish_monitoring.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X7VhkzKJlKjcHc4DA0AbsqOleTCLZW1bGzB3KnpNi/A="
+        }
+      ]
+    },
+    {
+      "Route": "JS/radish_monitoring.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\6pr70s4l9v-6joohmdbc8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000585823081"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1706"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X7VhkzKJlKjcHc4DA0AbsqOleTCLZW1bGzB3KnpNi/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 17:15:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4234,19 +4914,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CiuLEdk5FCHjD0iPZHrhYxuYmzVV4DLrZsgDwfGoh4k=\""
+          "Value": "W/\"zhRU/R4sC8ScEzmGuUhCgULLDA8GM4kvQZ4Rv7j7PBs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CiuLEdk5FCHjD0iPZHrhYxuYmzVV4DLrZsgDwfGoh4k="
+          "Value": "sha256-zhRU/R4sC8ScEzmGuUhCgULLDA8GM4kvQZ4Rv7j7PBs="
         }
       ]
     },
     {
-      "Route": "JS/monitoring.js",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\monitoring.js",
+      "Route": "JS/radish_monitoring.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\radish_monitoring.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4255,7 +4935,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5034"
+          "Value": "7863"
         },
         {
           "Name": "Content-Type",
@@ -4263,11 +4943,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CiuLEdk5FCHjD0iPZHrhYxuYmzVV4DLrZsgDwfGoh4k=\""
+          "Value": "\"zhRU/R4sC8ScEzmGuUhCgULLDA8GM4kvQZ4Rv7j7PBs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 08:40:47 GMT"
+          "Value": "Sun, 23 Mar 2025 17:15:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4277,13 +4957,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CiuLEdk5FCHjD0iPZHrhYxuYmzVV4DLrZsgDwfGoh4k="
+          "Value": "sha256-zhRU/R4sC8ScEzmGuUhCgULLDA8GM4kvQZ4Rv7j7PBs="
         }
       ]
     },
     {
-      "Route": "JS/monitoring.js.gz",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1q2n3w21xg-68hj3lie0d.gz",
+      "Route": "JS/radish_monitoring.js.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\6pr70s4l9v-6joohmdbc8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4292,7 +4972,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1368"
+          "Value": "1706"
         },
         {
           "Name": "Content-Type",
@@ -4300,11 +4980,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"X/g0I8c4D0+3L5T1Et7qTCv2Qa2N4pxEN/plcnaMLfo=\""
+          "Value": "\"X7VhkzKJlKjcHc4DA0AbsqOleTCLZW1bGzB3KnpNi/A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 08:40:47 GMT"
+          "Value": "Sun, 23 Mar 2025 17:15:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4322,18 +5002,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-X/g0I8c4D0+3L5T1Et7qTCv2Qa2N4pxEN/plcnaMLfo="
+          "Value": "sha256-X7VhkzKJlKjcHc4DA0AbsqOleTCLZW1bGzB3KnpNi/A="
         }
       ]
     },
     {
       "Route": "JS/register.js",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\qnt9cc1x4l-v6s85vjg8x.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\qnt9cc1x4l-qyml6dbotj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001547987616"
+          "Quality": "0.001543209877"
         }
       ],
       "ResponseHeaders": [
@@ -4343,15 +5023,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "645"
+          "Value": "647"
         },
         {
           "Name": "ETag",
-          "Value": "\"dhv7qtyrolTkAjz1B95hsBh9fsvlnMFS8b0S6xokn+w=\""
+          "Value": "\"jNc8z8+ptc1rFYnf7W8MI20E9pS9FBnNW20jLOsK+SI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:08:19 GMT"
+          "Value": "Sun, 23 Mar 2025 15:16:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4371,13 +5051,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"t3Fu3aWi+HoG/a00NjFwhSDpXGZlvdD5oaekn4E0Sk8=\""
+          "Value": "W/\"fs4XeJWZTDfbv2MmCAz42YYLIN7suPlSmjl1nAc6gcI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-t3Fu3aWi+HoG/a00NjFwhSDpXGZlvdD5oaekn4E0Sk8="
+          "Value": "sha256-fs4XeJWZTDfbv2MmCAz42YYLIN7suPlSmjl1nAc6gcI="
         }
       ]
     },
@@ -4392,7 +5072,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1754"
+          "Value": "1756"
         },
         {
           "Name": "Content-Type",
@@ -4400,11 +5080,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t3Fu3aWi+HoG/a00NjFwhSDpXGZlvdD5oaekn4E0Sk8=\""
+          "Value": "\"fs4XeJWZTDfbv2MmCAz42YYLIN7suPlSmjl1nAc6gcI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:08:19 GMT"
+          "Value": "Sun, 23 Mar 2025 15:16:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4414,13 +5094,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-t3Fu3aWi+HoG/a00NjFwhSDpXGZlvdD5oaekn4E0Sk8="
+          "Value": "sha256-fs4XeJWZTDfbv2MmCAz42YYLIN7suPlSmjl1nAc6gcI="
         }
       ]
     },
     {
       "Route": "JS/register.js.gz",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\qnt9cc1x4l-v6s85vjg8x.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\qnt9cc1x4l-qyml6dbotj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4429,7 +5109,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "645"
+          "Value": "647"
         },
         {
           "Name": "Content-Type",
@@ -4437,11 +5117,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dhv7qtyrolTkAjz1B95hsBh9fsvlnMFS8b0S6xokn+w=\""
+          "Value": "\"jNc8z8+ptc1rFYnf7W8MI20E9pS9FBnNW20jLOsK+SI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:08:19 GMT"
+          "Value": "Sun, 23 Mar 2025 15:16:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4459,18 +5139,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dhv7qtyrolTkAjz1B95hsBh9fsvlnMFS8b0S6xokn+w="
+          "Value": "sha256-jNc8z8+ptc1rFYnf7W8MI20E9pS9FBnNW20jLOsK+SI="
         }
       ]
     },
     {
-      "Route": "JS/register.v6s85vjg8x.js",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\qnt9cc1x4l-v6s85vjg8x.gz",
+      "Route": "JS/register.qyml6dbotj.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\qnt9cc1x4l-qyml6dbotj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001547987616"
+          "Quality": "0.001543209877"
         }
       ],
       "ResponseHeaders": [
@@ -4480,15 +5160,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "645"
+          "Value": "647"
         },
         {
           "Name": "ETag",
-          "Value": "\"dhv7qtyrolTkAjz1B95hsBh9fsvlnMFS8b0S6xokn+w=\""
+          "Value": "\"jNc8z8+ptc1rFYnf7W8MI20E9pS9FBnNW20jLOsK+SI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:08:19 GMT"
+          "Value": "Sun, 23 Mar 2025 15:16:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4508,13 +5188,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"t3Fu3aWi+HoG/a00NjFwhSDpXGZlvdD5oaekn4E0Sk8=\""
+          "Value": "W/\"fs4XeJWZTDfbv2MmCAz42YYLIN7suPlSmjl1nAc6gcI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v6s85vjg8x"
+          "Value": "qyml6dbotj"
         },
         {
           "Name": "label",
@@ -4522,12 +5202,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-t3Fu3aWi+HoG/a00NjFwhSDpXGZlvdD5oaekn4E0Sk8="
+          "Value": "sha256-fs4XeJWZTDfbv2MmCAz42YYLIN7suPlSmjl1nAc6gcI="
         }
       ]
     },
     {
-      "Route": "JS/register.v6s85vjg8x.js",
+      "Route": "JS/register.qyml6dbotj.js",
       "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\register.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4537,7 +5217,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1754"
+          "Value": "1756"
         },
         {
           "Name": "Content-Type",
@@ -4545,11 +5225,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t3Fu3aWi+HoG/a00NjFwhSDpXGZlvdD5oaekn4E0Sk8=\""
+          "Value": "\"fs4XeJWZTDfbv2MmCAz42YYLIN7suPlSmjl1nAc6gcI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:08:19 GMT"
+          "Value": "Sun, 23 Mar 2025 15:16:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4559,7 +5239,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v6s85vjg8x"
+          "Value": "qyml6dbotj"
         },
         {
           "Name": "label",
@@ -4567,13 +5247,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-t3Fu3aWi+HoG/a00NjFwhSDpXGZlvdD5oaekn4E0Sk8="
+          "Value": "sha256-fs4XeJWZTDfbv2MmCAz42YYLIN7suPlSmjl1nAc6gcI="
         }
       ]
     },
     {
-      "Route": "JS/register.v6s85vjg8x.js.gz",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\qnt9cc1x4l-v6s85vjg8x.gz",
+      "Route": "JS/register.qyml6dbotj.js.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\qnt9cc1x4l-qyml6dbotj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4582,7 +5262,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "645"
+          "Value": "647"
         },
         {
           "Name": "Content-Type",
@@ -4590,11 +5270,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dhv7qtyrolTkAjz1B95hsBh9fsvlnMFS8b0S6xokn+w=\""
+          "Value": "\"jNc8z8+ptc1rFYnf7W8MI20E9pS9FBnNW20jLOsK+SI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:08:19 GMT"
+          "Value": "Sun, 23 Mar 2025 15:16:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4612,7 +5292,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v6s85vjg8x"
+          "Value": "qyml6dbotj"
         },
         {
           "Name": "label",
@@ -4620,18 +5300,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dhv7qtyrolTkAjz1B95hsBh9fsvlnMFS8b0S6xokn+w="
+          "Value": "sha256-jNc8z8+ptc1rFYnf7W8MI20E9pS9FBnNW20jLOsK+SI="
         }
       ]
     },
     {
-      "Route": "JS/site.js",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
+      "Route": "JS/site.j1zk90lc6o.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-j1zk90lc6o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000683060109"
+          "Quality": "0.000683994528"
         }
       ],
       "ResponseHeaders": [
@@ -4641,19 +5321,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1463"
+          "Value": "1461"
         },
         {
           "Name": "ETag",
-          "Value": "\"AAJ0sB50oqQKwtCf69yBJTCnkVk+xduwQKumIJFu2JU=\""
+          "Value": "\"q3sPqn8fv1SCeRC1jd9gQYx4gkQ0QlakGX6hSXbEg1M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
+          "Value": "Sun, 23 Mar 2025 16:15:34 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -4669,18 +5349,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA=\""
+          "Value": "W/\"Z+eCQD141g5dx3GelMF9+/1K07EgsR06l4sEYu3heGE=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "j1zk90lc6o"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/site.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA="
+          "Value": "sha256-Z+eCQD141g5dx3GelMF9+/1K07EgsR06l4sEYu3heGE="
         }
       ]
     },
     {
-      "Route": "JS/site.js",
+      "Route": "JS/site.j1zk90lc6o.js",
       "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4690,7 +5378,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5349"
+          "Value": "5099"
         },
         {
           "Name": "Content-Type",
@@ -4698,121 +5386,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA=\""
+          "Value": "\"Z+eCQD141g5dx3GelMF9+/1K07EgsR06l4sEYu3heGE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA="
-        }
-      ]
-    },
-    {
-      "Route": "JS/site.js.gz",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1463"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AAJ0sB50oqQKwtCf69yBJTCnkVk+xduwQKumIJFu2JU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-AAJ0sB50oqQKwtCf69yBJTCnkVk+xduwQKumIJFu2JU="
-        }
-      ]
-    },
-    {
-      "Route": "JS/site.l4u88u84xu.js",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000683060109"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1463"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AAJ0sB50oqQKwtCf69yBJTCnkVk+xduwQKumIJFu2JU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
+          "Value": "Sun, 23 Mar 2025 16:15:34 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "l4u88u84xu"
+          "Value": "j1zk90lc6o"
         },
         {
           "Name": "label",
@@ -4820,13 +5408,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA="
+          "Value": "sha256-Z+eCQD141g5dx3GelMF9+/1K07EgsR06l4sEYu3heGE="
         }
       ]
     },
     {
-      "Route": "JS/site.l4u88u84xu.js",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\site.js",
+      "Route": "JS/site.j1zk90lc6o.js.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-j1zk90lc6o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4835,7 +5423,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5349"
+          "Value": "1461"
         },
         {
           "Name": "Content-Type",
@@ -4843,56 +5431,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA=\""
+          "Value": "\"q3sPqn8fv1SCeRC1jd9gQYx4gkQ0QlakGX6hSXbEg1M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "l4u88u84xu"
-        },
-        {
-          "Name": "label",
-          "Value": "JS/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-e/UyLN6kgX74ECXrJz0AhFK+kTyBs9wF+CjZcgaquzA="
-        }
-      ]
-    },
-    {
-      "Route": "JS/site.l4u88u84xu.js.gz",
-      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-l4u88u84xu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1463"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AAJ0sB50oqQKwtCf69yBJTCnkVk+xduwQKumIJFu2JU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 03:06:12 GMT"
+          "Value": "Sun, 23 Mar 2025 16:15:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4910,7 +5453,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "l4u88u84xu"
+          "Value": "j1zk90lc6o"
         },
         {
           "Name": "label",
@@ -4918,7 +5461,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AAJ0sB50oqQKwtCf69yBJTCnkVk+xduwQKumIJFu2JU="
+          "Value": "sha256-q3sPqn8fv1SCeRC1jd9gQYx4gkQ0QlakGX6hSXbEg1M="
+        }
+      ]
+    },
+    {
+      "Route": "JS/site.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-j1zk90lc6o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000683994528"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1461"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q3sPqn8fv1SCeRC1jd9gQYx4gkQ0QlakGX6hSXbEg1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 16:15:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Z+eCQD141g5dx3GelMF9+/1K07EgsR06l4sEYu3heGE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z+eCQD141g5dx3GelMF9+/1K07EgsR06l4sEYu3heGE="
+        }
+      ]
+    },
+    {
+      "Route": "JS/site.js",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\wwwroot\\JS\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z+eCQD141g5dx3GelMF9+/1K07EgsR06l4sEYu3heGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 16:15:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z+eCQD141g5dx3GelMF9+/1K07EgsR06l4sEYu3heGE="
+        }
+      ]
+    },
+    {
+      "Route": "JS/site.js.gz",
+      "AssetFile": "C:\\Users\\Audrei\\OneDrive - Cebu Institute of Technology University\\Documents\\4TH YEAR - 2ND SEM\\thesis\\EcoSprout\\obj\\Debug\\net9.0\\compressed\\1p9r4ax2wr-j1zk90lc6o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q3sPqn8fv1SCeRC1jd9gQYx4gkQ0QlakGX6hSXbEg1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 16:15:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q3sPqn8fv1SCeRC1jd9gQYx4gkQ0QlakGX6hSXbEg1M="
         }
       ]
     }

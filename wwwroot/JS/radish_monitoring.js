@@ -106,43 +106,57 @@ document.addEventListener("DOMContentLoaded", function () {
         alert(`Manual watering scheduled on ${date} at ${time} for ${duration} minutes.`);
     });
  
-    function updateStatus(value, min, max, statusElement) {
-        if (value < min || value > max) {
-            statusElement.textContent = "Not Optimal";
-            statusElement.classList.remove("optimal");
-            statusElement.classList.add("not-optimal");
-        } else {
-            statusElement.textContent = "Optimal";
-            statusElement.classList.remove("not-optimal");
-            statusElement.classList.add("optimal");
+    function updateStatus(value, min, max, statusElement, type) {
+        if (type === "moisture") {
+            if (value < min) {
+                statusElement.textContent = "Too Dry";
+                statusElement.classList.remove("optimal", "critical");
+                statusElement.classList.add("warning");
+            } else if (value > max) {
+                statusElement.textContent = "Too Wet";
+                statusElement.classList.remove("optimal", "warning");
+                statusElement.classList.add("critical");
+            } else {
+                statusElement.textContent = "Optimal";
+                statusElement.classList.remove("warning", "crtical");
+                statusElement.classList.add("optimal");
+            }
+        } else if (type === "temperature") {
+            if (value < min) {
+                statusElement.textContent = "Too Hot";
+                statusElement.classList.remove("optimal", "warning");
+                statusElement.classList.add("warning");
+            } else if (value > max) {
+                statusElement.textContent = "Too Cold";
+                statusElement.classList.remove("optimal", "warning");
+                statusElement.classList.add("critical");
+            } else {
+                statusElement.textContent = "Optimal";
+                statusElement.classList.remove("warning", "crtical");
+                statusElement.classList.add("optimal");
+            }
         }
     }
  
     function fetchSensorData() {
         onValue(tempRef, (snapshot) => {
             if (snapshot.exists()) {
-                let temp = snapshot.val();
-                temp = Math.trunc(temp);
-                console.log("New Temperature:", temp);
+                let temp = Math.trunc(snapshot.val());
                 tempElement.textContent = `${temp}°C`;
-                updateStatus(temp, 20, 30, tempStatus);
-            } else {
-                console.warn("Temperature data not found in Firebase.");
+                updateStatus(temp, 20, 30, tempStatus, "temperature");
             }
         });
- 
+
         onValue(moistureRef, (snapshot) => {
             if (snapshot.exists()) {
                 const rawMoisture = snapshot.val();
                 const moisturePercentage = Math.round((rawMoisture * 99) / 1023 + 1);
-                console.log(`Raw Moisture: ${rawMoisture}, Converted: ${moisturePercentage}%`);
                 moistureElement.textContent = `${moisturePercentage}%`;
-                updateStatus(moisturePercentage, 41, 80, moistureStatus);
-            } else {
-                console.warn("Soil moisture data not found in Firebase.");
+                updateStatus(moisturePercentage, 41, 80, moistureStatus, "moisture");
             }
+
         });
- 
+        
         // ✅ Fetch Auto-Watering Status
         onValue(autoWaterRef.enabled, (snapshot) => {
             if (snapshot.exists()) {

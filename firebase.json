@@ -1,6 +1,45 @@
 {
   "hosting": {
     "public": "public",
-    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [
+      {
+        "source": "/",
+        "destination": "/index.html"
+      },
+      {
+        "source": "/about-us",
+        "destination": "/html/AboutUS.html"
+      },
+      {
+        "source": "/our-offers",
+        "destination": "/html/Offers.html"
+      },
+      {
+        "source": "/home",
+        "destination": "/html/Home.html"
+      },
+      {
+        "source": "/monitoring",
+        "destination": "/html/monitoring.html"
+      },
+      {
+        "source": "/monitoring/baby-carrots",
+        "destination": "/html/babycarrotsmonitoring.html"
+      },
+      {
+        "source": "/monitoring/lettuce",
+        "destination": "/html/lettucemonitoring.html"
+      },
+      {
+        "source": "/monitoring/radish",
+        "destination": "/html/radishmonitoring.html"
+      },
+      {
+        "source": "**",
+        "destination": "/404.html"
+      }
+    ]
   }
 }
+

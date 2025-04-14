@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home - EcoSprout</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/CSS/landing.css">
+    <link rel="stylesheet" href="/CSS/home.css">
+    <script type="module" src="/JS/firebase.js"></script>
+    <script type="module" src="/JS/login.js"></script>
+    <script type="module" src="/JS/site.js"></script>
+</head>
+<body>
+    <!-- Replaced @await Html.PartialAsync("_NavbarPartial") with the actual navbar HTML -->
+    <nav class="landing-nav">
+        <div class="nav-container">
+            <div class="logo">
+                <a href="/">EcoSprout</a>
+            </div>
+            <div class="nav-links" id="navLinks">
+                <a href="/html/Home.html" class="nav-item active">Dashboard</a>
+                <a href="/html/monitoring.html" class="nav-item">Monitoring</a>
+                <a href="#" class="nav-button" id="logoutBtn">Log Out</a>
+            </div>
+            <div class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <main class="home-main">
+        <h1>Welcome to EcoSprout Dashboard</h1>
+        
+        <div class="dashboard-cards">
+            <div class="dashboard-card" onclick="window.location.href='/html/monitoring.html'">
+                <div class="card-icon">
+                    <img src="/images/monitoring-icon.png" alt="Monitoring">
+                </div>
+                <h2>Monitoring</h2>
+                <p>
+                    Monitor real-time temperature and soil moisture levels for all your plants. 
+                    Get instant updates and ensure optimal growing conditions for your garden.
+                </p>
+                <button class="card-button">View Monitoring</button>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 EcoSprout - Smart Irrigation System</p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const mobileMenuToggle = document.getElementById('mobileMenuToggle');
+            const navLinks = document.getElementById('navLinks');
+            const logoutBtn = document.getElementById('logoutBtn');
+            
+            if (mobileMenuToggle && navLinks) {
+                mobileMenuToggle.addEventListener('click', function() {
+                    navLinks.classList.toggle('active');
+                });
+            }
+            
+            if (logoutBtn) {
+                logoutBtn.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    // Add your logout logic here
+                    // For example: firebase.auth().signOut().then(() => { window.location.href = '/'; });
+                    window.location.href = '/';
+                });
+            }
+        });
+    </script>
+</body>
+</html>
+

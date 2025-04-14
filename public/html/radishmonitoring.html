@@ -1,51 +1,49 @@
-@page "/monitoring/baby-carrots"
-@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
-@model EcoSprout.Pages.BabyCarrotsMonitoringModel
-@{
-    Layout = null;
-    ViewData["Title"] = "Baby Carrots Monitoring";
-}
- 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Baby Carrots Monitoring - EcoSprout</title>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/css/landing.css" asp-append-version="true" />
-    <link rel="stylesheet" href="/css/home.css" asp-append-version="true" />
-    <link rel="stylesheet" href="/css/monitoring.css" asp-append-version="true" />
-    <link rel="stylesheet" href="/css/babycarrots.css" asp-append-version="true" />
-    <script type="module" src="/js/firebase.js"></script>
-    <script type="module" src="/js/bc_monitoring.js"></script>
-    <script type="module" src="/js/login.js"></script>
-     <script type="module" src="/js/wateringHistory.js"></script>
+    <title>Radish Monitoring - EcoSprout</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/CSS/landing.css">
+    <link rel="stylesheet" href="/CSS/home.css">
+    <link rel="stylesheet" href="/CSS/monitoring.css">
+    <script type="module" src="/JS/firebase.js"></script>
+    <script type="module" src="/JS/radish_monitoring.js"></script>
+    <script type="module" src="/JS/login.js"></script>
 </head>
 <body>
+    <!-- Replaced @await Html.PartialAsync("_NavbarPartial") with the actual navbar HTML -->
     <nav class="landing-nav">
         <div class="nav-container">
             <div class="logo">
                 <a href="/">EcoSprout</a>
             </div>
-            <div class="nav-links">
-                <a href="/home" class="nav-item">Dashboard</a>
-                <a href="/monitoring" class="nav-item active">Monitoring</a>
-                <a href="#" class="nav-button">Log Out</a>
+            <div class="nav-links" id="navLinks">
+                <a href="/html/Home.html" class="nav-item">Dashboard</a>
+                <a href="/html/monitoring.html" class="nav-item active">Monitoring</a>
+                <a href="#" class="nav-button" id="logoutBtn">Log Out</a>
+            </div>
+            <div class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
             </div>
         </div>
     </nav>
- 
+
     <main class="plant-monitoring-main">
         <div class="plant-header">
             <div class="plant-image-large">
-                <img src="/images/carrot-sow-and-grow.jpg" alt="Baby Carrots">
+                <img src="/images/radish.jpg" alt="Radish">
             </div>
             <div class="plant-title">
-                <h1>Baby Carrots</h1>
+                <h1>Radish</h1>
                 <p class="plant-description">
-                    Baby carrots are sweet, crunchy root vegetables that are perfect for small gardens.
-                    They require consistent moisture and moderate temperatures for optimal growth.
+                    Radishes are fast-growing root vegetables that add a peppery crunch to salads.
+                    They prefer consistent moisture and can be harvested in as little as 3-4 weeks.
                 </p>
             </div>
         </div>
@@ -121,6 +119,38 @@
     <footer>
         <p>&copy; 2024 EcoSprout - Smart Irrigation System</p>
     </footer>
- 
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const mobileMenuToggle = document.getElementById('mobileMenuToggle');
+            const navLinks = document.getElementById('navLinks');
+            const autoWaterToggle = document.getElementById('autoWaterToggle');
+            const manualControls = document.querySelectorAll('#manualControls input, #manualControls button');
+            const logoutBtn = document.getElementById('logoutBtn');
+            
+            if (mobileMenuToggle && navLinks) {
+                mobileMenuToggle.addEventListener('click', function() {
+                    navLinks.classList.toggle('active');
+                });
+            }
+            
+            if (autoWaterToggle) {
+                autoWaterToggle.addEventListener('change', function() {
+                    manualControls.forEach(control => {
+                        control.disabled = this.checked;
+                    });
+                });
+            }
+            
+            if (logoutBtn) {
+                logoutBtn.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    // Add your logout logic here
+                    window.location.href = '/';
+                });
+            }
+        });
+    </script>
 </body>
 </html>
+

@@ -1,9 +1,3 @@
-@page "/monitoring"
-@model EcoSprout.Pages.MonitoringModel
-@{
-    Layout = null;
-}
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,11 +7,11 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/css/landing.css" asp-append-version="true" />
-    <link rel="stylesheet" href="/css/home.css" asp-append-version="true" />
-    <link rel="stylesheet" href="/css/monitoring.css" asp-append-version="true" />
-    <script src="/js/site.js" defer></script>
-    <script src="/js/login.js" defer></script>
+    <link rel="stylesheet" href="/CSS/landing.css">
+    <link rel="stylesheet" href="/CSS/home.css">
+    <link rel="stylesheet" href="/CSS/monitoring.css">
+    <script src="/JS/site.js" defer></script>
+    <script src="/JS/login.js" defer></script>
 </head>
 <body>
     <nav class="landing-nav">
@@ -31,9 +25,9 @@
                 <span></span>
             </div>
             <div class="nav-links" id="navLinks">
-                <a href="/home" class="nav-item">Dashboard</a>
-                <a href="/monitoring" class="nav-item active">Monitoring</a>
-                <a href="#" class="nav-button">Log Out</a>
+                <a href="/html/Home.html" class="nav-item">Dashboard</a>
+                <a href="/html/monitoring.html" class="nav-item active">Monitoring</a>
+                <a href="#" class="nav-button" id="logoutBtn">Log Out</a>
             </div>
         </div>
     </nav>
@@ -45,7 +39,7 @@
         </div>
         
         <div class="plant-cards">
-            <div class="plant-card" onclick="window.location.href='/monitoring/baby-carrots'">
+            <div class="plant-card" onclick="window.location.href='/html/babycarrotsmonitoring.html'">
                 <div class="plant-image">
                     <img src="/images/carrot-sow-and-grow.jpg" alt="Baby Carrots">
                 </div>
@@ -65,7 +59,7 @@
                 </div>
             </div>
             
-            <div class="plant-card" onclick="window.location.href='/monitoring/radish'">
+            <div class="plant-card" onclick="window.location.href='/html/radishmonitoring.html'">
                 <div class="plant-image">
                     <img src="/images/radishblog-lead_d3082c7e-3f90-46a1-aa4b-543f1472e867.jpg" alt="Radish">
                 </div>
@@ -85,7 +79,7 @@
                 </div>
             </div>
             
-            <div class="plant-card" onclick="window.location.href='/monitoring/lettuce'">
+            <div class="plant-card" onclick="window.location.href='/html/lettucemonitoring.html'">
                 <div class="plant-image">
                     <img src="/images/How-to-Grow-Lettuce-1-600x600.png" alt="Lettuce">
                 </div>
@@ -112,9 +106,27 @@
     </footer>
 
     <script>
-        document.getElementById('mobileMenuToggle').addEventListener('click', function() {
-            document.getElementById('navLinks').classList.toggle('active');
+        document.addEventListener('DOMContentLoaded', function() {
+            const mobileMenuToggle = document.getElementById('mobileMenuToggle');
+            const navLinks = document.getElementById('navLinks');
+            const logoutBtn = document.getElementById('logoutBtn');
+            
+            if (mobileMenuToggle && navLinks) {
+                mobileMenuToggle.addEventListener('click', function() {
+                    navLinks.classList.toggle('active');
+                });
+            }
+            
+            if (logoutBtn) {
+                logoutBtn.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    // Add your logout logic here
+                    // For example: firebase.auth().signOut().then(() => { window.location.href = '/'; });
+                    window.location.href = '/';
+                });
+            }
         });
     </script>
 </body>
-</html> 
+</html>
+

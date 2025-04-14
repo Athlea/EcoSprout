@@ -6,7 +6,6 @@
         <div class="nav-links" id="navLinks">
             <a href="/home" class="nav-item @(ViewContext.RouteData.Values["page"]?.ToString() == "/Home" ? "active" : "")">Dashboard</a>
             <a href="/monitoring" class="nav-item @(ViewContext.RouteData.Values["page"]?.ToString() == "/Monitoring" ? "active" : "")">Monitoring</a>
-            <a href="/reports" class="nav-item @(ViewContext.RouteData.Values["page"]?.ToString() == "/Reports" ? "active" : "")">Reports</a>
             <a href="#" class="nav-button">Log Out</a>
         </div>
         <div class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Toggle menu">

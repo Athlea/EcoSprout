@@ -282,8 +282,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>z34dkc1tfq</Fingerprint>
-      <Integrity>D+r8HfL4/SxNobvT/QD16Dyx53Uv1V4XPMSaiqiihwk=</Integrity>
+      <Fingerprint>gui7z3y93q</Fingerprint>
+      <Integrity>2FUOsw9XXTyOTVF6Twb8g5dMsTr2d1yG16y25zMwelQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\bc_monitoring.js'))</OriginalItemSpec>
@@ -318,8 +318,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xhe87ypsxf</Fingerprint>
-      <Integrity>m0UIoB5OKZKmzzdd8DkRjlbyv1m1b8tUh+Y1rlteOs8=</Integrity>
+      <Fingerprint>u48er3gw1f</Fingerprint>
+      <Integrity>rgdEmPr9e2tITvmXO8NA8lEv/9//Q7pB7laIGJQYo4c=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\lettuce_monitoring.js'))</OriginalItemSpec>
@@ -354,8 +354,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>6joohmdbc8</Fingerprint>
-      <Integrity>zhRU/R4sC8ScEzmGuUhCgULLDA8GM4kvQZ4Rv7j7PBs=</Integrity>
+      <Fingerprint>gjnlki5x6p</Fingerprint>
+      <Integrity>bBb711fvaBhMIr835/Bl3aqpMGplbnPGGrcu5pPTass=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\radish_monitoring.js'))</OriginalItemSpec>
@@ -395,6 +395,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\site.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\wateringHistory.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>EcoSprout</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EcoSprout</BasePath>
+      <RelativePath>JS/wateringHistory.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>gc3y7jlxyx</Fingerprint>
+      <Integrity>cGhOofgwqqdWFfg/bIGmlGJItlf2ykdIRkDINuahPPk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JS\wateringHistory.js'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>
